@@ -1,0 +1,1880 @@
+Dataset/train/Pneumonia/b8f18ef1-9d70-48a2-abd0-1944aaee8efc.jpg 192,487,418,733,0 607,418,848,621,0
+Dataset/train/Pneumonia/b4686a9f-c3a6-4cba-9400-b35ba566b74e.jpg 666,331,875,786,0 335,429,507,641,0
+Dataset/train/Pneumonia/bcaa0edc-16d6-44b7-b548-91ddf6ed5cec.jpg 250,119,452,692,0 599,178,801,769,0
+Dataset/train/Pneumonia/d77b519d-abb7-49d7-8bec-dedebe8f50d1.jpg 301,471,391,634,0
+Dataset/train/Pneumonia/e0af96b5-9e91-4cc7-84c7-a3d04d4c9405.jpg 740,304,986,653,0
+Dataset/train/Pneumonia/b165b941-4ec6-4f1b-9f03-2e908de24266.jpg 354,375,518,668,0 698,454,979,872,0
+Dataset/train/Pneumonia/ba1dd94b-afbe-4b09-a188-8ea1098d4848.jpg 538,348,709,497,0
+Dataset/train/Pneumonia/b37c8b1c-335f-446e-a93a-34bc910dbb7d.jpg 686,378,882,630,0 219,579,406,739,0
+Dataset/train/Pneumonia/e73ee4be-e4c4-48ce-8be6-52da5021b951.jpg 128,665,309,886,0 522,344,695,640,0
+Dataset/train/Pneumonia/d7131b83-ef4c-4a0a-b1a2-d09c163bda48.jpg 106,630,306,753,0
+Dataset/train/Pneumonia/b34524bc-e812-4067-a0e8-bd7185bfb814.jpg 207,152,497,755,0 672,207,929,777,0
+Dataset/train/Pneumonia/ba1e3912-82c7-4e15-9c46-46fbf780b2d9.jpg 185,380,428,534,0 610,403,842,551,0
+Dataset/train/Pneumonia/bccb1c1f-d429-4ed4-be42-808a75b635f9.jpg 655,473,832,743,0
+Dataset/train/Pneumonia/bdd8ef21-50b0-4243-b67f-95f3e197ae70.jpg 669,446,926,679,0 225,378,497,624,0
+Dataset/train/Pneumonia/e078fb2c-acf6-43bf-8cd0-540bbb460947.jpg 373,215,503,358,0
+Dataset/train/Pneumonia/b07a3786-2c97-4204-8fa3-4b303d4d655f.jpg 183,143,453,734,0 604,173,838,613,0
+Dataset/train/Pneumonia/bff6b953-95d1-4a08-9d79-c3b43fde59ce.jpg 346,567,500,779,0 743,380,855,601,0
+Dataset/train/Pneumonia/d6ec5711-f4f6-4548-8ea5-b002ecc19423.jpg 135,498,333,691,0
+Dataset/train/Pneumonia/eba80948-4a28-4909-9b2d-06a0175c830f.jpg 114,521,314,696,0
+Dataset/train/Pneumonia/eb91a618-122c-4de4-88ab-eb534c3ef4c5.jpg 555,300,768,870,0 165,289,408,852,0
+Dataset/train/Pneumonia/e6237a2c-514c-477b-8e79-727ebb9436a3.jpg 248,379,394,525,0
+Dataset/train/Pneumonia/d44baf74-599f-4e68-af21-2cf057336d0e.jpg 248,253,493,570,0
+Dataset/train/Pneumonia/b248af4f-3c62-418f-a55c-80ca6f73a9e1.jpg 207,661,338,923,0
+Dataset/train/Pneumonia/bd164f7a-a3a5-40d0-933c-0d623be3ad94.jpg 323,218,497,483,0
+Dataset/train/Pneumonia/bd5c5bfb-67de-4696-b4a9-c50ba34f0fbc.jpg 536,207,812,705,0 195,470,392,769,0
+Dataset/train/Pneumonia/fe83e190-f2d6-4998-9f82-b1ccd5bcb863.jpg 232,434,404,689,0
+Dataset/train/Pneumonia/bbdd8674-c782-4ac8-a20d-4baef4afa895.jpg 302,481,530,807,0 667,265,901,850,0
+Dataset/train/Pneumonia/ba30b9a4-bebd-4196-a972-e7178508b55e.jpg 148,497,396,621,0
+Dataset/train/Pneumonia/f16b2e43-66e6-4e8d-9879-63e5f0e36b48.jpg 205,508,448,641,0
+Dataset/train/Pneumonia/baf8fe18-a7ca-4e9c-b3dc-5c80d474545b.jpg 624,368,886,590,0
+Dataset/train/Pneumonia/f5926c42-623f-4a7d-9214-bf9f0964e9fd.jpg 132,730,343,829,0
+Dataset/train/Pneumonia/b70a7d7e-3e11-4a74-998f-67eabfa438df.jpg 305,460,450,632,0
+Dataset/train/Pneumonia/f12565af-43de-4bc9-9dba-a8a3e9c8331e.jpg 173,541,336,668,0
+Dataset/train/Pneumonia/bf4ba376-dfef-4d19-bbd6-923325b58eb1.jpg 640,594,878,796,0
+Dataset/train/Pneumonia/fd8de63f-e006-4e20-a937-9ecbde6e31e9.jpg 215,235,460,743,0 597,256,852,761,0
+Dataset/train/Pneumonia/d7ba9479-e67a-44dd-8a2b-8a6bea055e72.jpg 728,472,856,568,0
+Dataset/train/Pneumonia/efad4ebc-9579-4fdb-8850-0af216ec919b.jpg 159,233,364,772,0 670,673,873,806,0
+Dataset/train/Pneumonia/f34899e1-3927-4191-b50c-bec95808139c.jpg 604,356,753,555,0
+Dataset/train/Pneumonia/ba1065ce-267d-422f-aef5-6d04c04402d8.jpg 514,562,766,732,0
+Dataset/train/Pneumonia/f65e81f1-e1b5-43d0-8815-f9004343ac56.jpg 371,302,489,471,0
+Dataset/train/Pneumonia/c5f17998-8e5d-419e-87f9-800facb13fe1.jpg 569,306,792,611,0 305,166,518,519,0
+Dataset/train/Pneumonia/f7cc8800-27a2-4aca-b9d2-d07030ecbd7f.jpg 603,359,830,709,0 155,156,453,656,0
+Dataset/train/Pneumonia/c07f52df-d481-434f-84c1-04263926ac40.jpg 627,177,808,526,0 234,214,441,685,0
+Dataset/train/Pneumonia/c0270fb3-b81a-4728-b66a-867ce7afc2af.jpg 286,334,403,510,0
+Dataset/train/Pneumonia/e7f182ac-e84e-4e0a-89f9-be61ea3c66c2.jpg 278,538,461,595,0
+Dataset/train/Pneumonia/c21fd129-8438-42d2-9a6c-1284fecb4338.jpg 603,396,778,761,0 150,483,394,781,0
+Dataset/train/Pneumonia/f8b2aff8-bcb0-4a58-a3e6-7c52e2334032.jpg 646,287,834,657,0 293,319,491,657,0
+Dataset/train/Pneumonia/e6ec8809-e44d-4802-9386-8f5ec351f03f.jpg 596,253,678,400,0
+Dataset/train/Pneumonia/c21d91c2-1444-4398-a5f7-4044d8e7f75c.jpg 75,126,293,533,0 525,251,645,445,0
+Dataset/train/Pneumonia/b4299b1e-7fb8-479d-8754-0a8fa6463400.jpg 601,235,985,703,0 86,232,467,691,0
+Dataset/train/Pneumonia/b154363c-2aa3-4f9d-a0f3-99e32ca63289.jpg 589,153,722,338,0 216,688,397,806,0
+Dataset/train/Pneumonia/db1fc476-1976-42f3-b442-1e37fcf45044.jpg 294,497,440,648,0
+Dataset/train/Pneumonia/bf6071e6-0a92-4896-83bf-f0f24cd1b4d6.jpg 600,481,792,770,0
+Dataset/train/Pneumonia/db4c7637-7784-4031-b983-4692715525c5.jpg 243,492,359,677,0
+Dataset/train/Pneumonia/bdb97b05-a8f7-4cdc-852f-f5398582eeb8.jpg 177,520,442,728,0 668,569,903,823,0
+Dataset/train/Pneumonia/df0f59ce-d11a-488d-a51c-bd9105e592f6.jpg 174,416,382,604,0 661,384,822,659,0
+Dataset/train/Pneumonia/ee3cfbb1-1dd2-463a-886f-3033dccbc645.jpg 188,375,323,504,0
+Dataset/train/Pneumonia/b804f8cc-64b3-4a06-8929-7f12138fc625.jpg 112,235,362,758,0 490,248,725,782,0
+Dataset/train/Pneumonia/bc3874a9-9bcc-4156-ad10-b3ba0ec3d370.jpg 211,338,438,742,0 549,312,819,751,0
+Dataset/train/Pneumonia/bf7225ea-722d-483c-8fd6-3118966ca7b1.jpg 203,512,417,661,0
+Dataset/train/Pneumonia/bd42c8a5-759f-4633-9559-41bd46e6ccc7.jpg 631,471,886,815,0 152,496,408,778,0
+Dataset/train/Pneumonia/eab6d0b6-1bba-4c26-a208-507c54d14016.jpg 85,382,349,698,0 577,422,783,726,0
+Dataset/train/Pneumonia/b085cc58-d5b4-4fb7-9879-565c0e8c1198.jpg 561,179,756,682,0 77,116,370,684,0
+Dataset/train/Pneumonia/ef21f886-1959-463c-845c-bc55181a19f5.jpg 275,393,457,641,0
+Dataset/train/Pneumonia/eba26223-cd3f-4b8b-a4b8-3ebc3922da4f.jpg 278,157,457,514,0 634,221,788,580,0
+Dataset/train/Pneumonia/f638a33c-ee3e-4179-a095-4fec05ab51e5.jpg 244,220,466,640,0 593,214,816,683,0
+Dataset/train/Pneumonia/ed38283d-165f-481b-bbb3-5532450b82c1.jpg 599,220,766,405,0 246,596,462,800,0
+Dataset/train/Pneumonia/c9ed35c2-1563-47e5-9411-b34f2e9f36ca.jpg 158,469,437,633,0
+Dataset/train/Pneumonia/fbbd0b3f-2305-450b-950f-0f88754ebd94.jpg 251,286,449,559,0
+Dataset/train/Pneumonia/c30dc668-2110-4948-8b5c-ccf2af187953.jpg 307,316,522,697,0 677,535,877,945,0
+Dataset/train/Pneumonia/f454d325-7967-4c13-ab5f-139dc0f1ecbf.jpg 623,570,801,750,0
+Dataset/train/Pneumonia/b05766ae-c0d4-4e29-855b-1112c7ae956e.jpg 559,316,795,620,0
+Dataset/train/Pneumonia/e2e0accf-73b4-4cc4-bc85-2066f1fa4762.jpg 290,523,439,757,0
+Dataset/train/Pneumonia/b3e97d1d-0b1b-42c0-9a5a-52222414ff10.jpg 239,294,449,827,0 572,314,784,885,0
+Dataset/train/Pneumonia/bca65bc9-adf1-402b-96b8-cfe195b7969d.jpg 517,307,699,590,0 165,321,353,547,0
+Dataset/train/Pneumonia/e1a10525-e325-40e1-8709-2a9bcf7ad290.jpg 199,452,398,643,0
+Dataset/train/Pneumonia/e09d1d80-ae35-426e-870f-56421e61c48c.jpg 679,324,850,532,0 343,293,493,468,0
+Dataset/train/Pneumonia/c8f8c1af-28f3-420d-85d6-9501a8002097.jpg 321,408,562,768,0
+Dataset/train/Pneumonia/d5d7c95e-0682-4b93-bf0b-5dff2fa91a92.jpg 215,221,403,474,0 594,256,824,432,0
+Dataset/train/Pneumonia/c95a1770-d740-4f50-b4a6-8e4a53ff9767.jpg 530,487,780,679,0
+Dataset/train/Pneumonia/d112ae38-3ba8-45e4-b3ca-19316b3cf787.jpg 517,272,789,614,0 253,230,474,630,0
+Dataset/train/Pneumonia/c89e8310-dc56-4606-ba30-126e1f5f13f5.jpg 105,403,385,601,0
+Dataset/train/Pneumonia/eadbf3c9-f034-4b29-9a46-b90a16978a2a.jpg 615,457,812,760,0
+Dataset/train/Pneumonia/cdea8561-a7e5-4c37-8814-2e2251d31ee0.jpg 575,379,814,670,0
+Dataset/train/Pneumonia/bfbbedfe-0ab1-42bd-ac7f-e67b2a8e842a.jpg 479,667,745,916,0 72,686,289,891,0
+Dataset/train/Pneumonia/f5257a21-9efd-491f-94da-5cbce76d8f95.jpg 576,413,793,830,0 51,586,289,781,0
+Dataset/train/Pneumonia/eb17c134-0bf7-472a-96df-9253e86ceaa2.jpg 215,507,350,637,0
+Dataset/train/Pneumonia/bfd60c29-4ac3-4bc1-be29-579a65a843cd.jpg 189,449,462,891,0 692,447,908,899,0
+Dataset/train/Pneumonia/f3d51616-15d7-419c-acae-90413b7fdcae.jpg 535,351,783,788,0 121,359,352,745,0
+Dataset/train/Pneumonia/fa2492de-0260-45e3-9491-a0eaed9658a0.jpg 660,275,869,612,0 168,302,405,587,0
+Dataset/train/Pneumonia/e4f130d7-0a85-4d4d-a989-936db8cbf598.jpg 154,628,284,784,0
+Dataset/train/Pneumonia/e89dadae-bdbf-4f2e-a4a1-d2d56abf0d48.jpg 696,360,839,610,0
+Dataset/train/Pneumonia/b957974c-211b-4f52-86d3-25d18825dfa3.jpg 670,138,958,340,0
+Dataset/train/Pneumonia/e678a93a-0519-420a-9b4b-4f9ae4e0a006.jpg 100,460,220,687,0
+Dataset/train/Pneumonia/b2314db2-44f7-4fea-9a4a-a0d22f518ac6.jpg 673,425,857,843,0 301,487,491,792,0 373,147,522,326,0
+Dataset/train/Pneumonia/b8a2e49e-c1fc-4a78-96dd-0ee4f835eaaa.jpg 588,75,857,783,0 205,75,478,650,0
+Dataset/train/Pneumonia/b021293c-4dd0-450c-b1a4-2d72cedab0a2.jpg 99,623,317,855,0 549,561,822,859,0
+Dataset/train/Pneumonia/b7ad09f7-fe23-4f2a-bf41-d2c6dcdc4a06.jpg 631,440,810,842,0 279,436,406,609,0
+Dataset/train/Pneumonia/b8eef91b-bbe7-443c-9e05-b756108d7344.jpg 590,433,875,624,0 199,579,371,748,0
+Dataset/train/Pneumonia/c21d6e3f-a2c5-409b-88f0-8b4c82398d3a.jpg 751,662,950,842,0
+Dataset/train/Pneumonia/b9cd73cb-2dfc-4c9b-9ea0-61c0d0b10a87.jpg 571,350,800,869,0 194,325,454,857,0
+Dataset/train/Pneumonia/b58fa5f2-5bc2-4ce9-ab9b-cb9c80199fc7.jpg 620,276,804,506,0 251,635,442,783,0
+Dataset/train/Pneumonia/c574a647-fb1f-4344-9568-892f4d66f4ed.jpg 586,556,903,942,0
+Dataset/train/Pneumonia/f146bd0b-415f-45eb-b0c5-16d34a47c486.jpg 667,398,841,713,0
+Dataset/train/Pneumonia/f854d6cf-8297-4894-80fe-90f9a11d0cb0.jpg 600,551,768,790,0
+Dataset/train/Pneumonia/bce09fde-2765-4fe5-ac6f-1e5966a43882.jpg 557,304,756,683,0 215,177,435,819,0
+Dataset/train/Pneumonia/bb9b14e9-2345-404d-a310-1cb5b2ac80ca.jpg 720,155,991,649,0 271,208,486,713,0
+Dataset/train/Pneumonia/ea5c8b30-582c-471c-afd3-f569f52d5baa.jpg 256,451,378,533,0
+Dataset/train/Pneumonia/e80e5db4-c456-4223-8947-426efff27057.jpg 508,345,668,532,0 275,383,407,554,0
+Dataset/train/Pneumonia/fbab1671-b256-4cc5-9219-79fb47ef75c5.jpg 684,354,853,564,0
+Dataset/train/Pneumonia/c1ffc793-0e31-4396-a0fc-6f7f6cccb28b.jpg 290,274,441,568,0 717,273,850,612,0
+Dataset/train/Pneumonia/c8761847-7fbd-4de5-9a2a-ff2c1b26c95e.jpg 212,308,390,625,0 436,258,643,629,0
+Dataset/train/Pneumonia/d585321b-d6a9-4a7a-ac36-c95234f61cd2.jpg 191,444,421,725,0
+Dataset/train/Pneumonia/b801d37a-f85e-46c2-afc5-f1d52f6dd51b.jpg 654,624,855,771,0
+Dataset/train/Pneumonia/ff33da14-0bd6-4fe4-9675-ef704bc33b84.jpg 600,263,798,831,0 131,497,314,742,0
+Dataset/train/Pneumonia/e260b5f7-5cce-41bd-a63b-baef4cdfd3bb.jpg 681,246,821,682,0 291,224,444,657,0
+Dataset/train/Pneumonia/db0018a5-7d08-4723-ac31-884bbb52910b.jpg 662,335,897,631,0
+Dataset/train/Pneumonia/b6f02ca4-bbfe-4728-a2a3-74ec9c55b281.jpg 581,369,852,885,0 215,365,497,827,0
+Dataset/train/Pneumonia/d20a1a10-d569-42f7-90e9-882f7331e3ff.jpg 181,602,480,800,0
+Dataset/train/Pneumonia/e15fca95-ebf1-4b48-b94d-aa5b702369b5.jpg 275,531,459,802,0
+Dataset/train/Pneumonia/b51c3c24-f9aa-4039-9fc1-527a5567dff6.jpg 187,430,299,572,0 634,746,775,897,0
+Dataset/train/Pneumonia/b75c6c0c-b9da-4d7d-a968-c1fb92ee5327.jpg 485,348,695,734,0 88,325,329,738,0
+Dataset/train/Pneumonia/c28f7725-70a7-4b55-953a-44d28ecdd4fb.jpg 589,379,770,566,0
+Dataset/train/Pneumonia/b1243623-70de-4b30-884c-775a3edd978e.jpg 63,584,281,851,0 501,550,788,912,0
+Dataset/train/Pneumonia/cbbd4c12-de6e-4bf4-b782-0b46ca63d645.jpg 156,387,427,632,0
+Dataset/train/Pneumonia/b6ebfc38-240b-4fac-ad09-ab378414fb55.jpg 237,639,500,836,0 665,631,882,785,0
+Dataset/train/Pneumonia/e18e7bf5-70c3-42f2-82b7-380943d96fb0.jpg 637,464,783,869,0 108,517,304,792,0
+Dataset/train/Pneumonia/e1eb1f53-a6e1-461d-96bc-ca7fd48b8836.jpg 226,434,377,752,0
+Dataset/train/Pneumonia/dbafd69b-c2d5-44f5-a3f2-6c347ce377d2.jpg 270,156,473,530,0
+Dataset/train/Pneumonia/f0678ab1-7a59-46b9-ba2c-def9ad6b8d22.jpg 277,569,424,751,0
+Dataset/train/Pneumonia/fc1fd5c7-a3cb-4073-96e2-71bd0ebd698c.jpg 205,217,408,487,0
+Dataset/train/Pneumonia/de5d15a5-7c00-45b0-a783-71f5184b84a4.jpg 153,471,339,724,0 619,594,790,757,0
+Dataset/train/Pneumonia/bf02deef-f65f-41ac-a126-48a4740e161e.jpg 635,312,808,568,0 317,295,461,549,0
+Dataset/train/Pneumonia/d0c1a7c7-028e-4410-b8fe-2afcce2102d0.jpg 478,167,806,606,0 171,234,467,546,0
+Dataset/train/Pneumonia/bf1da0dc-850f-47e9-aad9-a5a94d6e67bd.jpg 275,436,435,671,0 637,329,795,755,0
+Dataset/train/Pneumonia/c252072c-c7c9-40a8-819b-5c7952d10bf2.jpg 604,534,774,793,0 267,247,468,517,0 631,267,778,468,0
+Dataset/train/Pneumonia/da31f911-ffdc-4348-90a5-cbdccd644e67.jpg 646,282,776,545,0
+Dataset/train/Pneumonia/b7136f3f-41da-4b16-b7c3-4b929d81e6a5.jpg 208,355,411,785,0
+Dataset/train/Pneumonia/e09dbb79-cdc9-44a1-9547-6f5969a170dc.jpg 153,233,283,431,0
+Dataset/train/Pneumonia/baf2a126-f441-4566-9b85-59c1f2cdaf96.jpg 184,347,394,507,0
+Dataset/train/Pneumonia/c1273696-fdec-48a9-988c-74e57b6323fa.jpg 673,253,856,575,0
+Dataset/train/Pneumonia/b5c3e1a0-d4ba-413f-b571-809ee8aedf19.jpg 236,511,460,921,0 600,436,847,937,0
+Dataset/train/Pneumonia/b1976cfc-3bae-4bae-a968-4892e6f953ca.jpg 643,233,865,621,0 168,203,440,845,0
+Dataset/train/Pneumonia/bdfea255-f9dc-4694-b0fe-d699aec5b10e.jpg 591,190,740,469,0
+Dataset/train/Pneumonia/f9cddf36-c6d7-4936-87b3-e307a77dbbf2.jpg 148,420,345,645,0
+Dataset/train/Pneumonia/cf8c70d8-1d3d-4cc6-b5bf-63713862da0c.jpg 499,177,830,603,0 144,227,437,547,0
+Dataset/train/Pneumonia/cb815f3a-5014-4bbe-9e34-828149ba9f6e.jpg 568,259,792,676,0 237,310,469,666,0
+Dataset/train/Pneumonia/eec6148f-5a8e-48e0-967f-3f59f14c562f.jpg 552,253,747,638,0
+Dataset/train/Pneumonia/b19a9422-a790-4a43-b59f-65a3bf0f16be.jpg 284,534,429,746,0 589,507,868,678,0 610,262,724,368,0
+Dataset/train/Pneumonia/bb4074e6-6327-44cd-b356-9ad42342e076.jpg 238,535,488,826,0 647,539,882,876,0
+Dataset/train/Pneumonia/fd43dbd5-4dcb-4b62-ae2a-e991a703b48d.jpg 152,276,364,658,0
+Dataset/train/Pneumonia/b73ed36a-96ce-4124-b9cd-a74d883e9bfd.jpg 143,170,388,615,0 538,227,760,458,0
+Dataset/train/Pneumonia/b858e525-59a0-4e31-a893-6698f934c5cd.jpg 232,380,446,793,0 616,310,872,824,0
+Dataset/train/Pneumonia/d5d46405-ff85-46fa-9c3b-2c21ad366f76.jpg 709,534,805,599,0
+Dataset/train/Pneumonia/b482e039-2679-4fd9-886a-b0fea2cba242.jpg 654,335,848,647,0
+Dataset/train/Pneumonia/b99b5a9a-d2cc-4e46-a419-cc7f1006dedd.jpg 248,395,452,625,0
+Dataset/train/Pneumonia/ef503977-63a8-4fcf-9019-78e8e70511f3.jpg 186,686,374,837,0
+Dataset/train/Pneumonia/bc98df56-4ee4-48a7-b8ad-d54f814cc806.jpg 73,151,360,666,0 486,348,693,768,0
+Dataset/train/Pneumonia/b29dcdc8-57c8-443a-a69c-615fa7dc9973.jpg 174,592,394,722,0 603,484,828,741,0
+Dataset/train/Pneumonia/e0227184-955d-4bfd-8eeb-0bc0b2a21a66.jpg 740,572,891,695,0
+Dataset/train/Pneumonia/b892d98e-84ae-4ca8-9996-fc0006cf0d2f.jpg 246,406,437,618,0
+Dataset/train/Pneumonia/dd400306-5e55-42d5-8177-673d1e207600.jpg 292,469,468,780,0
+Dataset/train/Pneumonia/b8131ece-c783-4814-9ce7-c0edfc2c9c64.jpg 229,511,373,627,0
+Dataset/train/Pneumonia/bf294753-f056-49b4-9aab-a486265a98bb.jpg 649,291,743,459,0 217,392,447,669,0
+Dataset/train/Pneumonia/dbea4851-d8c8-435f-834d-b0895ab0475b.jpg 633,199,844,507,0
+Dataset/train/Pneumonia/b3ffee84-ce9e-43e5-879a-86fef0e875a2.jpg 600,624,814,783,0 255,573,390,701,0
+Dataset/train/Pneumonia/b3dd5571-cf7a-4538-bb22-12ab1d62cc90.jpg 325,521,476,653,0
+Dataset/train/Pneumonia/be53e067-4804-4ffa-9fb7-d7855ad3bf62.jpg 584,236,824,573,0 256,272,466,615,0
+Dataset/train/Pneumonia/b3e2ba43-87f4-4137-b21b-b9d6e853e9c2.jpg 132,260,398,722,0 556,290,849,739,0
+Dataset/train/Pneumonia/e0a1ffef-682a-4d15-a232-46439d4e4d9c.jpg 273,433,441,556,0
+Dataset/train/Pneumonia/e48a77e5-d627-41c2-b82d-30677644e885.jpg 243,372,423,593,0 557,306,781,539,0
+Dataset/train/Pneumonia/bd9d41e6-9e2b-4db5-9cbe-21d32f185421.jpg 240,89,477,765,0 643,139,931,769,0
+Dataset/train/Pneumonia/c3a6ca22-c09b-4be0-a59d-e52718fbb645.jpg 117,270,394,732,0 549,246,848,729,0
+Dataset/train/Pneumonia/baac5ed4-b582-4c80-bd2d-acb97c52806e.jpg 295,93,534,714,0 675,134,895,777,0
+Dataset/train/Pneumonia/e79c364c-a4a4-4201-b5fc-4b46701b5cf4.jpg 151,512,267,712,0
+Dataset/train/Pneumonia/ef605eca-af37-4409-9043-6ff34392fee5.jpg 184,539,352,717,0 568,393,746,830,0
+Dataset/train/Pneumonia/c98eb387-08eb-4a10-ad95-007e8c52c7bc.jpg 620,445,823,614,0
+Dataset/train/Pneumonia/f736efcc-ac9e-4f00-9e27-03add80f6f63.jpg 606,403,765,721,0 225,303,383,641,0
+Dataset/train/Pneumonia/c4acd677-ae5e-4b23-b888-2e8e2e1c3996.jpg 216,149,434,617,0 556,168,770,671,0
+Dataset/train/Pneumonia/ebad82a7-09e7-404e-9467-31303b3967a6.jpg 201,489,382,664,0 615,173,807,624,0
+Dataset/train/Pneumonia/b9db0f75-18af-49e4-b547-71e0d302c4aa.jpg 541,24,803,515,0 181,98,428,576,0
+Dataset/train/Pneumonia/f01d3d16-5d6e-4551-8c89-2c0bd9188c2f.jpg 702,457,865,558,0
+Dataset/train/Pneumonia/c2565641-00af-46a3-8328-4d9c8f319446.jpg 654,238,956,671,0
+Dataset/train/Pneumonia/baec024d-a216-40bf-a988-bd229ae5cec6.jpg 589,626,850,808,0 138,605,382,779,0
+Dataset/train/Pneumonia/f530bed2-b5bf-4240-892d-ced0140d1a8e.jpg 184,480,381,665,0
+Dataset/train/Pneumonia/c2882932-904e-4691-b3fd-0fcdaed98dc8.jpg 265,482,449,764,0 698,347,889,849,0
+Dataset/train/Pneumonia/e17e53a5-916f-40c8-9c9c-dcc01031aa46.jpg 314,92,498,367,0 241,445,434,631,0 677,339,866,537,0
+Dataset/train/Pneumonia/e5274cde-aaaa-4851-b306-a9293e8222ec.jpg 284,257,450,601,0
+Dataset/train/Pneumonia/b992d796-9416-4270-af33-f251ab52e07b.jpg 187,96,392,544,0
+Dataset/train/Pneumonia/c2b612b7-72d6-4224-87d1-2e55e4ba905a.jpg 633,190,790,489,0 177,344,413,818,0 616,690,784,870,0
+Dataset/train/Pneumonia/f9883384-de94-4687-8c57-69d2e4a37c82.jpg 274,404,480,700,0
+Dataset/train/Pneumonia/d50e7c06-768f-4943-8e00-392d664fe580.jpg 187,259,465,691,0
+Dataset/train/Pneumonia/d173cb76-6a90-471e-bb22-dbe16573ce6c.jpg 146,466,391,654,0
+Dataset/train/Pneumonia/b950ffe8-3423-46ea-b4dc-14064fa60587.jpg 636,412,782,657,0 292,146,426,539,0
+Dataset/train/Pneumonia/e2afc0f1-dd1f-4de6-8e82-8cb89e1d7463.jpg 335,600,508,865,0 714,472,890,709,0
+Dataset/train/Pneumonia/bac6c0e9-9e87-4d76-92a6-e9b0b11983e9.jpg 631,429,839,980,0 123,304,484,777,0
+Dataset/train/Pneumonia/bd8f8b0b-a89b-42f5-b92c-c0a152c6c1f2.jpg 232,662,507,942,0
+Dataset/train/Pneumonia/ded94391-8388-4a59-8e28-5c24729fe636.jpg 179,652,384,790,0
+Dataset/train/Pneumonia/bb189459-2735-44c6-a344-a645a9721dfb.jpg 212,514,484,803,0 611,464,876,790,0
+Dataset/train/Pneumonia/cf1ea4a8-9530-4ddf-969d-c5570838ae11.jpg 607,307,875,724,0 238,215,483,619,0
+Dataset/train/Pneumonia/e32be4a8-2f2c-436a-8a3c-e4e424fad060.jpg 349,511,482,692,0
+Dataset/train/Pneumonia/bf1103d5-18c7-4578-9ad2-a7e279d9a6a3.jpg 519,206,694,567,0 231,171,422,556,0
+Dataset/train/Pneumonia/e17bacff-85d3-47b3-b2cb-2a3e123a6912.jpg 216,240,402,427,0
+Dataset/train/Pneumonia/e2efa725-693d-46a1-9abc-545ea633794c.jpg 201,523,360,649,0
+Dataset/train/Pneumonia/e063b161-8c89-4324-92df-d99acbe65aa2.jpg 203,664,406,850,0
+Dataset/train/Pneumonia/e1297bf9-390d-4d7e-b902-4b02005a0d4f.jpg 200,527,349,620,0
+Dataset/train/Pneumonia/ba0cb1e8-7198-4465-9498-1a650c0a6402.jpg 256,525,417,668,0 624,422,785,666,0
+Dataset/train/Pneumonia/b7fd3d35-e5a4-484c-9f2a-83a72cb88d2b.jpg 154,187,389,635,0 544,166,826,735,0
+Dataset/train/Pneumonia/d9245b95-1261-4dd6-88a8-2c9a69578b0e.jpg 659,322,822,585,0 213,259,381,660,0
+Dataset/train/Pneumonia/fdfce1ff-203e-4b23-a360-3803558a7f7a.jpg 625,466,811,656,0
+Dataset/train/Pneumonia/bfe40d11-6e72-4ccd-9fd4-5534402fdabf.jpg 530,154,802,592,0 234,169,417,589,0
+Dataset/train/Pneumonia/bce1a9aa-127b-4535-9e96-d1ca41d72e0c.jpg 300,228,536,814,0 634,240,891,850,0
+Dataset/train/Pneumonia/b9a05d0d-8f3f-40db-8114-c3fd1a4792b0.jpg 583,445,717,617,0
+Dataset/train/Pneumonia/d967c678-30f0-48b4-9563-167e746e972d.jpg 259,481,409,651,0
+Dataset/train/Pneumonia/b89ae0ff-5e01-482f-9c6d-6468d734ef02.jpg 153,550,348,745,0 554,551,774,797,0
+Dataset/train/Pneumonia/bbdf6d54-a58a-40f7-b7fa-8f3eaf22e414.jpg 114,251,424,500,0
+Dataset/train/Pneumonia/b8962707-6434-48dd-bd1c-5ba0164a3a22.jpg 587,208,857,947,0
+Dataset/train/Pneumonia/ee820aa5-4804-4984-97b3-f0a71d69702f.jpg 605,228,759,451,0 634,569,827,744,0 211,238,378,473,0 168,611,326,728,0
+Dataset/train/Pneumonia/f4ed7de6-fcbb-425f-9a20-9ef2dda05d78.jpg 278,421,399,596,0
+Dataset/train/Pneumonia/b87a09c7-b7fa-4869-b7aa-0b2a395a4215.jpg 709,313,960,819,0 261,393,494,751,0
+Dataset/train/Pneumonia/dc1813b1-0576-4560-95ab-fd4a2b509823.jpg 218,477,404,816,0
+Dataset/train/Pneumonia/bbc0b0fa-940d-41c5-8f97-e7c2da468d97.jpg 581,157,714,512,0 248,164,403,389,0
+Dataset/train/Pneumonia/ef8cb906-acdc-44ac-bb8d-05f17b86c3b3.jpg 222,359,340,488,0
+Dataset/train/Pneumonia/f9a3c734-1483-4385-ab4f-e45853f3f00e.jpg 682,445,877,618,0 214,502,415,695,0
+Dataset/train/Pneumonia/fa68dbe4-1da4-48f3-b88d-bc0f8a6d0af9.jpg 210,620,389,712,0
+Dataset/train/Pneumonia/b84112a1-ffcd-4897-baa1-652f4e460287.jpg 232,325,443,744,0 577,310,797,802,0
+Dataset/train/Pneumonia/c8aa0068-f21c-442c-9487-afbea7b126a3.jpg 322,368,513,580,0
+Dataset/train/Pneumonia/d1a0f88c-35bd-4d9d-8b5e-c2641761cb05.jpg 163,207,443,665,0
+Dataset/train/Pneumonia/d59c097e-726a-415f-961b-803b10aa43ed.jpg 249,494,415,577,0
+Dataset/train/Pneumonia/b829458e-0a00-4d7f-9b19-0efd59f2cd7a.jpg 61,358,332,713,0
+Dataset/train/Pneumonia/c236d6e2-1fca-40c5-a0fe-a91ff60883c9.jpg 212,185,413,706,0 543,162,774,747,0
+Dataset/train/Pneumonia/cb4a1fca-136c-4577-bcef-d934c9f14f2c.jpg 742,196,1013,714,0 373,162,658,711,0
+Dataset/train/Pneumonia/d0d8cd7e-2abe-4f56-a9d9-938262605fee.jpg 613,406,896,733,0 236,410,504,764,0
+Dataset/train/Pneumonia/b77669dd-8554-4531-9903-9719747fdb63.jpg 127,344,367,982,0 498,330,802,988,0
+Dataset/train/Pneumonia/c69a011e-1c12-4866-96f3-8a692ff2763f.jpg 599,542,794,633,0
+Dataset/train/Pneumonia/d5555a76-3191-4a05-a1d9-3e11f4c8d045.jpg 233,204,453,714,0 554,193,839,773,0
+Dataset/train/Pneumonia/b434200b-248e-4aa3-aeff-b0c9351a65fc.jpg 644,356,992,704,0 120,484,447,699,0
+Dataset/train/Pneumonia/cbc33adf-8a86-4c11-9c8c-ad657ce3afff.jpg 175,630,426,896,0
+Dataset/train/Pneumonia/b180a83e-0a9f-4ce6-9b9b-adf28f7420b8.jpg 723,534,906,712,0 317,587,423,745,0
+Dataset/train/Pneumonia/d6195cb9-e8c5-488a-b406-a43e2ec44af8.jpg 265,529,368,765,0
+Dataset/train/Pneumonia/f11abf44-b267-458c-ae67-e1167124f5e3.jpg 275,281,428,502,0 182,643,445,827,0
+Dataset/train/Pneumonia/c2a5f77c-517d-4987-84e3-0338ad29704e.jpg 635,651,727,792,0
+Dataset/train/Pneumonia/b38cc4d8-f90d-4052-843b-675a43417c82.jpg 636,410,875,661,0 228,410,489,636,0
+Dataset/train/Pneumonia/f5dda7ca-c53f-47f8-8a10-08a1e31794c9.jpg 789,234,937,489,0 348,252,560,541,0
+Dataset/train/Pneumonia/c48ee568-69ac-49f0-92c4-36129b1414b1.jpg 594,309,927,862,0 154,420,433,778,0
+Dataset/train/Pneumonia/c3eca37d-a537-49d8-9711-94d86157ac8b.jpg 354,239,552,712,0 684,185,899,705,0
+Dataset/train/Pneumonia/b99dd9a2-7611-4752-a972-11a231a1deaf.jpg 626,216,866,751,0 264,177,463,703,0
+Dataset/train/Pneumonia/bbcafe04-651f-4c43-bd9c-c94d51900478.jpg 211,512,411,746,0 492,338,677,669,0
+Dataset/train/Pneumonia/c391591b-0083-4063-a485-69b0c7e02ebe.jpg 196,387,396,574,0 584,300,763,476,0
+Dataset/train/Pneumonia/d7ccc813-9dab-48c3-bf30-c6d305c85a4a.jpg 247,458,418,767,0 609,279,794,678,0
+Dataset/train/Pneumonia/e5bff349-8b02-4c62-8c64-b32344fa690c.jpg 666,96,799,238,0 138,123,369,301,0
+Dataset/train/Pneumonia/df976027-3267-46e9-8833-9f5f50534969.jpg 573,166,768,357,0
+Dataset/train/Pneumonia/b23184fc-0e6e-4802-a451-da82e2ac6e9a.jpg 276,178,394,356,0 541,222,678,390,0
+Dataset/train/Pneumonia/e56de97f-aac0-4a7c-8ddd-f861cae269f1.jpg 311,455,449,715,0
+Dataset/train/Pneumonia/fbea2dbf-3828-4b0b-a8cf-e1a1e513851b.jpg 610,326,835,658,0 70,628,331,844,0
+Dataset/train/Pneumonia/bc6dbf80-6754-4d9e-8bd8-2c225594cf7c.jpg 226,385,396,579,0
+Dataset/train/Pneumonia/b6e7d1aa-74ca-4fc1-b268-415b9e4954ce.jpg 551,194,770,486,0 195,217,412,621,0
+Dataset/train/Pneumonia/cb601b71-9d46-4db3-8b4d-061874787669.jpg 220,235,413,669,0
+Dataset/train/Pneumonia/c42f4515-1bf2-4f63-a815-fa2e5bd45016.jpg 88,236,374,745,0 404,234,702,757,0
+Dataset/train/Pneumonia/df13cd6b-0b39-40ee-811c-9df848963965.jpg 203,430,461,590,0
+Dataset/train/Pneumonia/e7f67f50-2929-431f-a9fc-adc24518a87a.jpg 329,579,423,745,0
+Dataset/train/Pneumonia/e6e93d3a-571d-4c1c-9c62-cbb043d9cc49.jpg 602,345,836,595,0
+Dataset/train/Pneumonia/beaee8dc-2b30-41c5-b646-b6f602b965a7.jpg 192,310,398,646,0 548,351,765,603,0
+Dataset/train/Pneumonia/ba38bcd7-f0bd-4ebf-9f5e-c63c8cb612c6.jpg 232,477,451,815,0
+Dataset/train/Pneumonia/c3751c94-ea6f-4a7c-b3bf-87a54012fa80.jpg 637,623,903,856,0 121,588,386,830,0
+Dataset/train/Pneumonia/c1f7889a-9ea9-4acb-b64c-b737c929599a.jpg 570,393,831,738,0 233,424,434,780,0
+Dataset/train/Pneumonia/c2d24770-1698-4506-83d1-94e5ca8dbfc8.jpg 592,500,808,718,0
+Dataset/train/Pneumonia/be653a8a-5978-48b3-9101-91e35a15e6d2.jpg 228,630,459,845,0 651,516,832,727,0
+Dataset/train/Pneumonia/c7c66f99-3440-42a6-9d7e-3f66b1f6481a.jpg 360,376,517,741,0
+Dataset/train/Pneumonia/fb06bc98-4c80-4b67-94d2-b9e20e168f3c.jpg 589,391,774,794,0 202,333,432,739,0
+Dataset/train/Pneumonia/be27354e-3de7-4420-ae86-05fcc2e9218d.jpg 546,526,826,738,0 160,575,419,818,0
+Dataset/train/Pneumonia/bfbf1dcd-242c-4f22-8ef3-f72c8295535f.jpg 598,531,866,732,0 91,489,422,731,0
+Dataset/train/Pneumonia/ca8b395d-7ca0-4dc4-8b56-ff519b4edb89.jpg 507,152,813,750,0 154,131,431,747,0
+Dataset/train/Pneumonia/ec885fc7-04cc-47a5-b971-11ef284c229f.jpg 191,244,363,415,0 588,304,810,738,0 138,443,319,683,0
+Dataset/train/Pneumonia/dbc5db8f-3ec9-4906-8afe-2969e096b6a6.jpg 552,448,773,719,0
+Dataset/train/Pneumonia/c7ccf0d3-c18a-4b89-acdd-9a106d6d882f.jpg 459,644,583,843,0
+Dataset/train/Pneumonia/b58e15a4-085f-4d55-91e6-7d219ff570b5.jpg 576,257,792,611,0 164,396,357,709,0
+Dataset/train/Pneumonia/f6c2c26b-7d88-4709-a874-e85c65358c3f.jpg 308,182,515,652,0 651,198,850,705,0
+Dataset/train/Pneumonia/ba8319df-f8e3-45cc-95a5-68f9d0624bf5.jpg 395,491,557,737,0 656,503,854,776,0
+Dataset/train/Pneumonia/ba14ae2e-3d32-4c84-8784-6452ae1adc23.jpg 557,173,828,813,0 136,163,417,802,0
+Dataset/train/Pneumonia/d62307ce-2535-4c0e-b7f1-5369cb77b461.jpg 542,496,720,664,0
+Dataset/train/Pneumonia/e56a1755-f942-4585-bdb3-297f3f78fafc.jpg 544,505,700,674,0
+Dataset/train/Pneumonia/edfab0d2-53e7-4124-846b-ab531dd2ce80.jpg 729,347,909,900,0 313,316,543,831,0
+Dataset/train/Pneumonia/d5be0945-b546-4640-b0a0-d2dd209122e8.jpg 178,469,363,582,0 654,409,779,587,0
+Dataset/train/Pneumonia/b12bfc4b-6127-4291-bf50-e1c8750d7a19.jpg 160,98,379,700,0 512,107,716,503,0
+Dataset/train/Pneumonia/c7b46935-439f-47fb-8c7b-10d8079c2cda.jpg 622,425,843,761,0 233,507,437,743,0
+Dataset/train/Pneumonia/c44a8316-9b90-49e6-ab36-8db213312a4e.jpg 126,420,420,718,0 641,438,916,720,0
+Dataset/train/Pneumonia/b415c445-79c8-485e-9612-cc12b2772bfc.jpg 317,287,529,559,0
+Dataset/train/Pneumonia/d57f327a-a211-4e95-9bf9-0c190c9ae0ab.jpg 298,620,511,726,0
+Dataset/train/Pneumonia/b329ead1-3d20-43af-b0d9-bc4e98ec2239.jpg 649,355,896,825,0 275,375,509,851,0
+Dataset/train/Pneumonia/b47eb868-a03a-48d2-91ad-ba8112b7015c.jpg 204,274,451,609,0 586,232,774,479,0
+Dataset/train/Pneumonia/cf1fc4a2-aa47-4662-9118-9da725a17e84.jpg 572,240,849,695,0 158,349,492,766,0
+Dataset/train/Pneumonia/be4073e5-f1ef-4259-b7a4-8c379844cbaa.jpg 586,554,866,872,0 137,589,365,851,0
+Dataset/train/Pneumonia/bf3d7cc5-cde5-494f-ab8f-e33660767f18.jpg 667,85,979,767,0 274,92,456,615,0
+Dataset/train/Pneumonia/dad6c631-7bff-4bcf-bdbe-a91a9be2ac01.jpg 151,413,386,606,0
+Dataset/train/Pneumonia/b839c760-a39d-4d15-8c87-ab2ea5f572c6.jpg 657,383,818,566,0 129,521,344,754,0
+Dataset/train/Pneumonia/b171964f-e911-42a4-a1ec-e57128258011.jpg 507,476,726,951,0 52,105,374,847,0
+Dataset/train/Pneumonia/c47fa422-bd5e-43c5-b62d-771edcb4c617.jpg 536,176,795,671,0 161,153,437,681,0
+Dataset/train/Pneumonia/bfba9c94-6a70-4e72-856b-7e585331f5d7.jpg 327,491,523,711,0
+Dataset/train/Pneumonia/ba278d92-c5ff-44f4-b1b8-7d3454df7e54.jpg 253,398,462,612,0 650,148,875,618,0
+Dataset/train/Pneumonia/bda64685-d0c5-4f57-920b-4fa3eaa9bc6b.jpg 182,358,397,534,0 571,292,794,574,0
+Dataset/train/Pneumonia/f7a172fc-a34f-4155-806d-7b0afe2a6156.jpg 175,419,393,731,0 648,381,843,729,0
+Dataset/train/Pneumonia/bca2c151-2431-4595-80c7-75480a196c6e.jpg 328,415,457,641,0
+Dataset/train/Pneumonia/cf951660-886d-482d-99bf-2bdaedd5f4fd.jpg 266,279,565,772,0 599,306,924,765,0
+Dataset/train/Pneumonia/f5b9e64c-e373-4ccb-806c-850c5a38dad6.jpg 705,556,872,803,0
+Dataset/train/Pneumonia/ce8e0d85-44a8-4b05-b421-cc5c510aa7a5.jpg 504,236,766,700,0 201,247,476,683,0
+Dataset/train/Pneumonia/ba66a843-4afd-473a-82a6-7cc80bb74757.jpg 180,364,410,718,0
+Dataset/train/Pneumonia/c2dd9e3d-9cc4-46c8-9109-0c438b2f7f1a.jpg 666,389,916,776,0
+Dataset/train/Pneumonia/bfe41d70-219e-478e-85ba-9c8226b572f4.jpg 187,356,438,699,0 599,372,771,681,0
+Dataset/train/Pneumonia/de8339e8-3f7d-43af-9ca5-9c783d6642db.jpg 221,426,427,647,0
+Dataset/train/Pneumonia/d8d319c8-394a-4d6f-9a96-ff94d3ab2e06.jpg 250,134,455,553,0
+Dataset/train/Pneumonia/fef7b294-017c-4491-9e57-119086855785.jpg 121,612,302,777,0
+Dataset/train/Pneumonia/e8659775-8a7f-40c1-a3a9-abdc85ba4fd4.jpg 180,477,328,725,0
+Dataset/train/Pneumonia/e03b2ae0-a0a7-41d8-a6b1-dac421515a27.jpg 136,669,337,822,0
+Dataset/train/Pneumonia/fea6191a-f4d4-4cc6-8bf7-5e81bd097209.jpg 236,322,396,712,0
+Dataset/train/Pneumonia/e37f89d4-3cdd-41af-8a07-3238b93230ce.jpg 192,481,332,591,0
+Dataset/train/Pneumonia/ea3d1dcb-9222-4e66-b7e6-a45e78bd339e.jpg 330,292,481,516,0
+Dataset/train/Pneumonia/dc9f5cb0-72b4-466f-a3a7-9e15fbdc16d5.jpg 90,347,378,761,0 569,525,812,778,0
+Dataset/train/Pneumonia/fcd159f4-21d3-4169-a94b-95a2b5ccddcb.jpg 659,409,889,716,0 178,435,410,745,0
+Dataset/train/Pneumonia/be27131b-ca91-4ba0-bf1c-7b6f9f57b4b0.jpg 511,188,693,585,0
+Dataset/train/Pneumonia/bbd7abfe-8b9c-46aa-ab4b-8ff854615770.jpg 256,289,473,527,0 630,148,818,600,0
+Dataset/train/Pneumonia/f88e605a-a637-4df6-a153-5c51bb304a73.jpg 214,312,435,534,0 645,237,791,493,0
+Dataset/train/Pneumonia/c361c9ca-75e4-438b-a021-3c3d4af33a83.jpg 623,238,811,700,0
+Dataset/train/Pneumonia/f67d2434-0c18-441e-9ed4-66af65f511f7.jpg 578,366,763,686,0 132,312,306,668,0
+Dataset/train/Pneumonia/c2abea3d-e666-4be3-a0d9-352e980c13c8.jpg 265,114,463,782,0 646,142,884,763,0
+Dataset/train/Pneumonia/f40ba5da-1ef0-49d4-bb19-492892b41704.jpg 239,534,476,764,0 699,594,884,812,0
+Dataset/train/Pneumonia/e212adf7-2a29-4069-aa94-8ea5d366d0eb.jpg 141,431,235,698,0
+Dataset/train/Pneumonia/b61e3955-0a8d-4678-9746-b7202fd6d777.jpg 612,579,886,801,0 229,255,456,673,0
+Dataset/train/Pneumonia/ba06c828-df8c-4c6f-a869-b3ea7d1991cd.jpg 576,185,785,471,0 196,155,423,658,0
+Dataset/train/Pneumonia/b54eccc2-5311-401b-b110-7176c67c9428.jpg 321,169,487,589,0 687,221,910,836,0
+Dataset/train/Pneumonia/b3c6be40-8ed6-4fcb-b688-bf1779be8f5d.jpg 267,192,487,619,0 641,290,852,684,0
+Dataset/train/Pneumonia/e58662f6-d072-464c-ba02-bd9631a74973.jpg 222,286,364,451,0
+Dataset/train/Pneumonia/c10053b8-7bc8-4d8f-99f0-92d86a97ee2e.jpg 326,243,525,589,0 680,372,859,691,0
+Dataset/train/Pneumonia/b6271674-f13d-4087-ae03-d6ae35381dfc.jpg 274,463,422,659,0
+Dataset/train/Pneumonia/e7a937f4-f744-45b4-93df-f92786e4d6d6.jpg 636,464,793,713,0 234,490,381,716,0
+Dataset/train/Pneumonia/ecfe8040-c2e5-45d0-9ee7-d1a6963270ca.jpg 176,391,315,743,0
+Dataset/train/Pneumonia/b56cf994-fd52-4c8f-8304-b820f397b954.jpg 231,215,473,757,0 611,242,916,816,0
+Dataset/train/Pneumonia/b159a6c8-a3de-419a-a9c4-41309ef57e0a.jpg 200,478,397,867,0 581,430,776,916,0
+Dataset/train/Pneumonia/c102bfc2-601d-4275-b986-d928bf170ef9.jpg 662,395,915,883,0 220,402,459,892,0
+Dataset/train/Pneumonia/bee1ab01-cbef-4d86-96aa-41c77bffa6b3.jpg 48,231,273,848,0 483,307,742,707,0
+Dataset/train/Pneumonia/bf2b3b65-b21f-4e76-b3b3-98effc784a2e.jpg 250,582,437,780,0
+Dataset/train/Pneumonia/b5a5a9a8-9fe4-4eff-8ebb-9da7b9cb014d.jpg 568,85,761,297,0
+Dataset/train/Pneumonia/bfc43f55-c88e-4ad4-90ff-a0d465862d6f.jpg 645,102,853,548,0 236,69,512,635,0
+Dataset/train/Pneumonia/b0047aab-84f1-44b7-b485-37df40388101.jpg 234,573,375,873,0 608,573,771,870,0
+Dataset/train/Pneumonia/b6251813-a489-4cf8-b9ae-ca95fcfccb4f.jpg 589,123,804,602,0 236,135,436,655,0
+Dataset/train/Pneumonia/b26151b2-5f68-4af1-9730-4d608dfde81a.jpg 388,402,511,531,0 667,336,851,532,0
+Dataset/train/Pneumonia/e9bf3ff2-086e-4ece-a12c-2fc9376a54de.jpg 281,651,432,832,0
+Dataset/train/Pneumonia/b9adb158-7467-4c25-90a8-a356b2dc1b06.jpg 163,281,387,597,0
+Dataset/train/Pneumonia/c4ac5bf6-b3be-4acb-b8c8-a3d9d2a99647.jpg 622,458,795,665,0 216,381,361,653,0
+Dataset/train/Pneumonia/b8999532-31ea-4659-9039-d83a6fab490c.jpg 269,143,469,608,0 651,584,831,801,0
+Dataset/train/Pneumonia/be2edd9b-3f12-4399-bec5-9371c8920a29.jpg 254,278,493,685,0 609,244,829,660,0
+Dataset/train/Pneumonia/cb3816db-93c9-4d0a-a163-eb40363c45fe.jpg 470,263,710,650,0 250,245,437,625,0
+Dataset/train/Pneumonia/d0370ad5-e503-4826-be45-b710ffc5066f.jpg 254,353,531,849,0 574,328,855,828,0
+Dataset/train/Pneumonia/bd94199f-bae9-4689-b509-7d427ab79c3c.jpg 610,287,971,866,0 220,191,519,902,0
+Dataset/train/Pneumonia/fc3759df-79a4-41f1-a461-a2d12f09f489.jpg 121,329,347,491,0 602,239,797,462,0
+Dataset/train/Pneumonia/beea0aeb-4a7b-47c3-928a-e45f40bcfa53.jpg 549,493,727,790,0 199,416,437,673,0
+Dataset/train/Pneumonia/c510db11-bc09-47e0-b144-a70a96b8d7bc.jpg 21,530,220,710,0
+Dataset/train/Pneumonia/b72902be-6ca3-4ac1-abf3-f9da96e52e61.jpg 227,474,412,643,0
+Dataset/train/Pneumonia/c2016b1b-e24d-4eaf-af0f-14cf6f0bd9ad.jpg 295,319,419,611,0 639,363,766,647,0
+Dataset/train/Pneumonia/b4f66208-8c31-433c-9f82-72104bc35112.jpg 272,425,396,597,0
+Dataset/train/Pneumonia/e2bc24a7-e469-48e2-9d5a-6ffc8557d59e.jpg 612,447,777,585,0
+Dataset/train/Pneumonia/bef1fdfe-b4a3-4170-88de-d57338d602ac.jpg 585,275,759,493,0 333,352,458,609,0
+Dataset/train/Pneumonia/e755dc4c-11e7-45ff-b07c-3a297a67f0ec.jpg 548,441,687,605,0
+Dataset/train/Pneumonia/f49074c2-e73d-4884-804e-a2caab37bcf9.jpg 370,352,589,780,0
+Dataset/train/Pneumonia/d3a565b6-929e-4db1-8cc2-2b59e64860b5.jpg 171,233,452,724,0 479,176,763,688,0
+Dataset/train/Pneumonia/de3de48d-1810-4676-bf95-a88305034724.jpg 170,267,320,398,0 128,477,264,617,0
+Dataset/train/Pneumonia/be5d92d6-f2b3-483c-842c-aff4571ee8a7.jpg 491,340,678,807,0 113,233,338,756,0
+Dataset/train/Pneumonia/f23907b3-9638-4986-b471-b4f2873f6504.jpg 266,228,430,399,0
+Dataset/train/Pneumonia/c3bff4b1-efa9-4b87-a32d-bcbe6d31c4f2.jpg 595,440,817,676,0 199,461,441,663,0
+Dataset/train/Pneumonia/c993e08f-b497-4f6f-936e-0a44a834d24f.jpg 322,187,569,685,0
+Dataset/train/Pneumonia/dcba2f1b-d117-4c79-b329-6446bc21b45f.jpg 309,257,477,561,0
+Dataset/train/Pneumonia/c333554c-e635-4d5a-8975-66aecd096036.jpg 230,150,444,561,0 589,248,811,661,0
+Dataset/train/Pneumonia/b4147465-8b3a-4200-ba9c-a5eae09eafa9.jpg 154,235,453,739,0 567,249,724,777,0
+Dataset/train/Pneumonia/bfefcd13-122d-4c6f-8f4f-5c53417165db.jpg 232,317,461,633,0 604,235,804,460,0
+Dataset/train/Pneumonia/b86479a1-e997-4026-acfc-2d467291eb50.jpg 226,565,456,823,0
+Dataset/train/Pneumonia/d7545025-6654-4cc3-83d1-99a34476c72a.jpg 638,319,896,777,0 177,161,408,682,0
+Dataset/train/Pneumonia/e63d1f50-43f7-4e95-aa71-0108a062eee0.jpg 336,325,476,460,0
+Dataset/train/Pneumonia/bce23f47-7e90-48be-ab13-be220200fba0.jpg 224,491,421,851,0 588,540,818,875,0
+Dataset/train/Pneumonia/f652df75-c199-44a9-870b-54f68aae814d.jpg 683,565,845,722,0 170,436,382,658,0
+Dataset/train/Pneumonia/c34a3ea0-04d7-4df6-afab-0d7c7280b749.jpg 166,628,379,898,0 629,540,884,913,0
+Dataset/train/Pneumonia/deffa472-a50f-43fa-bc8b-1eaa48adb8d3.jpg 226,725,361,941,0
+Dataset/train/Pneumonia/fba69c73-b836-4af1-8c84-4526ee8fdde3.jpg 224,395,460,621,0
+Dataset/train/Pneumonia/f3b1a1b8-b6d9-4ac7-85ea-41765f99eaf8.jpg 466,184,661,415,0
+Dataset/train/Pneumonia/d01efc31-f83e-46dd-a3a1-1eb73f60ddcc.jpg 522,156,771,561,0 251,144,473,571,0
+Dataset/train/Pneumonia/e50a07f7-47f4-4a25-8d45-a2f1d66a2aaa.jpg 327,239,434,480,0
+Dataset/train/Pneumonia/c224f825-24b8-47aa-abdd-f03c0475a7c3.jpg 615,559,831,775,0
+Dataset/train/Pneumonia/bffde351-7ccf-49cd-aa8b-893c7d359e29.jpg 539,567,717,768,0 197,614,398,922,0
+Dataset/train/Pneumonia/b6962866-8206-446b-92d9-a028283c2e07.jpg 297,557,494,796,0 646,617,842,870,0
+Dataset/train/Pneumonia/feb8dd3e-ecfc-493f-9094-00331a043c7c.jpg 214,312,432,539,0
+Dataset/train/Pneumonia/bb50d849-8c22-4e5a-8607-a14c01772941.jpg 188,226,450,808,0 566,217,831,863,0
+Dataset/train/Pneumonia/d5d9c073-56ac-4102-abda-ef3b1f00331b.jpg 556,208,672,431,0
+Dataset/train/Pneumonia/c8d798bb-5bcb-4ca0-8b16-e360805aac69.jpg 556,350,746,512,0
+Dataset/train/Pneumonia/b7b51f82-2aa9-4375-a84f-25c52eeb0b40.jpg 491,284,761,627,0 112,498,330,660,0
+Dataset/train/Pneumonia/cd4f439d-61be-4ecb-bc27-383f9cd29569.jpg 255,447,511,799,0 597,482,853,815,0
+Dataset/train/Pneumonia/e542d5db-28c5-4e73-aa47-a441143887cc.jpg 531,524,590,588,0
+Dataset/train/Pneumonia/b91c5ce3-ca11-4e93-9e0f-bf1becf36b74.jpg 616,358,896,781,0 169,271,449,751,0
+Dataset/train/Pneumonia/c6dd0b25-7b0f-499c-9601-13b67f37424a.jpg 696,546,963,878,0 255,536,543,824,0
+Dataset/train/Pneumonia/b090dd7d-b4d9-4ebe-b36d-95f83510e955.jpg 121,82,341,656,0 424,49,632,390,0
+Dataset/train/Pneumonia/ba6ce5ed-7b5d-4104-9050-967df0dbd928.jpg 552,376,731,641,0 214,514,412,738,0
+Dataset/train/Pneumonia/cfc035aa-7dc6-418a-a70d-21f0a924c6fb.jpg 80,282,432,751,0 563,325,802,642,0
+Dataset/train/Pneumonia/ca1470f8-20fe-4e11-ad99-9c83248e7b11.jpg 577,173,846,675,0
+Dataset/train/Pneumonia/b6158255-d002-48a7-a283-af4ad2d8874a.jpg 219,566,395,725,0 681,626,909,842,0
+Dataset/train/Pneumonia/eda49900-8110-4529-b1ed-abb154c92396.jpg 269,276,478,754,0 629,251,865,792,0
+Dataset/train/Pneumonia/ca6ed544-2804-4f23-97a6-5a9f4814e7c1.jpg 157,292,436,626,0
+Dataset/train/Pneumonia/be2a8801-3cc0-4c24-a73a-a1e13ff94948.jpg 550,434,790,866,0 178,244,438,729,0
+Dataset/train/Pneumonia/bf506a9c-19c7-4dd8-acb4-b8d6569091d8.jpg 234,513,445,765,0 624,484,819,702,0
+Dataset/train/Pneumonia/d815454a-5088-407c-8822-af205bec401d.jpg 90,480,243,623,0
+Dataset/train/Pneumonia/b2753475-d0b2-4dde-8a7b-311e1db27397.jpg 594,143,721,292,0 701,651,868,861,0
+Dataset/train/Pneumonia/bf3ef845-34ab-4b80-81e7-ac7a3b23485a.jpg 191,433,413,620,0
+Dataset/train/Pneumonia/c1628c47-5ba3-42dd-8df3-7ad3abd57ad0.jpg 622,356,771,484,0
+Dataset/train/Pneumonia/d1c121fd-790c-40dc-8d09-a427f826596f.jpg 481,452,779,648,0
+Dataset/train/Pneumonia/f3a72d62-fce7-4654-92a1-9cf26353d156.jpg 207,520,441,712,0
+Dataset/train/Pneumonia/bf5b8e51-9dfe-4248-b38e-45a9f598b0c8.jpg 169,508,401,734,0
+Dataset/train/Pneumonia/b602ef86-f1c6-456e-afab-5ec2839be879.jpg 600,183,858,694,0 239,169,511,655,0
+Dataset/train/Pneumonia/e75caca3-22a7-48dc-9b2d-d6e19db6bb29.jpg 214,230,345,487,0 192,598,332,726,0
+Dataset/train/Pneumonia/bec35362-40e8-4f43-99aa-8d1eec483456.jpg 257,173,469,741,0 595,157,778,798,0
+Dataset/train/Pneumonia/bfbd4ed3-1d78-437b-b5dc-09ab063b55fa.jpg 242,252,437,620,0
+Dataset/train/Pneumonia/ec53eccf-e4e5-4151-b50b-d103e799a1f2.jpg 212,555,391,678,0
+Dataset/train/Pneumonia/bcee03c8-2ff9-4b01-a6d6-a4ee99565d81.jpg 229,334,434,697,0 609,266,810,936,0
+Dataset/train/Pneumonia/be9d0ed7-00ce-44b5-a83c-8a9796be8ea6.jpg 212,544,420,733,0 583,506,809,720,0
+Dataset/train/Pneumonia/bcc62394-8f62-47a6-a67a-316558298c49.jpg 202,521,375,596,0
+Dataset/train/Pneumonia/f26ede75-cee6-4248-9219-017f327b25ca.jpg 220,344,426,650,0
+Dataset/train/Pneumonia/bdbf26d1-2706-49bf-9554-84a881440880.jpg 108,556,368,810,0 538,601,705,829,0
+Dataset/train/Pneumonia/baed4093-ba48-42d5-8479-92b2612217e0.jpg 229,304,406,645,0
+Dataset/train/Pneumonia/b344e7ac-52f9-418c-a5a1-bba1f5b543bf.jpg 282,585,479,777,0 680,575,894,863,0
+Dataset/train/Pneumonia/e7f64666-2118-4f2f-a1e9-86d9f1eb7573.jpg 800,384,857,446,0
+Dataset/train/Pneumonia/ec910555-f698-4536-aff7-7fa9d3405d60.jpg 160,514,330,637,0 203,254,375,465,0
+Dataset/train/Pneumonia/f9405a63-3a1b-4cc5-8f00-7b0a81c36a71.jpg 620,380,762,674,0 295,323,468,619,0
+Dataset/train/Pneumonia/b4f8176e-a3a7-4a9e-90ad-f2b80ac60e33.jpg 656,551,903,726,0 254,448,476,607,0
+Dataset/train/Pneumonia/b532569f-be57-44a1-8452-83aa0bf278d1.jpg 565,503,725,652,0
+Dataset/train/Pneumonia/bfbeea84-2d5a-4b04-beb4-15d3b339e981.jpg 373,510,502,744,0 684,234,963,727,0
+Dataset/train/Pneumonia/ea1cf22d-0ec1-4820-86ed-a2bce81fa924.jpg 541,486,719,609,0
+Dataset/train/Pneumonia/fdc8b07c-8c97-4022-ac84-347f8072f07a.jpg 635,389,829,707,0
+Dataset/train/Pneumonia/b73735b9-8b15-4def-9131-891baa6f64a9.jpg 285,436,482,732,0
+Dataset/train/Pneumonia/cc3177c8-6570-497c-aef3-6fbddef692f6.jpg 262,175,469,656,0 585,191,818,734,0
+Dataset/train/Pneumonia/b1026ffe-0240-4b32-ae61-e47a0352399f.jpg 654,358,849,708,0 309,297,517,590,0
+Dataset/train/Pneumonia/b9fd29b2-1444-49d9-83b9-2716cc2b3e50.jpg 317,494,576,914,0 664,342,977,956,0
+Dataset/train/Pneumonia/e21bd38d-504c-4256-9168-2f1ccc10ad94.jpg 279,547,409,693,0
+Dataset/train/Pneumonia/f78a62d0-f9aa-4828-ad8c-ec4917f52d48.jpg 181,695,376,882,0
+Dataset/train/Pneumonia/bd1f8cea-15a5-4bb8-9eb4-d6fa3714a78e.jpg 591,117,785,495,0
+Dataset/train/Pneumonia/ba14333d-9629-4a0f-9517-b5899fecbe89.jpg 172,195,350,378,0
+Dataset/train/Pneumonia/d0a82689-3088-4fc2-a348-7d3cc19c6ffa.jpg 244,437,492,789,0
+Dataset/train/Pneumonia/b81ba5b1-ad7c-4217-9467-0f1fbc0a9fd4.jpg 232,390,479,761,0 635,400,892,823,0
+Dataset/train/Pneumonia/bd9537e5-1460-438d-a6f5-7515205231f5.jpg 232,380,436,780,0 576,335,805,786,0
+Dataset/train/Pneumonia/b76086b3-9550-44f9-a2a8-394c7793bac8.jpg 305,331,499,638,0 659,388,841,720,0
+Dataset/train/Pneumonia/b6c45f07-6068-46af-b35d-302cd05ed4d2.jpg 206,437,486,688,0
+Dataset/train/Pneumonia/b72afa3e-644b-479a-845d-14fe8351cdb0.jpg 569,290,879,975,0 159,279,414,890,0
+Dataset/train/Pneumonia/f9c99896-bcb6-45b4-9128-528f695e3628.jpg 615,482,818,588,0 231,482,423,638,0
+Dataset/train/Pneumonia/b8c16a00-9fe8-412a-8a3b-972fc615eeda.jpg 172,279,388,854,0 536,335,749,919,0
+Dataset/train/Pneumonia/b64e24e7-8428-446a-8b07-918715b55b7b.jpg 557,561,757,864,0 198,353,414,859,0
+Dataset/train/Pneumonia/bda1d8b6-2a74-41c3-8cef-3ff7864e4613.jpg 625,430,900,705,0 205,443,445,738,0
+Dataset/train/Pneumonia/f12d3c41-3520-4a45-8563-e9040089677f.jpg 269,443,362,504,0
+Dataset/train/Pneumonia/f733b1be-95cb-427f-b799-8810dab0ed0c.jpg 259,328,468,695,0 637,415,819,790,0
+Dataset/train/Pneumonia/d6fb1e39-32df-463f-9d7e-064b2b64a3bf.jpg 218,528,416,754,0
+Dataset/train/Pneumonia/f79fc759-fde0-4e2e-8951-26ac8af5ef89.jpg 613,241,782,720,0 276,248,444,725,0
+Dataset/train/Pneumonia/be367de2-d888-41df-90bd-82baaa80541f.jpg 200,392,447,667,0 606,425,846,640,0
+Dataset/train/Pneumonia/ba18ab80-91fc-4c9b-9ec9-e59c0229f49b.jpg 577,291,691,520,0
+Dataset/train/Pneumonia/b750080e-5e58-4c49-94dc-8db8d20d4489.jpg 157,501,367,757,0
+Dataset/train/Pneumonia/c3b9b37a-812c-439e-913f-39e94b8ec870.jpg 194,305,492,706,0 648,346,832,837,0
+Dataset/train/Pneumonia/b3016500-907e-4fbe-b100-6bedc5128ec6.jpg 174,410,376,791,0
+Dataset/train/Pneumonia/b6acb029-963f-481c-81e3-f5f4f79ff7c6.jpg 240,458,466,668,0 684,209,914,749,0
+Dataset/train/Pneumonia/b64e0ee1-82db-47fa-a91a-f1e187f84696.jpg 245,207,470,593,0 612,215,840,728,0
+Dataset/train/Pneumonia/f9b9a4ee-49bd-4054-9a60-03c771aac376.jpg 211,626,388,735,0
+Dataset/train/Pneumonia/badbcf00-4431-4336-ba44-c519688be0e4.jpg 562,195,810,736,0 155,139,410,698,0
+Dataset/train/Pneumonia/c2f9dac8-75f2-44ec-b89a-04a0f8492a6a.jpg 258,239,466,570,0 646,164,810,696,0
+Dataset/train/Pneumonia/b852bc3c-0de5-4448-aff8-f96b2cc13d51.jpg 146,282,351,683,0 506,294,739,752,0
+Dataset/train/Pneumonia/fbb1a00f-e687-4f08-a085-94ba2a3ff0ec.jpg 574,239,772,657,0
+Dataset/train/Pneumonia/bed0dd75-f279-4fb1-b2be-97222380231c.jpg 653,225,900,573,0 288,206,498,533,0
+Dataset/train/Pneumonia/ce5f8ade-0760-4a40-906d-301cc6bbb87b.jpg 536,272,778,661,0 149,234,391,601,0
+Dataset/train/Pneumonia/c2802780-8f5c-4240-8d71-0be1664a8b6f.jpg 506,228,801,732,0 99,233,356,737,0
+Dataset/train/Pneumonia/c3b96528-c441-4ae7-8e7f-87ccb0ab2ab9.jpg 466,305,795,945,0 34,279,326,905,0
+Dataset/train/Pneumonia/c422054e-4ce3-46ff-a45c-1a6c243236c7.jpg 168,172,379,600,0 488,170,800,678,0
+Dataset/train/Pneumonia/f27e1121-c394-4577-80c6-762f47e916b2.jpg 261,216,499,612,0 638,352,841,632,0
+Dataset/train/Pneumonia/ebf2bdff-9e1a-4365-9010-738d58b62944.jpg 219,449,367,752,0
+Dataset/train/Pneumonia/b4ae5b1d-2d5e-422a-9388-36f4645d21c7.jpg 163,493,363,660,0 538,475,778,727,0
+Dataset/train/Pneumonia/b6ab1a11-6558-4f76-bed2-3b169f820be9.jpg 145,538,398,672,0 577,420,803,681,0 218,364,366,486,0
+Dataset/train/Pneumonia/ba452891-fb43-48bf-9019-855556b48f91.jpg 259,184,470,536,0 604,143,847,447,0
+Dataset/train/Pneumonia/b9a014f0-6ab0-449a-be4d-1911473dde10.jpg 147,315,365,591,0 540,211,717,769,0
+Dataset/train/Pneumonia/e2e89418-6c0e-4f50-a2d9-6cd5e58feef0.jpg 305,318,425,701,0
+Dataset/train/Pneumonia/c7d389ff-e2e1-40ed-b940-aef09bae009a.jpg 552,128,833,656,0 273,168,498,646,0
+Dataset/train/Pneumonia/b6024434-3ed2-43c5-b186-79a2c0120bbd.jpg 270,356,468,670,0
+Dataset/train/Pneumonia/c907dcd1-6011-430b-9515-009900b4a98f.jpg 254,222,554,740,0 598,274,878,757,0
+Dataset/train/Pneumonia/b6e35e80-7b64-4134-9760-94295ecd4ce3.jpg 622,220,887,820,0
+Dataset/train/Pneumonia/bbe162a9-d342-4bd1-a1b5-287916470250.jpg 246,92,504,640,0 666,131,893,720,0
+Dataset/train/Pneumonia/bde3783d-b2f4-41df-b7c6-69f041171416.jpg 273,145,455,525,0
+Dataset/train/Pneumonia/d90bf380-aa92-4125-82b7-397a5dada589.jpg 637,410,855,701,0
+Dataset/train/Pneumonia/b33f8121-a8ca-4a55-a876-7c21714bf80a.jpg 126,285,439,736,0 580,271,865,743,0
+Dataset/train/Pneumonia/d037df85-c86e-43cb-a14e-7bf57ee9b5ad.jpg 590,154,869,683,0
+Dataset/train/Pneumonia/c3e28b77-4477-4e36-89a7-ec0713349d4b.jpg 217,522,422,645,0
+Dataset/train/Pneumonia/b20f3c7f-0af4-4a22-901a-32584fbeea28.jpg 300,434,466,628,0
+Dataset/train/Pneumonia/bbcf427f-7155-4a51-b4f9-0797380e8e58.jpg 293,375,407,579,0 580,192,826,492,0
+Dataset/train/Pneumonia/ba30f407-5639-46f3-9c02-235566daed1c.jpg 536,332,752,940,0 170,208,447,881,0
+Dataset/train/Pneumonia/d64913fa-c9ba-4ee4-9613-8c991fd3afea.jpg 175,491,331,832,0
+Dataset/train/Pneumonia/b1831e52-f668-47a9-a900-f42924698045.jpg 209,501,467,750,0
+Dataset/train/Pneumonia/b8db9c09-e681-4737-9ad8-e92ad618a5ca.jpg 180,225,465,599,0 568,182,855,653,0
+Dataset/train/Pneumonia/b475e187-b7bd-4d5d-951f-82e4903feacb.jpg 612,664,839,859,0 219,614,439,806,0
+Dataset/train/Pneumonia/bf5255f6-1130-444c-957b-b2ef01d01167.jpg 638,495,913,676,0 192,421,437,670,0
+Dataset/train/Pneumonia/b1323e3e-2460-4db7-a98e-f810c0004836.jpg 109,551,320,750,0 468,426,701,695,0
+Dataset/train/Pneumonia/c3985003-dd35-42c2-9a6d-c9372742eac2.jpg 112,478,325,612,0
+Dataset/train/Pneumonia/bc1c9e32-2815-477d-8dcd-6352dec8749d.jpg 188,196,415,779,0 576,342,795,803,0
+Dataset/train/Pneumonia/ba63a3ae-8814-4b3e-a773-0239d6f64dce.jpg 581,296,851,868,0 121,272,455,841,0
+Dataset/train/Pneumonia/f1c18d3e-a250-451d-8ed6-47b85a28bfd3.jpg 613,288,784,645,0 164,259,354,626,0
+Dataset/train/Pneumonia/bc01023b-a656-4ee6-87fe-90382e7af127.jpg 223,445,411,639,0 572,411,818,643,0
+Dataset/train/Pneumonia/cd324889-a183-4d10-916f-d69384b4cb1d.jpg 640,260,929,767,0 324,232,591,680,0
+Dataset/train/Pneumonia/b7b1abfd-c7e8-4404-aeed-b3a3b489443f.jpg 205,579,439,784,0 685,618,907,868,0
+Dataset/train/Pneumonia/b18e4375-e20d-42e9-a545-a62294135c07.jpg 604,807,849,1017,0
+Dataset/train/Pneumonia/b086dfcf-4704-41a5-bdf7-22139c5d0711.jpg 265,405,437,501,0
+Dataset/train/Pneumonia/bfd8ef59-552b-479a-888c-1444384b828b.jpg 604,284,954,629,0
+Dataset/train/Pneumonia/bad052e9-4ac1-4412-87cb-5cb92b55027b.jpg 559,411,845,605,0
+Dataset/train/Pneumonia/b3db4730-7c2d-4b91-b09b-2346fef7dc58.jpg 263,440,440,697,0 609,237,801,606,0
+Dataset/train/Pneumonia/df6fce59-efa3-41a1-bdf7-1ff27cad394f.jpg 355,257,518,507,0
+Dataset/train/Pneumonia/c6c0ca1c-99d5-49a5-8291-9cf7331ea95d.jpg 242,269,487,728,0
+Dataset/train/Pneumonia/efc9c6a8-8568-426f-9fc6-2a6106bbb98c.jpg 320,500,517,696,0
+Dataset/train/Pneumonia/ba87678d-df8e-42eb-9a2b-3f8a6b34722a.jpg 528,686,733,963,0 44,617,310,858,0
+Dataset/train/Pneumonia/dc4d3a01-94f5-4e5a-a843-1c60dfd8b352.jpg 206,553,417,723,0
+Dataset/train/Pneumonia/ba395818-6a27-4185-98ca-a51c4c70b2d5.jpg 207,348,434,542,0 549,298,786,516,0
+Dataset/train/Pneumonia/d22e3d9f-99a9-4537-a0ff-fc3c1f349ee2.jpg 172,396,411,737,0
+Dataset/train/Pneumonia/b011429a-7f44-413c-af22-93b110e9710b.jpg 247,246,327,337,0 590,376,775,470,0
+Dataset/train/Pneumonia/bf8609b1-a24f-4129-855e-fe3a0862da91.jpg 242,463,497,691,0
+Dataset/train/Pneumonia/f3236920-9024-4ee1-bbac-a89b68cfb44b.jpg 589,566,787,781,0 125,610,376,843,0
+Dataset/train/Pneumonia/b33610c9-a152-47f8-8ee5-4f81dce62938.jpg 643,427,899,719,0 197,358,456,691,0
+Dataset/train/Pneumonia/be03b6e9-e030-4491-b23e-ac1d7efc73bb.jpg 254,150,544,422,0 684,461,919,736,0
+Dataset/train/Pneumonia/eee3497c-fb69-4a48-96e6-c204b0ee9b84.jpg 193,183,420,432,0
+Dataset/train/Pneumonia/bd7b4e6e-5384-4cce-9732-0dd7f9d15da8.jpg 217,310,469,920,0 597,399,859,1002,0
+Dataset/train/Pneumonia/fc7276ad-47d1-451e-bf68-c4e2db43b6a5.jpg 204,256,398,781,0 617,274,772,565,0
+Dataset/train/Pneumonia/b47a751f-a3d5-4c63-a738-ca2b7761c58a.jpg 162,474,397,713,0 599,380,716,580,0
+Dataset/train/Pneumonia/f9c4f02b-52b5-4f36-96d7-b706d678d9b9.jpg 171,435,340,608,0
+Dataset/train/Pneumonia/d9fb69ee-f350-4f28-8cd0-29c83757bade.jpg 717,522,877,650,0
+Dataset/train/Pneumonia/b524542b-1779-4871-9574-7ff72b296503.jpg 102,81,467,725,0 589,80,886,947,0
+Dataset/train/Pneumonia/f979069d-6915-4f84-9b97-345f35ad2083.jpg 609,412,799,604,0
+Dataset/train/Pneumonia/d00de1f7-b96a-4d00-8e22-bc0a6ac67d44.jpg 310,351,510,553,0
+Dataset/train/Pneumonia/bc03198b-57f4-47b5-8808-114fd5cb9808.jpg 627,498,951,737,0 187,503,500,705,0
+Dataset/train/Pneumonia/bbe656f0-f2a0-45cd-8e5e-c6031d36cc1e.jpg 163,399,374,551,0
+Dataset/train/Pneumonia/f7856767-112d-4ff6-8b20-1188c0c47a1a.jpg 192,487,462,689,0
+Dataset/train/Pneumonia/b479635e-4c58-4d27-879b-fb0e87b2a1aa.jpg 191,215,426,604,0 556,262,781,677,0
+Dataset/train/Pneumonia/f5b0cb30-2b64-47f3-a9ad-66eba87fc724.jpg 644,277,819,616,0 234,225,435,612,0
+Dataset/train/Pneumonia/b93bc9fc-3863-4ac7-a097-c8977df98d4b.jpg 153,270,370,419,0
+Dataset/train/Pneumonia/dbaa7abd-4d45-4ce6-ac0c-89d961a7f8d2.jpg 185,539,401,669,0
+Dataset/train/Pneumonia/bc2a8121-cccd-47d8-8289-2dbfacf6b94f.jpg 200,378,403,532,0
+Dataset/train/Pneumonia/b255cf25-6d4d-438d-af57-95f8e8f3654d.jpg 240,354,437,655,0
+Dataset/train/Pneumonia/d727db91-5f22-424f-8f18-3f8c7de40869.jpg 601,308,761,476,0
+Dataset/train/Pneumonia/ebc9f06f-c73b-4eff-9f07-beabd1331273.jpg 620,250,807,368,0 209,453,356,613,0
+Dataset/train/Pneumonia/f5cb4b26-5821-4b91-90a0-629f4f0cbd2f.jpg 773,221,898,509,0 429,148,597,399,0
+Dataset/train/Pneumonia/b55ffbb0-1345-41e9-91be-e9803c438b0a.jpg 224,575,412,671,0
+Dataset/train/Pneumonia/b9866e78-1b04-4f5a-9970-c434ef113c73.jpg 563,480,808,677,0
+Dataset/train/Pneumonia/c857ee5f-f53c-4060-b93a-8c3437da80cd.jpg 247,434,494,699,0 586,452,799,793,0
+Dataset/train/Pneumonia/bc668e08-44be-4aed-aa17-7b321c8e11a5.jpg 298,2,525,275,0
+Dataset/train/Pneumonia/d055f31c-04a0-49ea-b091-56e88b837f97.jpg 274,260,500,593,0 555,259,795,515,0
+Dataset/train/Pneumonia/cc1cefc7-0cb1-4ff1-af66-2bd8e8dd5d57.jpg 293,580,549,833,0
+Dataset/train/Pneumonia/be52ff75-00b4-41a1-80ba-52bdeb8a5902.jpg 576,413,901,1012,0 144,457,436,970,0
+Dataset/train/Pneumonia/e9e58e10-2795-4dec-a738-c9792ea8f685.jpg 144,366,391,814,0 582,412,810,784,0
+Dataset/train/Pneumonia/cc382e8b-240e-4011-ad02-51e1308eb487.jpg 253,89,504,598,0
+Dataset/train/Pneumonia/b97cc203-9a13-4147-b7c4-7300f05eecdb.jpg 71,426,391,926,0 597,317,854,1003,0
+Dataset/train/Pneumonia/da0d2a4e-46ff-43a7-866d-1608fe52b05f.jpg 278,455,471,621,0
+Dataset/train/Pneumonia/f661fe70-2fc1-4564-9f53-45504c0b0688.jpg 168,283,414,608,0 555,358,726,560,0
+Dataset/train/Pneumonia/b47d39df-6c53-4b24-8f63-6577deb5e798.jpg 614,403,827,594,0
+Dataset/train/Pneumonia/b24f4b3e-6e1b-4824-af10-270ec5093de3.jpg 277,178,474,548,0
+Dataset/train/Pneumonia/bc48ee69-de8c-416a-b023-b2f841b3be1d.jpg 269,450,496,757,0 668,461,942,797,0
+Dataset/train/Pneumonia/f02b8370-0e08-47af-b4d4-6dbb681f219e.jpg 177,555,377,828,0
+Dataset/train/Pneumonia/becefa4b-f719-48c6-a903-85e391e026a4.jpg 146,447,404,616,0 553,454,829,630,0
+Dataset/train/Pneumonia/b8834f0f-8ea8-4ceb-8ce5-d5dcb9569fb4.jpg 208,349,374,575,0
+Dataset/train/Pneumonia/fd301529-5fda-4251-b01d-b879cdc0bbe5.jpg 481,623,666,781,0
+Dataset/train/Pneumonia/cb510a17-89c1-4fad-9a47-89952abd7aae.jpg 110,217,366,700,0 480,183,789,757,0
+Dataset/train/Pneumonia/b6fa6fc8-812c-4110-9881-5a5f8f2fea65.jpg 298,211,449,535,0
+Dataset/train/Pneumonia/c5fb4095-cb29-4c10-9267-dafb286acc8e.jpg 199,208,455,685,0 545,228,785,711,0
+Dataset/train/Pneumonia/cfe768fc-4a0c-41fb-b3e3-86229e2cb94a.jpg 185,245,500,645,0
+Dataset/train/Pneumonia/bf842c92-c6ed-4be4-b188-c05ec8bf8dc2.jpg 589,235,859,660,0 182,353,451,647,0
+Dataset/train/Pneumonia/be00aef3-ebcf-4306-9960-a41b3c0cdafa.jpg 621,234,809,505,0
+Dataset/train/Pneumonia/be9624bc-824f-4951-9f81-087d6528eeec.jpg 633,179,931,689,0 202,352,482,619,0
+Dataset/train/Pneumonia/fe230f92-780f-4918-a553-19c210bad853.jpg 687,338,852,644,0 247,416,421,748,0
+Dataset/train/Pneumonia/fa493720-2b2a-456e-a8a8-6ba60e90fb8b.jpg 209,268,440,658,0 643,221,868,631,0
+Dataset/train/Pneumonia/d6724bee-d28e-4b34-8813-52a86955fa72.jpg 742,464,878,634,0
+Dataset/train/Pneumonia/f1dfdb40-da03-4577-95a1-da4b170613d1.jpg 280,441,409,536,0
+Dataset/train/Pneumonia/bf9254b2-2d3a-444a-8dae-a27f02b0e9ef.jpg 154,456,361,651,0
+Dataset/train/Pneumonia/b457ca36-8d41-4382-8488-b74f944e8a6e.jpg 275,188,495,764,0 656,152,901,801,0
+Dataset/train/Pneumonia/fe16b6d8-add2-4d0d-b052-96b1986b67e0.jpg 755,472,914,807,0 215,374,428,767,0
+Dataset/train/Pneumonia/e8868e22-3e5c-4e63-9dc7-9180b20a0b1d.jpg 645,252,745,431,0
+Dataset/train/Pneumonia/e457e363-5309-4cd0-a242-6b7af7c329d0.jpg 249,538,423,674,0
+Dataset/train/Pneumonia/ba174e17-bdad-4a4e-98dc-21e270b93248.jpg 241,400,429,648,0
+Dataset/train/Pneumonia/d6ea0603-0633-4cc8-8d36-f523370de74f.jpg 188,443,406,664,0 664,220,958,653,0
+Dataset/train/Pneumonia/ff273673-5610-47a1-8991-6f896eeefc2d.jpg 234,652,355,783,0 612,412,748,607,0
+Dataset/train/Pneumonia/f4c7d67e-1025-46e0-bba5-cee068b8bd6c.jpg 652,359,847,558,0
+Dataset/train/Pneumonia/bb37ae16-f3b1-45ec-a814-392f7bc7caa9.jpg 195,205,422,717,0 550,249,808,792,0
+Dataset/train/Pneumonia/b6adc779-5eb6-4afc-8672-986ba03b0dfc.jpg 195,488,395,676,0
+Dataset/train/Pneumonia/e32c79df-9fe1-4ed0-bde4-eba4e341936d.jpg 793,316,953,655,0
+Dataset/train/Pneumonia/e782f1a7-23b3-4167-be7f-1a959259af87.jpg 672,508,821,714,0
+Dataset/train/Pneumonia/cbbcb63f-5fae-45cd-bf01-0785378682b0.jpg 596,254,865,683,0 262,232,476,686,0
+Dataset/train/Pneumonia/f7379744-be39-44b2-8816-a743857bd6a6.jpg 695,450,931,713,0 129,513,396,675,0
+Dataset/train/Pneumonia/f59ae80d-d98e-465f-963a-1064764211f8.jpg 266,254,398,540,0 593,407,753,602,0
+Dataset/train/Pneumonia/c95d0325-9439-461e-8ea3-24d3dd63a5f0.jpg 255,455,351,543,0
+Dataset/train/Pneumonia/dc2a32fa-d49c-4c49-bcdc-3ae6c394fbc9.jpg 158,389,381,602,0 720,466,855,554,0
+Dataset/train/Pneumonia/b43dbfe0-cea8-4ce6-b608-e8ab671f09a4.jpg 302,466,418,658,0 659,586,768,709,0
+Dataset/train/Pneumonia/dfc1a68e-3314-4059-8a76-4e4e0981a948.jpg 600,396,788,659,0 132,441,350,686,0
+Dataset/train/Pneumonia/bfc8780a-6911-4006-a427-0898ccd3a5f9.jpg 186,250,443,780,0 579,279,813,822,0
+Dataset/train/Pneumonia/d508dfa3-6b86-49a1-816a-38bf8b1befbb.jpg 506,308,798,707,0 223,362,447,708,0
+Dataset/train/Pneumonia/dc8826ad-9cdb-424f-9896-ec55bcaaffd6.jpg 166,314,376,735,0
+Dataset/train/Pneumonia/f6cfde90-10de-4584-aed1-2a0ef8238b11.jpg 631,313,818,789,0 211,201,442,647,0
+Dataset/train/Pneumonia/e5368a74-3005-4ebb-94a3-6e859b9ef3fe.jpg 261,689,367,811,0
+Dataset/train/Pneumonia/be033abc-95d1-4d7f-baa8-2bece16b67aa.jpg 179,353,415,696,0
+Dataset/train/Pneumonia/df21b6dd-32b7-4edd-8b7b-fa1a35e0c043.jpg 299,707,425,908,0
+Dataset/train/Pneumonia/b9689b98-97cd-4ffb-8c25-4d3b686f62f1.jpg 548,414,750,633,0 273,365,436,600,0
+Dataset/train/Pneumonia/b9b7f127-2285-4ab3-b2c5-e5c943527494.jpg 246,360,450,571,0
+Dataset/train/Pneumonia/f2a78be0-4397-4b01-8357-c2596406edd1.jpg 267,492,440,723,0 671,506,823,733,0
+Dataset/train/Pneumonia/c5c30350-993f-4a9a-9d1a-c7f8ddca0537.jpg 213,180,463,469,0 556,322,813,726,0
+Dataset/train/Pneumonia/b47f9472-39dc-4f3b-9321-983be2324579.jpg 520,125,863,729,0 185,220,400,729,0
+Dataset/train/Pneumonia/b35f52b3-12fc-4d72-a2e8-883d27d1303a.jpg 586,498,818,627,0
+Dataset/train/Pneumonia/ba5fd613-dca4-4bef-ae08-f1da4ffb13a1.jpg 613,174,888,696,0 117,198,446,664,0
+Dataset/train/Pneumonia/b76341f1-7b72-4c86-aed2-9967a0b3c729.jpg 275,301,417,426,0 643,186,891,443,0
+Dataset/train/Pneumonia/caa5f43e-2050-41a6-b0d5-2775d1fa6cb2.jpg 544,220,884,823,0
+Dataset/train/Pneumonia/bc4ec257-ecf8-469b-9750-c5bd190f6987.jpg 290,298,491,605,0 603,222,842,492,0
+Dataset/train/Pneumonia/b7e6c8a5-c115-4a0a-9838-e74604a685b1.jpg 669,242,888,900,0 336,287,520,803,0
+Dataset/train/Pneumonia/bad209bb-8814-4a94-9e27-4370052e3b85.jpg 181,503,442,771,0
+Dataset/train/Pneumonia/e1d5a233-39ca-41dc-a289-b07c3e78cdb1.jpg 208,98,380,322,0
+Dataset/train/Pneumonia/be658bed-445c-4b31-a581-88ba0a008f4d.jpg 280,176,502,649,0 707,320,906,725,0
+Dataset/train/Pneumonia/ec09ddb3-9b0b-4749-9e0d-f94a4a7e5fed.jpg 258,388,377,523,0 633,418,754,576,0
+Dataset/train/Pneumonia/b903affb-9f24-4816-9141-164181d4d3ca.jpg 542,638,681,803,0
+Dataset/train/Pneumonia/be910d75-76cd-40ad-8b4e-07ab616b43c1.jpg 657,457,891,827,0 277,493,504,838,0
+Dataset/train/Pneumonia/f7f3e746-b2d6-47e8-87fd-e7d9db9b1836.jpg 139,506,437,733,0
+Dataset/train/Pneumonia/bcbcf3f5-244b-4979-9405-9cfe410b37a7.jpg 185,541,363,700,0 585,562,807,737,0
+Dataset/train/Pneumonia/dc995045-8ec6-4cef-ba20-350c66732a9b.jpg 596,487,749,718,0 196,520,341,683,0
+Dataset/train/Pneumonia/c060c23e-dff3-4cbd-b823-b8e70b80b2b4.jpg 262,532,416,695,0 637,544,876,750,0
+Dataset/train/Pneumonia/e21916f2-b79a-4a00-85e7-ad6a27c300c2.jpg 724,372,825,521,0
+Dataset/train/Pneumonia/ecb5a45c-314e-478f-946f-ac620738c00b.jpg 588,352,767,627,0
+Dataset/train/Pneumonia/b396e6cc-f447-49bd-9b86-c75c778f1e35.jpg 531,703,799,834,0
+Dataset/train/Pneumonia/d57b47b7-2324-4bdc-a0ee-27ad6925d9e0.jpg 343,590,469,751,0
+Dataset/train/Pneumonia/b4bc431b-d3f5-488a-9eab-3347264e2141.jpg 123,333,397,784,0 568,292,829,795,0
+Dataset/train/Pneumonia/b98ba929-fada-4ec9-bd10-1c0be267ee4d.jpg 625,278,791,715,0
+Dataset/train/Pneumonia/bc7b5348-574e-49a2-a20a-719d942a9c31.jpg 204,139,416,573,0
+Dataset/train/Pneumonia/bb7973b1-58b1-4e2e-b687-144e179f0996.jpg 666,364,891,666,0 326,470,461,801,0
+Dataset/train/Pneumonia/edf1fe7e-46a9-47be-8f65-132b2f8dd56a.jpg 642,368,786,525,0
+Dataset/train/Pneumonia/b900d3e4-787b-44b3-9754-88f93db99c27.jpg 198,348,428,792,0 563,333,827,824,0
+Dataset/train/Pneumonia/dc620da7-7387-4839-9222-21f708f63bb2.jpg 616,545,762,798,0
+Dataset/train/Pneumonia/b22eeadd-f4c0-4ede-b41a-78549f7a058e.jpg 581,553,818,773,0 207,500,381,737,0
+Dataset/train/Pneumonia/d4b2b93e-696e-47fa-b197-160a35534b84.jpg 104,137,405,518,0 515,138,786,523,0
+Dataset/train/Pneumonia/f23bbee6-567d-4ef8-8b29-2ecb12a45be1.jpg 614,377,824,638,0
+Dataset/train/Pneumonia/b7f73ec9-32a6-4b6d-8cf7-0ea7af92db07.jpg 716,215,948,806,0 285,183,498,847,0
+Dataset/train/Pneumonia/b2368b39-bba3-4458-87ed-70c19cc5917f.jpg 606,361,875,705,0
+Dataset/train/Pneumonia/eb2828dd-cd30-4a47-a8b6-3b0924ef8ffa.jpg 187,706,340,811,0
+Dataset/train/Pneumonia/f6669e27-825f-4fb9-b86a-ba61b9538342.jpg 615,470,810,860,0 189,564,355,846,0
+Dataset/train/Pneumonia/b5eebe73-0b9c-4621-abcd-940f6e90a86c.jpg 555,434,765,604,0 244,500,396,775,0
+Dataset/train/Pneumonia/f137d0ae-b2f7-4fd1-916d-773d4695b626.jpg 254,393,461,599,0
+Dataset/train/Pneumonia/b3e77c82-8f60-42bc-b792-cf201fe15060.jpg 565,287,837,617,0 242,340,466,725,0
+Dataset/train/Pneumonia/c21ec0de-755f-433f-be49-e6ccdc94a735.jpg 215,288,348,434,0
+Dataset/train/Pneumonia/f149b26e-035e-4f7b-b55b-016334772d2b.jpg 567,123,797,410,0 104,127,324,371,0
+Dataset/train/Pneumonia/ec8965a5-1774-4644-8e58-dd62eacc160e.jpg 203,628,344,747,0
+Dataset/train/Pneumonia/b18b104d-6a96-4402-9e0f-64ca63b4f1ec.jpg 293,506,505,772,0
+Dataset/train/Pneumonia/c78daf52-c33b-4367-a28f-5bc60a92e7d9.jpg 588,433,859,727,0
+Dataset/train/Pneumonia/eef875e3-f6ce-457d-bb4f-7c42bf3cce09.jpg 250,316,399,544,0
+Dataset/train/Pneumonia/f0163438-7fad-4c43-b49d-ae23beea475c.jpg 538,498,775,669,0 216,424,314,502,0
+Dataset/train/Pneumonia/c3bef210-65b4-4bb1-bfa1-15ae213bfa8e.jpg 632,542,838,676,0 153,477,368,626,0
+Dataset/train/Pneumonia/d16488a8-5cfd-4051-bb2c-d7f7c88009e2.jpg 192,420,552,638,0
+Dataset/train/Pneumonia/b6468969-2e9b-4a36-aaa0-2c77b205105e.jpg 339,257,501,701,0 664,476,886,756,0
+Dataset/train/Pneumonia/bf639c3b-ca63-4ce9-ab5f-80cd0c2d7a5d.jpg 487,143,760,516,0 84,215,379,671,0
+Dataset/train/Pneumonia/d57802e4-da7a-4a7b-b5ca-c662ab5b1411.jpg 631,190,821,548,0 376,230,532,523,0
+Dataset/train/Pneumonia/b353a850-9c2b-452b-9610-21e27b01d4fa.jpg 248,668,410,908,0 579,762,803,973,0
+Dataset/train/Pneumonia/bdef94bc-4e2e-4df3-b06e-126aed15846a.jpg 257,113,492,543,0 634,201,841,749,0
+Dataset/train/Pneumonia/c3d5552f-483e-4ae0-a40c-0ca9ea34bc00.jpg 80,235,390,783,0 577,316,791,799,0
+Dataset/train/Pneumonia/db3c8b2a-797b-4178-9b68-09863e1a45a3.jpg 230,445,463,568,0
+Dataset/train/Pneumonia/bed364d9-7bad-4de8-b618-9de875b73d67.jpg 569,441,810,744,0 156,460,387,722,0
+Dataset/train/Pneumonia/d080e8cd-17fa-44d5-8401-736bf2e7f213.jpg 53,435,381,691,0
+Dataset/train/Pneumonia/bd7e6f9f-2933-496e-b180-4799292c6afc.jpg 305,272,472,456,0
+Dataset/train/Pneumonia/d26d8a6d-63e2-4c0b-9dd6-178d624829c7.jpg 642,117,859,449,0 367,148,566,413,0
+Dataset/train/Pneumonia/b17fc3e8-99ee-4297-8432-0bbef7d24e1b.jpg 122,152,434,658,0 585,155,885,810,0
+Dataset/train/Pneumonia/b31c76eb-b9ee-4c98-88f7-b8c04d7aa33f.jpg 539,509,749,711,0
+Dataset/train/Pneumonia/e7a47a98-2dd9-45af-9818-1ebd88cfb700.jpg 184,603,349,727,0 703,627,824,730,0
+Dataset/train/Pneumonia/b35a3c89-f199-4924-98f0-8d5beea4b41d.jpg 281,528,415,735,0 621,563,848,735,0
+Dataset/train/Pneumonia/b145a972-a2b6-4dca-b98b-37d41f7c371f.jpg 220,147,448,631,0 658,316,872,676,0
+Dataset/train/Pneumonia/ba353385-091c-4c4a-8048-eca0388c7a43.jpg 180,147,431,721,0 566,204,766,788,0
+Dataset/train/Pneumonia/b11a86fc-8db1-4a1e-90f5-8c07ab29cd99.jpg 205,510,384,653,0
+Dataset/train/Pneumonia/b1185bf9-79d4-4497-ac44-cd2581128f5b.jpg 614,398,906,695,0 166,410,397,627,0
+Dataset/train/Pneumonia/bf999eaa-6bce-46f8-be87-1dc34ca20e97.jpg 651,467,814,633,0 302,360,426,593,0
+Dataset/train/Pneumonia/d984ecfc-6b4b-4f39-9e66-c0b79a3d00f9.jpg 250,549,445,735,0
+Dataset/train/Pneumonia/bedb1f67-9f34-417b-aa14-ebfca18a38b5.jpg 232,436,464,643,0
+Dataset/train/Pneumonia/bb65756f-f78d-412a-b5e6-c7fe81c9eb4b.jpg 548,489,794,663,0
+Dataset/train/Pneumonia/c9a95b7b-dd0b-4479-ac2e-5dce68f1f129.jpg 155,275,432,730,0
+Dataset/train/Pneumonia/f73629d1-43c0-4ce9-91c4-28081f532e1f.jpg 634,248,831,690,0 289,226,498,629,0
+Dataset/train/Pneumonia/bc34f68f-0c2b-4e9e-be5e-377f531a1207.jpg 654,515,782,660,0
+Dataset/train/Pneumonia/bc41e91e-506d-4ff9-8dba-3fd085f38491.jpg 262,303,550,860,0 707,278,976,860,0
+Dataset/train/Pneumonia/be200106-3457-4b35-b328-9da7a752f0ff.jpg 162,127,463,664,0 625,197,891,686,0
+Dataset/train/Pneumonia/b13e0bd3-f990-4d48-8eae-f841a45af664.jpg 220,187,498,657,0 649,230,907,714,0
+Dataset/train/Pneumonia/bca2cc4f-0482-4a86-9bee-2ed85b8dbd75.jpg 264,445,475,627,0 629,398,856,694,0
+Dataset/train/Pneumonia/fd358431-c2ec-4b19-a689-b2fd369d84e1.jpg 751,419,928,607,0
+Dataset/train/Pneumonia/f8850ac3-bde9-473c-aca8-095f16193071.jpg 568,512,774,647,0
+Dataset/train/Pneumonia/d4d10646-e095-4cde-9f9a-b0d4b4cf6d5c.jpg 224,91,505,603,0 564,177,817,680,0
+Dataset/train/Pneumonia/db8433df-a208-4416-a35d-d131d8e334e3.jpg 278,528,409,593,0
+Dataset/train/Pneumonia/bc9bd81f-13cb-4fb1-acb8-2f79d4d58954.jpg 596,428,863,648,0 157,403,387,603,0
+Dataset/train/Pneumonia/b44bd070-da9f-479d-8546-9497dfc15762.jpg 623,238,861,694,0 257,277,496,547,0
+Dataset/train/Pneumonia/d2ac39d7-4862-4c21-a536-26ffc00450ef.jpg 380,375,548,608,0 626,365,857,632,0
+Dataset/train/Pneumonia/cb82576d-18f0-4116-83a4-97098a6d42ee.jpg 606,118,862,536,0 288,269,575,546,0
+Dataset/train/Pneumonia/cf6e4dd7-5d71-4ff8-aa41-2bfdb80e2e3e.jpg 561,200,862,483,0
+Dataset/train/Pneumonia/ec36d295-1e54-4de5-9b64-241cbd1aa0d4.jpg 253,331,470,796,0 698,321,907,840,0
+Dataset/train/Pneumonia/b6b209c2-1090-4d22-89bc-a9e65d500dc9.jpg 498,198,634,411,0 117,390,345,626,0
+Dataset/train/Pneumonia/ccb56286-f7d5-4786-82bd-b6b3e18e2149.jpg 294,459,463,789,0 628,446,870,760,0
+Dataset/train/Pneumonia/eddb7172-d147-448c-a8e2-fee8f9cfb449.jpg 216,449,402,719,0
+Dataset/train/Pneumonia/c3d8007b-6ac3-4a87-897c-f16ebda7a138.jpg 203,316,421,776,0 557,294,809,764,0
+Dataset/train/Pneumonia/b77ab795-de76-4715-b371-eb7be54b584c.jpg 264,565,436,753,0 579,626,814,788,0
+Dataset/train/Pneumonia/fc753cd9-e419-4baa-8233-008548b8aa3a.jpg 195,629,355,763,0
+Dataset/train/Pneumonia/e06102ad-7339-48f1-a201-4ce35fa2f191.jpg 512,391,750,557,0 146,188,302,532,0
+Dataset/train/Pneumonia/b539db75-809d-4c0c-8b9f-b0e934ed740e.jpg 566,461,836,942,0 199,404,435,890,0
+Dataset/train/Pneumonia/f37a0400-beea-4925-8b4b-420f1b33284b.jpg 150,357,291,546,0
+Dataset/train/Pneumonia/f9a571b8-65a5-463c-8ee7-db2f3728f5d2.jpg 193,452,385,688,0
+Dataset/train/Pneumonia/f57af871-f713-436b-85b3-58e686c685f2.jpg 85,573,267,772,0
+Dataset/train/Pneumonia/b4ea28a7-6386-4660-b499-af4eb17750e1.jpg 166,235,394,493,0 597,533,773,774,0 104,610,365,743,0
+Dataset/train/Pneumonia/f27252da-ac5d-46b2-8df9-32e09763574b.jpg 133,282,285,471,0 486,123,678,362,0
+Dataset/train/Pneumonia/dd7cf95b-f215-4880-9f3a-b7eb7b27fb79.jpg 627,314,840,437,0
+Dataset/train/Pneumonia/c3ea903f-5779-4eb0-9026-b5ed1cd0e943.jpg 341,346,492,501,0
+Dataset/train/Pneumonia/de2f67ae-c45a-4756-91d5-3ce30ba52258.jpg 279,195,490,491,0 720,199,883,430,0
+Dataset/train/Pneumonia/f263d63e-1715-4bd8-af5e-fa4e824fa55b.jpg 727,360,910,697,0 286,257,522,596,0
+Dataset/train/Pneumonia/bdc61d06-50cb-4f97-914e-eba06a7f6552.jpg 358,536,508,803,0 737,543,952,841,0
+Dataset/train/Pneumonia/e9ea9123-3eab-4d60-973d-bfca20b6e054.jpg 337,387,552,861,0
+Dataset/train/Pneumonia/b21091fa-70ab-432b-a05d-edfa6674cf9f.jpg 581,456,816,719,0 176,396,393,635,0
+Dataset/train/Pneumonia/e532c5eb-e94d-42db-89a7-914ed862490f.jpg 131,479,357,733,0
+Dataset/train/Pneumonia/fa42a65d-581e-44bf-a8de-b89e9a6c17fb.jpg 717,524,902,721,0
+Dataset/train/Pneumonia/b13df066-d9eb-41d8-82c0-3fd56846a98f.jpg 533,138,818,765,0 168,169,402,746,0
+Dataset/train/Pneumonia/bca6d69c-5695-4660-bcc2-2e5f4e479135.jpg 725,458,904,623,0
+Dataset/train/Pneumonia/b6e488a3-8ae5-4b90-82d7-2679cdffa4b0.jpg 165,178,416,663,0 566,212,766,720,0
+Dataset/train/Pneumonia/ed0c5d1e-934a-4e31-9221-3a6a69ec9c1b.jpg 158,345,354,580,0
+Dataset/train/Pneumonia/d47f354b-d29d-48b9-9c54-07c1e981bef4.jpg 225,311,490,678,0 595,272,864,756,0
+Dataset/train/Pneumonia/c48c38f1-a9ac-49e8-bd3b-de77c20446c5.jpg 265,198,538,757,0 606,209,840,782,0
+Dataset/train/Pneumonia/bb6fb57b-13e9-44e0-a941-79ec720f0ee4.jpg 119,225,343,506,0 444,449,662,816,0
+Dataset/train/Pneumonia/dbfdfa23-441c-4f30-b386-ecc3276d5552.jpg 270,569,443,735,0
+Dataset/train/Pneumonia/b28ef305-54b7-4a24-9edc-00eb8e13d649.jpg 615,664,807,837,0 163,548,348,763,0
+Dataset/train/Pneumonia/ee8a4128-a907-475b-a363-9cd60d65e46e.jpg 644,434,826,781,0 212,365,396,743,0
+Dataset/train/Pneumonia/b8d1e054-382a-42df-b371-596ea8886162.jpg 290,478,468,756,0 630,449,802,766,0
+Dataset/train/Pneumonia/c3b185a1-bcb2-4cdb-a4ac-1aeb2668751c.jpg 687,304,874,639,0 279,267,465,629,0
+Dataset/train/Pneumonia/b04f96a2-e122-43e7-93d6-f82ca84f6706.jpg 188,523,407,730,0
+Dataset/train/Pneumonia/e34cceab-c358-4257-8fcc-4ec1e7d7de36.jpg 206,402,443,540,0
+Dataset/train/Pneumonia/b60b8b4f-2130-42a6-b476-d9e1d80e3ad8.jpg 610,332,832,672,0 237,262,473,628,0
+Dataset/train/Pneumonia/c09b4889-d8d1-4690-806e-dfada1f79e0b.jpg 606,555,762,684,0
+Dataset/train/Pneumonia/b98df72f-9bd3-4523-940a-b4075f1ff311.jpg 194,364,413,483,0
+Dataset/train/Pneumonia/f32e03a8-4c73-49dc-a142-c6d8d55dff94.jpg 699,241,850,411,0
+Dataset/train/Pneumonia/db41f495-510e-4d53-9440-b593e8394ff5.jpg 210,522,338,585,0
+Dataset/train/Pneumonia/b79d126e-d469-4dc1-82e8-b3167e6b52d3.jpg 161,417,391,647,0 618,487,827,657,0
+Dataset/train/Pneumonia/d930583e-0c91-4b5f-9a23-0f71f0349586.jpg 148,606,354,731,0
+Dataset/train/Pneumonia/e16597e4-4bad-4d6b-819a-3f94dac2454d.jpg 221,319,406,550,0
+Dataset/train/Pneumonia/b852140e-62d4-4ddb-b344-bc694bf9f167.jpg 300,287,525,523,0
+Dataset/train/Pneumonia/b6fd85af-1619-498c-b118-4c1191dad257.jpg 200,203,430,794,0 585,211,717,413,0
+Dataset/train/Pneumonia/dcb6a72b-1d92-4cdb-aabc-86b408d50d4e.jpg 232,560,372,690,0
+Dataset/train/Pneumonia/ef0fe9c2-fb59-4631-86ec-c47020ff231b.jpg 553,314,759,853,0 201,373,409,832,0
+Dataset/train/Pneumonia/d3fbcb3d-b39c-4c8b-a23d-ae786dc11bfe.jpg 566,134,829,576,0
+Dataset/train/Pneumonia/b3671358-67b4-4e10-93af-c62a561d1546.jpg 355,405,577,735,0 772,439,1000,685,0
+Dataset/train/Pneumonia/dc5bd0b3-050a-42a3-b09e-bec480039d6f.jpg 181,522,384,663,0
+Dataset/train/Pneumonia/fe539da9-f41c-404f-bf48-cc20a30a201b.jpg 691,518,818,698,0
+Dataset/train/Pneumonia/e874f9c3-27c3-4b54-b3c0-bc4461342f90.jpg 629,538,874,695,0
+Dataset/train/Pneumonia/bce0b118-a130-47a3-bfa6-d5b68ac6b8e2.jpg 588,113,865,611,0
+Dataset/train/Pneumonia/bbca9bd4-53b2-4076-a3b3-a1ee4079faec.jpg 634,735,821,955,0 629,459,799,576,0
+Dataset/train/Pneumonia/c4c02f02-e91c-4a0f-8a56-d89f9fec81f3.jpg 578,175,814,750,0 247,124,463,736,0
+Dataset/train/Pneumonia/baa5cbde-acb9-4160-a8e9-d19ab0cf8063.jpg 626,302,911,970,0 137,271,449,944,0
+Dataset/train/Pneumonia/f86a02d1-4ee2-4578-b001-a03952254643.jpg 666,515,812,779,0 175,417,414,729,0
+Dataset/train/Pneumonia/de0ee373-dd0c-4f75-aa2c-c356d203696e.jpg 181,240,396,451,0
+Dataset/train/Pneumonia/dc506eb1-ef59-41e8-aebd-5c2a80026ba3.jpg 587,335,715,590,0 113,378,253,623,0
+Dataset/train/Pneumonia/e3c0a6ca-58fb-4b9f-b56b-25491bbf3db8.jpg 468,60,803,386,0
+Dataset/train/Pneumonia/ceae50d1-5854-438c-8cb1-0579e376e286.jpg 536,453,817,590,0
+Dataset/train/Pneumonia/b58b5574-d66b-4b28-8ca3-137768b44c84.jpg 174,545,366,716,0 626,409,860,627,0
+Dataset/train/Pneumonia/d877d8be-7d38-43aa-b359-bd86cf3951c3.jpg 140,363,346,651,0 567,313,810,639,0
+Dataset/train/Pneumonia/e8a7fd94-3616-448a-a57d-f4507987f185.jpg 187,618,331,778,0
+Dataset/train/Pneumonia/b468a5c0-3e86-46d9-84f1-8a0dea47c854.jpg 178,169,423,668,0 585,257,867,788,0
+Dataset/train/Pneumonia/c9a95d7f-8a6f-49c5-88d3-8a1cfaaf51a4.jpg 203,412,421,715,0
+Dataset/train/Pneumonia/b6cb8151-4575-461c-a342-335d9c413359.jpg 285,478,467,752,0
+Dataset/train/Pneumonia/fb8167ad-76f8-4f75-a422-90304c82f9d7.jpg 280,213,469,601,0
+Dataset/train/Pneumonia/f218fda3-c484-4836-867d-b7ad037bfe4e.jpg 239,426,394,592,0
+Dataset/train/Pneumonia/ddb757d1-a6e2-42e3-a438-100006fb38dd.jpg 495,427,661,750,0 129,448,292,787,0
+Dataset/train/Pneumonia/bf1e2342-1f62-4f96-a616-e0a279d9ba42.jpg 259,288,495,732,0 659,301,910,789,0
+Dataset/train/Pneumonia/e7b3fd9c-d51f-42dd-9f90-25160990faa8.jpg 211,260,361,784,0 564,274,787,693,0
+Dataset/train/Pneumonia/b7bee95b-ea79-46de-ac78-94ff8328a274.jpg 199,548,358,702,0
+Dataset/train/Pneumonia/ddb0dc48-542b-4b55-92d8-89bb2a779ba3.jpg 576,482,766,761,0 247,439,390,793,0
+Dataset/train/Pneumonia/fa532a37-779b-4d09-af50-553d103ff4d2.jpg 425,363,570,754,0 754,273,883,579,0
+Dataset/train/Pneumonia/ccee655e-89d0-4ff8-b16e-33b214b08daf.jpg 205,196,513,684,0 599,137,954,659,0
+Dataset/train/Pneumonia/efbaaa0c-da33-4200-a62e-d7d9d48c58ac.jpg 206,398,387,757,0 616,349,782,645,0
+Dataset/train/Pneumonia/bdfd8e85-cf42-4353-add4-2cb713d87bd5.jpg 278,501,490,728,0 679,472,901,729,0
+Dataset/train/Pneumonia/ef9fb572-2914-4d16-982a-59eb99f5567b.jpg 275,250,436,446,0
+Dataset/train/Pneumonia/b9683119-5341-4b9a-b423-9c7960446840.jpg 287,574,397,667,0 604,492,764,638,0
+Dataset/train/Pneumonia/bf4649af-b05d-4b63-8b6c-dfac44e5750b.jpg 661,322,825,624,0
+Dataset/train/Pneumonia/ce6385e6-88c6-432a-b32f-c7018795bc32.jpg 565,238,866,705,0
+Dataset/train/Pneumonia/f1509076-069b-449d-b659-4ae16300db31.jpg 554,251,723,624,0 198,265,369,584,0
+Dataset/train/Pneumonia/c67bbca3-9cc6-4eb8-8bdf-55378463e0b1.jpg 48,364,226,464,0
+Dataset/train/Pneumonia/bf61a6a9-03d3-4e18-8576-c599934b9cbc.jpg 591,319,718,493,0
+Dataset/train/Pneumonia/f743c21e-5876-460b-bbd6-2e2dcca41baa.jpg 204,523,411,851,0 756,662,930,935,0 245,318,379,448,0
+Dataset/train/Pneumonia/b86e6759-681b-4846-a51a-9f6ec523d633.jpg 580,163,849,596,0 179,196,430,663,0
+Dataset/train/Pneumonia/b9b618f9-89f8-4a4d-8eff-ccbf4bef0b16.jpg 263,308,446,819,0 552,318,819,848,0
+Dataset/train/Pneumonia/bb0e4a7c-5f47-4c43-892c-2ab317601edf.jpg 298,378,460,623,0
+Dataset/train/Pneumonia/ca2ee113-9d1d-486c-aab0-ef51cb27c79e.jpg 207,326,499,687,0 543,233,830,667,0
+Dataset/train/Pneumonia/d5835755-52dd-4a9d-a70e-6a49fcbbe1c8.jpg 241,266,419,559,0 632,235,825,581,0
+Dataset/train/Pneumonia/b5272c50-696d-4b11-8d2e-cb1618f1d3cc.jpg 552,210,817,859,0 166,104,456,812,0
+Dataset/train/Pneumonia/baf86877-7802-4dff-8870-cf2f38bc082a.jpg 197,192,457,857,0 584,207,836,866,0
+Dataset/train/Pneumonia/ea3f3fb8-d6dc-41c8-9bdf-a67b43570477.jpg 311,559,456,669,0
+Dataset/train/Pneumonia/befa7299-aa28-4487-b497-262ad6cd8f1c.jpg 210,222,461,683,0 620,240,887,787,0
+Dataset/train/Pneumonia/d2bc881e-3183-4c82-9852-26ee582b5764.jpg 554,355,848,618,0
+Dataset/train/Pneumonia/e7975e46-ac5c-4225-ba05-6e0b5b1ba917.jpg 188,639,373,788,0
+Dataset/train/Pneumonia/d373b335-d9d9-4594-b97e-03ec9aa8daa2.jpg 434,246,792,688,0 76,342,389,754,0
+Dataset/train/Pneumonia/b75a77fe-d336-4c9f-994f-3d158521fa28.jpg 217,221,457,578,0
+Dataset/train/Pneumonia/df8f2c22-ada6-4e53-9609-bc70528c5999.jpg 134,432,384,738,0
+Dataset/train/Pneumonia/bb8367d7-725f-46e9-afd8-90e89043b032.jpg 305,295,475,577,0
+Dataset/train/Pneumonia/cf81cc61-16b5-496f-999d-d34b434a9cde.jpg 161,208,465,610,0
+Dataset/train/Pneumonia/cc843bab-5068-4e18-a3fd-a597faea82df.jpg 225,464,521,672,0
+Dataset/train/Pneumonia/beda2f7c-82fe-4297-916b-e22979da3461.jpg 121,376,435,819,0 593,345,860,903,0
+Dataset/train/Pneumonia/d6931240-6770-4832-a4b8-4a47dd51c0ac.jpg 143,314,291,482,0
+Dataset/train/Pneumonia/f2e71eff-2656-4b52-a014-eea3d0d00efc.jpg 653,340,872,770,0 230,358,463,839,0
+Dataset/train/Pneumonia/b8328cd5-8b9d-4834-aa79-053be9640655.jpg 636,714,899,909,0 199,418,364,770,0
+Dataset/train/Pneumonia/b2541f48-1acf-4f33-b604-8665fc1517c8.jpg 179,581,348,764,0 538,539,724,708,0
+Dataset/train/Pneumonia/ec3f8f76-e644-4905-a379-8c8b33cc0dc6.jpg 192,561,354,671,0
+Dataset/train/Pneumonia/f50616b4-c6ab-44bc-8a70-28464c77c397.jpg 279,441,444,710,0 732,508,911,769,0
+Dataset/train/Pneumonia/f1a92173-262b-42d1-b64e-213cdf6afdae.jpg 167,516,434,873,0
+Dataset/train/Pneumonia/ec55e4ab-ecdd-4265-a5fa-d84ee0af1e0d.jpg 168,362,321,532,0 576,224,758,359,0
+Dataset/train/Pneumonia/bfccb05a-9ac8-4879-bdc4-7aff2460093c.jpg 578,338,838,917,0 197,332,449,863,0
+Dataset/train/Pneumonia/fa2e48d0-4326-48e9-bb10-9ee2d6600f9e.jpg 637,229,799,658,0 311,269,500,566,0
+Dataset/train/Pneumonia/bcaf0768-3841-4280-8de4-57e822f38c7a.jpg 167,325,427,721,0
+Dataset/train/Pneumonia/ca3d47d8-af70-4742-b53c-2cb77aaf63b7.jpg 181,308,353,677,0
+Dataset/train/Pneumonia/b9201f87-a5ef-49f1-b45f-4c54272bc5d6.jpg 162,164,420,761,0 558,221,815,711,0
+Dataset/train/Pneumonia/cf63d55f-512b-43c8-8c84-0aedfc89f3a0.jpg 87,230,370,368,0
+Dataset/train/Pneumonia/b0780603-efa4-453c-a51c-a23c4efedfc1.jpg 629,356,824,584,0 236,358,462,585,0
+Dataset/train/Pneumonia/be1a004a-5911-4b0f-a431-bf909eed1e60.jpg 607,399,844,611,0
+Dataset/train/Pneumonia/b5df5721-d026-4638-8b8d-67260798f6a7.jpg 136,242,383,969,0 520,237,827,977,0
+Dataset/train/Pneumonia/e5b2ae3b-2da6-4c16-96df-af8a72695893.jpg 594,299,806,722,0 174,309,423,590,0
+Dataset/train/Pneumonia/b56e253f-df19-4485-928b-d3b3f66d6c47.jpg 660,518,899,751,0 305,526,529,819,0
+Dataset/train/Pneumonia/e65d66fe-2835-4e27-859b-a65065758cab.jpg 555,243,764,608,0
+Dataset/train/Pneumonia/b20c86c3-84f9-466a-a405-a0cd7207a84e.jpg 192,592,431,787,0 613,517,817,755,0
+Dataset/train/Pneumonia/b697ecb0-3185-4ea6-a460-c5357b452e7a.jpg 267,355,439,650,0
+Dataset/train/Pneumonia/bc9683bf-595d-497e-8c99-ac9baed1a2eb.jpg 99,561,320,718,0 515,629,737,824,0
+Dataset/train/Pneumonia/f6b16a6d-345a-4348-93ba-48c69ac76822.jpg 274,383,480,693,0
+Dataset/train/Pneumonia/bca62fcd-acd1-4ffb-8e1e-fabd4f7c400f.jpg 631,252,986,926,0 142,105,416,870,0
+Dataset/train/Pneumonia/b829950f-6e68-4f84-9d7c-65a0aa3d0cab.jpg 195,410,407,654,0 563,341,825,574,0
+Dataset/train/Pneumonia/ca5defaa-00b9-4904-87dd-debcc3ed3d77.jpg 496,374,771,831,0 156,387,410,857,0
+Dataset/train/Pneumonia/f3aa1daa-4873-446a-a5b7-7da7f955245e.jpg 183,478,370,630,0 617,262,797,611,0
+Dataset/train/Pneumonia/d9a6fe09-9ee9-4d64-bc42-cd903276f513.jpg 178,690,364,838,0
+Dataset/train/Pneumonia/cd1d42a0-e085-4f64-baaf-1da212416e8d.jpg 624,269,934,866,0 216,313,496,775,0
+Dataset/train/Pneumonia/b62a6a88-6ad1-43cf-ad59-6d171e89b265.jpg 587,340,837,675,0
+Dataset/train/Pneumonia/c2974ad2-07ba-4353-9172-1375acd88d9a.jpg 677,563,891,716,0
+Dataset/train/Pneumonia/c0654897-6bfe-4b7c-abd3-dda76d0fcac2.jpg 131,369,401,829,0 615,456,828,891,0
+Dataset/train/Pneumonia/b7a29be3-3972-4b09-8b41-04e6bc2d96d8.jpg 508,179,783,780,0 173,195,385,671,0
+Dataset/train/Pneumonia/cf4acaef-abef-4341-a4f2-e1689d804d3e.jpg 229,292,418,542,0 470,207,804,556,0
+Dataset/train/Pneumonia/d61c2dad-6c7e-4247-b984-66efbc79d23d.jpg 215,464,395,710,0
+Dataset/train/Pneumonia/f23d7784-06b4-4e44-8dcd-e1eec3e7d7cf.jpg 672,522,831,766,0
+Dataset/train/Pneumonia/b6485351-ddd3-4bae-9b4e-6038370e827b.jpg 122,219,393,945,0 541,222,878,993,0
+Dataset/train/Pneumonia/b915ae1a-346d-4e9f-b1fd-a72e0a78a864.jpg 683,316,936,647,0 296,337,476,595,0
+Dataset/train/Pneumonia/becced78-9df7-4e9a-94c8-7cb750d41507.jpg 203,109,423,592,0 568,119,758,617,0
+Dataset/train/Pneumonia/e6dfc127-5e23-4a60-b784-efa008f59587.jpg 711,480,892,649,0
+Dataset/train/Pneumonia/ba07f107-5f57-4c63-8d82-e19b30e3e72d.jpg 586,373,759,803,0 195,360,420,708,0
+Dataset/train/Pneumonia/b1564fdf-53a6-4629-9253-431690f09c3a.jpg 224,274,426,721,0 483,257,693,683,0
+Dataset/train/Pneumonia/c068a37d-3fe7-4a26-bb74-575ea6be194d.jpg 649,519,802,744,0 282,326,432,559,0
+Dataset/train/Pneumonia/bd0bb326-cd0d-4dd8-be1c-25c15b076377.jpg 614,304,793,526,0
+Dataset/train/Pneumonia/bcfbbdcc-f648-4e72-931b-1747f502eb35.jpg 514,238,766,623,0 129,461,402,635,0
+Dataset/train/Pneumonia/f5ec1010-b315-453d-a163-2cc716ab182f.jpg 695,427,872,656,0
+Dataset/train/Pneumonia/e821a416-aed0-411d-ab8a-7813185384b9.jpg 39,881,147,1009,0
+Dataset/train/Pneumonia/f66549b1-f756-45d1-88cd-f0083e9a25ca.jpg 756,330,970,711,0 271,538,485,693,0
+Dataset/train/Pneumonia/f8cadc7e-6554-4967-89f3-d22e7bce757b.jpg 584,504,766,716,0 149,525,400,747,0
+Dataset/train/Pneumonia/ebdce693-283b-462c-825e-a182c6063a85.jpg 235,182,452,568,0 586,206,811,598,0
+Dataset/train/Pneumonia/c109061a-d815-4cae-8343-9230d8024adf.jpg 543,258,718,605,0 84,285,311,717,0
+Dataset/train/Pneumonia/f59d592e-2807-4dd0-8e56-810be8c02fac.jpg 586,328,814,583,0
+Dataset/train/Pneumonia/c21157da-1f74-4966-ba4e-c144d8f5da2d.jpg 210,314,460,762,0 614,298,836,816,0
+Dataset/train/Pneumonia/b3b09e3c-3e2c-43cc-bf1f-56d317769ee1.jpg 302,346,476,560,0
+Dataset/train/Pneumonia/c2c9a42f-a4ca-4ba6-9a79-7e670787e0cd.jpg 741,474,964,791,0 316,447,494,734,0
+Dataset/train/Pneumonia/ba96958c-acdc-46a1-9914-d0424361a07b.jpg 275,325,517,516,0
+Dataset/train/Pneumonia/f630809e-2498-44af-beaa-dda23a36cf20.jpg 296,319,459,572,0
+Dataset/train/Pneumonia/b4198862-dc25-4cff-acd5-b0b954bd3a03.jpg 165,246,440,765,0 578,222,943,767,0
+Dataset/train/Pneumonia/f92793eb-6396-4597-ad39-2cc6e8eff84b.jpg 278,332,433,646,0 633,326,802,661,0
+Dataset/train/Pneumonia/b038a798-3637-4f41-9e6a-c84660b45560.jpg 230,274,427,827,0
+Dataset/train/Pneumonia/bf7bc9a6-d454-4edd-8752-9273448a3b10.jpg 160,380,443,799,0 632,335,928,906,0
+Dataset/train/Pneumonia/d4e0b27e-79ad-4af1-bd49-6c7feaf3f84c.jpg 526,236,837,516,0
+Dataset/train/Pneumonia/d91b519f-9216-4ff9-9e2a-3356bfe4e391.jpg 270,528,466,683,0
+Dataset/train/Pneumonia/c37d38fe-a11e-453a-88a5-5d919bf9f760.jpg 216,424,379,837,0 623,297,821,618,0
+Dataset/train/Pneumonia/fe2e6108-895f-4469-8712-7965544dd47c.jpg 216,351,366,699,0
+Dataset/train/Pneumonia/bb6164ee-9b30-4b94-85ca-5f9d94b2ce4a.jpg 655,184,890,765,0 270,182,509,690,0
+Dataset/train/Pneumonia/d17c8ec3-cff1-4976-b83f-ba808e6a1428.jpg 216,508,468,787,0
+Dataset/train/Pneumonia/f6bd4ebd-efbc-4315-b67f-19ed7610b2d2.jpg 243,253,505,825,0 730,306,947,746,0
+Dataset/train/Pneumonia/faa4d458-b94d-46a4-8fea-c2f9ca5a70e9.jpg 516,316,735,713,0
+Dataset/train/Pneumonia/bf2703e3-8466-431a-85ea-15a1f6976d0f.jpg 202,523,453,808,0
+Dataset/train/Pneumonia/c3f28479-f4d5-4735-af3a-3f275c026efb.jpg 207,546,438,711,0
+Dataset/train/Pneumonia/dd4d6a4c-1e67-4911-bda2-7d8af75b1b19.jpg 200,386,370,602,0 554,319,699,485,0
+Dataset/train/Pneumonia/c1f94928-371a-42d0-91ae-f959928694fe.jpg 245,227,459,751,0 577,246,853,693,0
+Dataset/train/Pneumonia/b7f61871-5e78-4b27-bcc8-7c452c4c746a.jpg 606,382,850,746,0 177,537,404,854,0
+Dataset/train/Pneumonia/c21ee14a-8962-4406-b685-7888806a0a01.jpg 675,578,856,709,0
+Dataset/train/Pneumonia/bc54c1d6-8a51-4bae-adaf-d2b7ec7c4323.jpg 219,279,455,870,0 565,277,844,955,0
+Dataset/train/Pneumonia/cde08a05-31aa-44f6-8fc5-c16bb94d9432.jpg 601,253,835,640,0 203,322,430,558,0
+Dataset/train/Pneumonia/ebd9a666-b3ff-407c-9d50-9af3a285304f.jpg 194,504,354,784,0
+Dataset/train/Pneumonia/fafb820f-cd7f-4a19-a24f-f294e69a0f87.jpg 305,614,537,961,0 689,584,896,916,0
+Dataset/train/Pneumonia/b64f53f6-a558-4d6c-99d7-50287d3b3773.jpg 228,288,521,693,0 642,178,921,739,0
+Dataset/train/Pneumonia/b8d6b40d-2a3d-475f-88d3-03560f645223.jpg 176,126,431,586,0 593,162,814,610,0
+Dataset/train/Pneumonia/db798a1e-84b8-43ff-b4d5-990470c2579d.jpg 289,495,409,651,0 654,606,809,752,0
+Dataset/train/Pneumonia/db5399f8-e0cb-4208-8694-a7136f9ac574.jpg 378,310,489,440,0
+Dataset/train/Pneumonia/ceb849b4-5618-4c3b-b34a-6ef007ae2ba0.jpg 604,337,864,574,0 357,397,514,609,0
+Dataset/train/Pneumonia/c04f9256-7358-42ef-b843-19dbf64ef287.jpg 634,421,811,495,0
+Dataset/train/Pneumonia/d99e786f-9de0-44b4-bb3a-00fba6c72994.jpg 201,489,421,634,0
+Dataset/train/Pneumonia/bfb26523-d1cf-4876-8ca7-23f7050a6f76.jpg 298,252,511,475,0 668,98,865,624,0
+Dataset/train/Pneumonia/f9651c64-a88f-46fd-9ca1-63a55f50873c.jpg 164,306,376,614,0
+Dataset/train/Pneumonia/f9715e1e-5d0f-4616-9bb4-c98e105acab1.jpg 332,289,471,584,0 630,312,766,597,0
+Dataset/train/Pneumonia/f7bd2b79-ca7e-4787-9d78-7041d7aa7498.jpg 161,221,456,795,0 576,294,803,843,0
+Dataset/train/Pneumonia/d03b693d-8e4d-48ee-8cb3-8577680a55e4.jpg 527,158,803,550,0
+Dataset/train/Pneumonia/b815bf0c-9150-4a9f-acd5-d278a35e505d.jpg 225,465,432,760,0
+Dataset/train/Pneumonia/ccee103f-fd2f-44b1-a14d-5f78c7073868.jpg 326,287,517,579,0
+Dataset/train/Pneumonia/dee34d09-f146-45ec-a1c1-4cb4686878b8.jpg 234,458,380,594,0
+Dataset/train/Pneumonia/c208db34-d893-4a2b-9cf2-45490f5b78a3.jpg 619,641,754,758,0 260,518,403,677,0
+Dataset/train/Pneumonia/bb54e10c-1397-4913-ab11-7a8484e6b959.jpg 631,193,842,765,0 346,278,515,648,0
+Dataset/train/Pneumonia/d780acd3-4af3-48f2-a60a-0c56ff78de4e.jpg 248,556,381,749,0 621,431,739,594,0
+Dataset/train/Pneumonia/b8d7b42e-8dc7-4330-a8f3-db52852f1714.jpg 175,563,404,840,0 604,499,833,914,0
+Dataset/train/Pneumonia/b53bf210-ecc9-4f18-a42f-dfcb87fe1c24.jpg 604,310,749,597,0
+Dataset/train/Pneumonia/b6db3041-1554-43ef-baca-58733b6717d6.jpg 347,459,486,654,0 641,387,771,574,0
+Dataset/train/Pneumonia/fd5cc454-f85b-464d-a04f-09d46a86d200.jpg 325,277,535,612,0 770,366,971,645,0
+Dataset/train/Pneumonia/b5017804-ddc0-44fa-8d64-15628c25e031.jpg 602,452,803,730,0 221,464,446,705,0
+Dataset/train/Pneumonia/bdbba1b5-1a3f-4ee4-9044-565baba3f976.jpg 664,248,841,768,0 243,180,477,728,0
+Dataset/train/Pneumonia/f7b45870-76fe-42f3-9833-acef8c336dac.jpg 558,677,747,802,0
+Dataset/train/Pneumonia/dd50a2c2-471a-4faf-8f78-99eaedd5147b.jpg 146,477,304,608,0 556,343,761,671,0
+Dataset/train/Pneumonia/c4328895-fac4-4ecc-b164-88f77dee37ca.jpg 219,250,463,710,0 562,268,848,733,0
+Dataset/train/Pneumonia/c9e42d59-92ab-4e5f-a0fa-c728193684d4.jpg 686,507,927,812,0 261,502,507,720,0
+Dataset/train/Pneumonia/e5f214d1-2842-4a26-9a2e-fd05b15fb8b3.jpg 132,489,241,609,0 628,454,798,702,0
+Dataset/train/Pneumonia/fba0309a-edbe-4d97-b806-f6fe8460ced3.jpg 637,404,866,754,0
+Dataset/train/Pneumonia/f31a958a-66bf-4ccc-9fd7-79bbb9d17e7a.jpg 251,507,402,760,0
+Dataset/train/Pneumonia/ccb10edf-bdb8-4022-b6ce-c131dee4541b.jpg 222,354,430,694,0
+Dataset/train/Pneumonia/efd3dbd7-d339-43b9-93e4-2274ab8e7936.jpg 138,356,382,876,0 539,297,791,807,0
+Dataset/train/Pneumonia/d9ceeda5-836a-40a9-b517-49921ec60490.jpg 178,287,324,545,0
+Dataset/train/Pneumonia/e41fdc8f-1cbd-4acd-94be-6a27df3b750c.jpg 334,621,468,753,0
+Dataset/train/Pneumonia/b053417c-836f-4f6f-9224-f9dc286ee6d0.jpg 263,239,443,630,0 591,340,823,695,0
+Dataset/train/Pneumonia/c5e9b1c8-4a98-4ea6-b918-b1621ecf0ddd.jpg 569,245,785,686,0
+Dataset/train/Pneumonia/bfd6493b-7b0d-4bb6-a7ed-bd69007dc433.jpg 195,538,404,763,0 540,568,731,818,0
+Dataset/train/Pneumonia/fbde1e4d-650b-4ac5-8921-65510589656c.jpg 109,374,326,605,0 614,228,853,582,0
+Dataset/train/Pneumonia/da0d705d-7722-43d1-a880-a34c553f0719.jpg 220,364,410,550,0
+Dataset/train/Pneumonia/bcff3700-de7c-42c2-be5d-1c95d008966a.jpg 333,494,460,732,0
+Dataset/train/Pneumonia/de0753bc-4086-4b85-a0bf-ca66c5832ce3.jpg 213,542,414,715,0
+Dataset/train/Pneumonia/bacb9e6d-ad87-4841-99e0-685aa0249bbe.jpg 260,383,467,613,0 628,297,862,586,0
+Dataset/train/Pneumonia/f2fda506-7c73-4746-a7a6-59968f1e8de2.jpg 632,198,824,748,0 205,160,450,771,0
+Dataset/train/Pneumonia/f21a2acc-e6f1-4132-b094-83c9e94a5e7d.jpg 597,361,790,680,0 198,430,382,653,0
+Dataset/train/Pneumonia/b448e93a-18aa-4aa0-8b28-2e58529cf8e6.jpg 320,172,635,699,0 749,280,923,868,0
+Dataset/train/Pneumonia/cd7ed4b2-eae7-4fef-ba8d-5c1825efc0f7.jpg 583,465,798,638,0
+Dataset/train/Pneumonia/bc407298-ee2e-4723-b4ec-58f4603ce88d.jpg 540,388,828,664,0
+Dataset/train/Pneumonia/b42eaeb8-b6d3-41d7-836c-56fd0922abf6.jpg 513,159,637,356,0 314,485,450,692,0 590,458,718,686,0
+Dataset/train/Pneumonia/fcb9ac7c-e587-48e2-932d-ce270d6d66b8.jpg 307,492,471,625,0 708,550,864,748,0
+Dataset/train/Pneumonia/bc8619aa-4d19-43d1-87a1-31b6f49a9942.jpg 605,154,789,618,0 64,373,346,606,0
+Dataset/train/Pneumonia/d0ef248f-6358-45d2-9264-79533aa50593.jpg 298,216,558,727,0 602,284,855,655,0
+Dataset/train/Pneumonia/b625110c-330c-47f9-aa5a-31adaad56151.jpg 544,192,728,555,0
+Dataset/train/Pneumonia/f29da87d-abd4-4141-96d9-e48f95ca67ab.jpg 570,373,764,759,0 171,357,362,724,0
+Dataset/train/Pneumonia/b0958738-73d0-47d5-9703-0de86944e0da.jpg 421,509,578,743,0
+Dataset/train/Pneumonia/dae4e147-89d1-4110-bbeb-90ac76ede50a.jpg 582,403,773,727,0
+Dataset/train/Pneumonia/bc84827e-f1af-43c8-a787-961139eb9940.jpg 196,465,419,604,0
+Dataset/train/Pneumonia/bc4fb949-f968-4360-a856-2b506e6bf2e3.jpg 199,592,449,708,0
+Dataset/train/Pneumonia/f560fc1c-ec3a-409c-a035-344bff1bbc06.jpg 252,385,401,631,0
+Dataset/train/Pneumonia/edfb87ef-944e-42df-a5f1-49b415d1741a.jpg 658,310,807,463,0
+Dataset/train/Pneumonia/e1c9d1ec-05eb-4bf8-9d64-2aea82f43d98.jpg 161,534,364,774,0
+Dataset/train/Pneumonia/c2cd0631-a09e-4d53-afe4-f904899392fb.jpg 208,327,437,676,0
+Dataset/train/Pneumonia/bc88fe07-10a9-4032-9a0b-21f57f10d555.jpg 205,702,432,928,0 589,787,859,1013,0
+Dataset/train/Pneumonia/c1e73a4e-7afe-4ec5-8af6-ce8315d7a2f2.jpg 666,418,852,641,0 316,504,495,777,0
+Dataset/train/Pneumonia/b7e58e65-9a85-47e0-a45c-6b943e01f726.jpg 306,574,473,823,0 604,292,832,696,0
+Dataset/train/Pneumonia/b407bfac-f351-4129-9e55-53e825f7ab16.jpg 388,297,670,715,0 6,355,253,634,0
+Dataset/train/Pneumonia/f8153745-24f3-43d5-8684-209b59fcddfe.jpg 231,568,395,690,0
+Dataset/train/Pneumonia/bc5360ed-0247-47b8-93a0-c34ebbf936bb.jpg 518,499,753,739,0 169,239,292,391,0 211,480,384,680,0
+Dataset/train/Pneumonia/bf179444-ea01-417d-b78c-cf9aa42f5e5e.jpg 600,599,827,752,0
+Dataset/train/Pneumonia/ec93d206-ec61-4e16-afc4-898f754916fa.jpg 666,597,800,817,0 277,624,441,908,0
+Dataset/train/Pneumonia/c2096643-ac3f-4867-880d-63b8370c6ade.jpg 539,303,820,787,0 155,321,384,749,0
+Dataset/train/Pneumonia/f5ff6567-9b99-4070-9b62-51b336336859.jpg 636,513,788,724,0 262,396,443,712,0
+Dataset/train/Pneumonia/d73404b9-b882-4d8f-a14f-876aa52c9559.jpg 637,259,803,522,0
+Dataset/train/Pneumonia/f1677417-36ca-4ee2-886b-bb5e7c6a35ab.jpg 128,401,399,829,0 642,509,830,759,0
+Dataset/train/Pneumonia/f184f903-7ec4-4b69-8ac1-1f2d171065ef.jpg 555,515,765,865,0 169,453,309,646,0 570,231,738,481,0
+Dataset/train/Pneumonia/c2cd822c-a98e-451d-8600-e52f50d65c28.jpg 693,483,866,771,0
+Dataset/train/Pneumonia/b0048d9d-6e9d-4a32-b852-12a696cb677a.jpg 298,514,429,676,0
+Dataset/train/Pneumonia/b358f0ea-23d2-43a9-a5f1-54fc78a8c5e7.jpg 578,402,806,599,0 183,469,414,673,0
+Dataset/train/Pneumonia/dbfc2da5-fc7e-431d-b05d-9a0b580c357f.jpg 171,531,337,636,0
+Dataset/train/Pneumonia/dcadb2f5-7f98-43ae-83d6-e9e554b170c0.jpg 447,389,565,649,0
+Dataset/train/Pneumonia/bfbea630-4c43-485f-b1b2-0e5715109ae3.jpg 605,357,768,789,0 241,539,462,982,0
+Dataset/train/Pneumonia/b96a158e-00ce-4b22-8431-05a30448d7f5.jpg 709,591,913,760,0 285,568,462,904,0
+Dataset/train/Pneumonia/f9a49f40-36ba-4993-976c-116c12cf166f.jpg 234,231,358,420,0 526,222,645,382,0
+Dataset/train/Pneumonia/f4b33c44-a7c1-4a14-a094-34bf19b38fd5.jpg 609,689,834,837,0
+Dataset/train/Pneumonia/f4b5f778-32f9-4197-b765-2347e3a4973d.jpg 222,434,419,903,0 649,264,823,427,0 702,525,870,906,0
+Dataset/train/Pneumonia/db992a32-d062-4a78-a7a2-40aaa6146977.jpg 190,440,345,598,0
+Dataset/train/Pneumonia/b217cb57-c3f5-4fab-a81f-48425916ba54.jpg 613,545,849,926,0 147,675,419,924,0
+Dataset/train/Pneumonia/f73ff426-6e28-476e-82c6-31d3603a1cc3.jpg 655,610,846,787,0
+Dataset/train/Pneumonia/b54f130a-94fc-49ae-a6b2-5e1c870720a7.jpg 614,527,886,702,0 180,504,422,705,0
+Dataset/train/Pneumonia/b06a0fe5-dd0c-448e-bbbd-b773b17e5537.jpg 575,231,791,626,0 253,193,473,617,0
+Dataset/train/Pneumonia/cd79b093-d3a2-49bd-8868-b463ff05f3e8.jpg 604,336,868,630,0
+Dataset/train/Pneumonia/bfa45a99-7125-4d61-966b-c51e54dcbf10.jpg 615,314,779,534,0 208,387,452,712,0
+Dataset/train/Pneumonia/b480a222-9ff6-445e-a911-e5a4161eff10.jpg 124,338,369,604,0 597,435,824,679,0
+Dataset/train/Pneumonia/d29caa55-2027-4078-8d93-c6aaa25f7044.jpg 504,193,731,451,0 238,231,431,496,0
+Dataset/train/Pneumonia/ca2304fd-4dd8-4b5c-9450-d9d0804cd378.jpg 604,237,818,616,0
+Dataset/train/Pneumonia/eb0cc4c8-4ce7-46b9-9ad2-c4bb71fcbf59.jpg 224,547,431,741,0 660,548,888,751,0
+Dataset/train/Pneumonia/f92ddac9-aba6-4607-ba72-6ab7e8776fef.jpg 622,185,854,669,0 244,319,446,673,0
+Dataset/train/Pneumonia/cb008bee-f96b-4039-b69b-46a7ad8e50c0.jpg 724,466,977,731,0
+Dataset/train/Pneumonia/ed76361e-042c-49a2-b6e5-6ad404525c2e.jpg 242,325,428,758,0 567,304,755,733,0
+Dataset/train/Pneumonia/bd9af100-1805-4e0a-8875-4a4b7195f0d8.jpg 584,337,803,704,0 240,379,412,787,0
+Dataset/train/Pneumonia/d4683e9b-ee14-40e1-a9f9-1eebd8d125ee.jpg 285,301,511,713,0 592,264,858,791,0
+Dataset/train/Pneumonia/bc43dbd7-03e5-450d-aa3c-d0efed12a8f9.jpg 633,646,861,850,0
+Dataset/train/Pneumonia/f966c01e-ee55-4544-a700-032f9d538a2b.jpg 261,345,446,676,0 681,365,872,563,0
+Dataset/train/Pneumonia/f125b9c8-6ea0-4378-8190-0583ef725a24.jpg 290,643,416,730,0
+Dataset/train/Pneumonia/b2761cd1-6932-4d3b-a9dc-88f5a79a98ed.jpg 641,387,778,558,0 277,392,374,541,0
+Dataset/train/Pneumonia/da69ffb8-40fa-49ea-b11e-9ddff40845e8.jpg 220,97,440,438,0 567,79,780,392,0
+Dataset/train/Pneumonia/b6138fc8-c652-4b7f-978d-895d10b0a0ea.jpg 319,504,435,669,0
+Dataset/train/Pneumonia/b267ae3f-b52c-403c-be9d-c8ac9070020e.jpg 653,435,888,701,0
+Dataset/train/Pneumonia/bfb48b34-fe9a-4f31-bb5a-27ffe55a49fb.jpg 590,206,808,686,0
+Dataset/train/Pneumonia/f12d7b12-0398-4533-8f55-8772cc434945.jpg 633,283,765,566,0 250,197,431,624,0
+Dataset/train/Pneumonia/beb22c8b-ca31-4a8a-a86a-5592e97966c3.jpg 477,404,722,942,0 99,274,328,969,0
+Dataset/train/Pneumonia/bc376e0b-3c4f-414c-b2e7-1a085e87976a.jpg 191,282,410,785,0
+Dataset/train/Pneumonia/b9accc72-3980-4f50-9a16-0a26ca6285ad.jpg 169,161,408,706,0 519,155,761,455,0
+Dataset/train/Pneumonia/bf99f510-56e1-421b-ad0f-ad10f4cdd3a3.jpg 240,542,474,756,0 653,547,867,757,0
+Dataset/train/Pneumonia/cbce283e-91f9-4418-90e7-9aafcd017e33.jpg 134,206,460,895,0 559,222,854,846,0
+Dataset/train/Pneumonia/d9728525-2c4b-4526-bbf7-873831872a20.jpg 227,474,477,674,0
+Dataset/train/Pneumonia/b9e89b84-5cb2-4005-b654-a3e13c544923.jpg 501,417,738,677,0 151,290,370,640,0
+Dataset/train/Pneumonia/b84fca75-6c3f-4026-b65f-c9130c409e4d.jpg 373,378,495,512,0
+Dataset/train/Pneumonia/ed5ddfad-977d-4b5c-9584-ba676b156f2e.jpg 208,470,410,604,0
+Dataset/train/Pneumonia/f957afbf-fa78-47a0-942c-17b2f5262fc9.jpg 608,521,767,727,0 271,524,442,689,0
+Dataset/train/Pneumonia/bb1715b5-51ff-487d-ba71-669de8e74652.jpg 129,466,420,635,0
+Dataset/train/Pneumonia/bd3e9f4d-d4dd-4550-ad5c-a48bd452a2a7.jpg 132,257,349,783,0 543,217,816,734,0
+Dataset/train/Pneumonia/c1415e26-fddf-4a0c-a7eb-7b9a0d9e9983.jpg 131,218,345,597,0 497,127,744,495,0
+Dataset/train/Pneumonia/bd8facb9-dce0-4048-8249-e6078b28e1b7.jpg 146,227,393,625,0 562,233,807,640,0
+Dataset/train/Pneumonia/d0d7dab6-1938-4859-beca-987458d20699.jpg 77,328,354,613,0 445,328,773,691,0
+Dataset/train/Pneumonia/e3a576a6-2c29-483d-be9d-4a6a3327a0cf.jpg 686,526,797,821,0 138,484,334,712,0
+Dataset/train/Pneumonia/bfdffef0-de93-45a5-a743-af5e2b3ac681.jpg 249,278,536,704,0 678,299,923,737,0
+Dataset/train/Pneumonia/d187294d-3dff-4de1-9bef-90a4f4c76cef.jpg 505,173,772,614,0 201,160,456,609,0
+Dataset/train/Pneumonia/bd56f37d-5561-40f9-bd09-1363786eab67.jpg 179,433,422,706,0
+Dataset/train/Pneumonia/cd544eaa-5084-4bd3-81d1-8d02da582260.jpg 275,262,506,672,0 681,245,946,595,0
+Dataset/train/Pneumonia/d5e9a92d-fb2f-416b-8731-4f7435d6c9c5.jpg 142,403,410,583,0 735,398,953,609,0
+Dataset/train/Pneumonia/b83edafd-86b5-4fe2-a2a9-1a72ce1880b9.jpg 245,454,514,704,0 536,122,778,517,0
+Dataset/train/Pneumonia/c10f3035-c0f4-4436-a6f9-bbeb87777231.jpg 164,238,432,528,0 586,258,829,607,0
+Dataset/train/Pneumonia/f9c26b15-b775-437a-8a40-0850794f23bb.jpg 215,287,400,667,0 562,259,774,676,0
+Dataset/train/Pneumonia/f3d8b643-0706-4997-8819-92bb95524626.jpg 98,576,387,836,0
+Dataset/train/Pneumonia/d50b31c0-05b1-404d-a03f-330d2b13a1b5.jpg 131,274,458,742,0 566,359,892,779,0
+Dataset/train/Pneumonia/be5d4e59-c207-4359-b7ad-a88fb593f2c7.jpg 238,140,468,703,0 578,132,803,691,0
+Dataset/train/Pneumonia/bebdcf14-c068-400b-b006-9d4169e18fb1.jpg 60,474,339,797,0 508,348,847,667,0
+Dataset/train/Pneumonia/c5d0608a-f8b0-4ac6-8dd7-56763aefd75e.jpg 119,280,412,641,0 586,337,950,662,0
+Dataset/train/Pneumonia/e191c1c9-94e8-48fe-8ad3-bda04a74a905.jpg 743,418,968,658,0 296,586,478,746,0
+Dataset/train/Pneumonia/c32611c5-e546-4021-b244-4a6d0503787c.jpg 151,555,408,714,0
+Dataset/train/Pneumonia/e9e58cf9-f301-4fe9-a5d5-ff12f7981612.jpg 203,343,373,651,0 640,506,754,626,0
+Dataset/train/Pneumonia/d72cd242-ad82-480f-acd1-e1b3a793cad2.jpg 662,275,870,614,0 195,409,408,772,0
+Dataset/train/Pneumonia/bf6e8629-59e7-4866-8033-65db70e55b14.jpg 193,180,487,723,0 554,84,847,548,0
+Dataset/train/Pneumonia/bdd44f36-4634-44d1-b90f-3cbc8dc639f1.jpg 717,311,889,754,0 200,483,437,795,0
+Dataset/train/Pneumonia/f650ee02-3a03-4da0-8fd9-12f1ffae35b4.jpg 340,232,528,586,0 761,395,900,643,0
+Dataset/train/Pneumonia/d16d9a30-02f2-43e0-aa63-9a0e2a375913.jpg 42,247,368,785,0 425,275,721,742,0
+Dataset/train/Pneumonia/d667579e-aa2d-461e-a869-4799ad466add.jpg 564,193,847,777,0 218,241,358,750,0
+Dataset/train/Pneumonia/b020af54-1c80-4f36-829e-a5c9515802fd.jpg 497,304,691,687,0 149,300,336,648,0
+Dataset/train/Pneumonia/de021bc5-eacc-4c73-a8c2-7f98d5467c52.jpg 609,611,847,766,0
+Dataset/train/Pneumonia/b95d289f-8019-4491-8f90-39a55d321c37.jpg 318,366,489,575,0 650,509,744,687,0
+Dataset/train/Pneumonia/c2c4dd48-9a14-440e-9d97-3433553934ef.jpg 180,534,431,845,0 655,496,872,910,0
+Dataset/train/Pneumonia/b6628d2e-e8dc-427e-bcb4-a19cf31b9ec7.jpg 592,208,829,629,0 185,251,419,870,0
+Dataset/train/Pneumonia/cb85b732-7abe-42b6-843e-c6884a619361.jpg 248,339,488,626,0
+Dataset/train/Pneumonia/e7b3b69e-aa81-4f62-8c7f-24c3a2d5cf69.jpg 618,168,835,506,0 237,231,360,668,0
+Dataset/train/Pneumonia/b541091c-8437-407d-be64-2440a01b33e8.jpg 202,213,439,701,0 555,263,766,810,0
+Dataset/train/Pneumonia/ef7c58ec-8b59-4406-952e-9d54c34e6276.jpg 705,423,829,546,0 693,585,902,741,0
+Dataset/train/Pneumonia/cdcecbe8-45cd-42a5-a47d-d58bc638f937.jpg 621,527,889,830,0 206,480,381,798,0
+Dataset/train/Pneumonia/fd676e0b-14e6-40d4-8c4a-85d028559ad1.jpg 632,284,741,485,0 200,185,366,381,0
+Dataset/train/Pneumonia/d29dee03-1ae6-472d-9685-0d3201fd8689.jpg 239,377,510,673,0 545,319,837,705,0
+Dataset/train/Pneumonia/eeb9b9e9-1502-49c0-b622-94f43a0b07c8.jpg 598,554,754,684,0 616,378,717,514,0
+Dataset/train/Pneumonia/c88d5bf1-aac9-4d2e-87ab-c3a0d8028f12.jpg 494,342,747,734,0 224,339,418,697,0
+Dataset/train/Pneumonia/d98964c9-e676-4e33-a456-27cea6ff007a.jpg 138,561,411,837,0
+Dataset/train/Pneumonia/ba29c8c8-c116-4b8e-b8d6-ec870ca9f9e5.jpg 272,457,491,821,0
+Dataset/train/Pneumonia/b3f132cb-438b-40d4-a951-0089e8b1a840.jpg 166,230,437,836,0 556,345,812,908,0
+Dataset/train/Pneumonia/eb10b7c7-fc94-488a-a5a9-704876d78ebb.jpg 154,594,306,756,0 559,511,733,730,0
+Dataset/train/Pneumonia/ba3766e2-8065-45ab-a8a3-a5e5d81d5c15.jpg 314,255,530,875,0 665,282,913,779,0
+Dataset/train/Pneumonia/d50f9380-dc8e-4edd-9fb8-81bd80c57866.jpg 201,405,394,621,0 486,374,726,644,0
+Dataset/train/Pneumonia/f002b136-7acc-42e3-b989-071c6266fd60.jpg 199,420,408,617,0
+Dataset/train/Pneumonia/b0172af7-ae97-41a4-a848-cdea0fc1866b.jpg 662,195,959,717,0 246,218,507,681,0
+Dataset/train/Pneumonia/f08041f0-be4c-4893-858c-99465834cc0a.jpg 214,553,369,712,0
+Dataset/train/Pneumonia/baac301e-08a6-4267-a17a-78e3fcb23f21.jpg 648,100,894,524,0 288,142,534,597,0
+Dataset/train/Pneumonia/b7df240d-953d-4cc7-9ff7-c35611c348e3.jpg 658,512,783,713,0 272,516,416,670,0
+Dataset/train/Pneumonia/d947215e-c4c5-4907-8d47-0735a0ba4fb9.jpg 717,537,890,768,0 170,565,403,763,0 248,309,363,450,0
+Dataset/train/Pneumonia/b8fa31a7-52ba-4bd1-8b63-0568b6935306.jpg 222,163,475,668,0 627,200,929,790,0
+Dataset/train/Pneumonia/e5e49f6f-0ca4-44bd-b092-e15ddc944cba.jpg 298,284,485,583,0 663,330,855,675,0
+Dataset/train/Pneumonia/bb24d7e7-19dd-456a-aea8-fd04208db4be.jpg 561,522,861,714,0 154,461,401,740,0
+Dataset/train/Pneumonia/e6063bd8-e46c-4430-a63c-03adc37511f7.jpg 236,469,341,578,0
+Dataset/train/Pneumonia/b5714c0f-6d0f-4c56-833f-8b83f19e982a.jpg 525,409,773,783,0 191,612,388,862,0
+Dataset/train/Pneumonia/f3bea900-7094-44d2-bb12-fdec80766f9d.jpg 299,324,484,521,0
+Dataset/train/Pneumonia/bb509940-e147-4ff1-806b-a82890182d5b.jpg 148,71,381,694,0 508,109,725,698,0
+Dataset/train/Pneumonia/b7865631-3c59-43b1-bdbc-117844b95456.jpg 624,312,807,775,0 207,432,437,724,0
+Dataset/train/Pneumonia/fe5e5a88-1f1d-4abf-9a40-03517c3260ba.jpg 120,541,267,719,0
+Dataset/train/Pneumonia/d27e22bc-ba0f-434f-a4f5-cdd9a24e598f.jpg 220,456,505,835,0
+Dataset/train/Pneumonia/b406e391-9f28-4f26-a71f-285d5e3f488c.jpg 285,482,509,835,0 649,455,851,846,0
+Dataset/train/Pneumonia/d49f6b2a-8e3b-4b04-93a7-b1e11cd9657c.jpg 202,557,405,858,0
+Dataset/train/Pneumonia/c205b0ee-cc92-47b5-967d-8d473300d052.jpg 225,348,387,796,0 585,355,816,802,0
+Dataset/train/Pneumonia/ee674127-083a-4562-a4e6-3ee96bae758a.jpg 272,463,399,630,0
+Dataset/train/Pneumonia/c4beaa39-4902-43c5-a7e0-179e6e8bbe28.jpg 214,469,396,570,0
+Dataset/train/Pneumonia/cbefe06a-100f-4e77-8fc2-d8af7d0e4cfe.jpg 499,196,805,624,0 107,193,347,606,0
+Dataset/train/Pneumonia/f02e36df-ac4d-43f1-8001-3e0494145b0a.jpg 554,286,756,640,0 121,194,349,648,0
+Dataset/train/Pneumonia/bfb32559-717d-4a13-81b9-1b9fa902f4f2.jpg 149,648,410,845,0 595,673,880,869,0
+Dataset/train/Pneumonia/e3dca188-6311-4214-9d15-c1d4ba4dea55.jpg 240,371,389,772,0 694,488,793,830,0
+Dataset/train/Pneumonia/f2e8cacc-b217-4e82-93ba-33bf5e04e94c.jpg 763,495,916,706,0 343,541,549,784,0
+Dataset/train/Pneumonia/dcbc1eb6-52a1-41ab-862c-547f94f0ee05.jpg 367,259,429,455,0
+Dataset/train/Pneumonia/eb9ee346-11b0-4ae1-8b69-99d54acdaeaf.jpg 249,391,451,843,0
+Dataset/train/Pneumonia/b181eb13-a6b0-4576-afcd-0e23c90723ba.jpg 367,596,498,728,0 650,476,839,699,0
+Dataset/train/Pneumonia/b05b4898-2003-4a43-a5bd-8de50200db4a.jpg 561,398,776,643,0
+Dataset/train/Pneumonia/d20338e0-8ae9-4a30-9a0e-8225aae32073.jpg 547,364,884,690,0
+Dataset/train/Pneumonia/f5848669-b012-4685-9bc2-3c76680f7289.jpg 642,397,804,737,0
+Dataset/train/Pneumonia/dd1c3cab-8b7a-4922-95d4-ddfd2c686d15.jpg 645,233,911,784,0 257,270,513,767,0
+Dataset/train/Pneumonia/bb6697ee-46a6-47ee-8ed5-5ba295327702.jpg 602,328,815,554,0 320,470,466,630,0
+Dataset/train/Pneumonia/e77e8d88-11e5-4d15-8dfb-abcd5c09c9f0.jpg 711,564,761,626,0
+Dataset/train/Pneumonia/cb683934-8d2d-4cda-b996-55cfc8d012f6.jpg 515,245,834,670,0
+Dataset/train/Pneumonia/cf7e865e-f0b1-4a22-8508-f0636247f895.jpg 647,443,914,920,0 237,373,511,786,0
+Dataset/train/Pneumonia/b9597e03-5069-42d8-b9f4-24d30086c5ab.jpg 571,217,923,889,0 172,669,462,936,0
+Dataset/train/Pneumonia/b188b6d2-3f51-4962-b70b-3e4f31b43a00.jpg 366,491,512,683,0
+Dataset/train/Pneumonia/ef8a9a4c-4a0f-4e4e-aaa1-4c3f260bd72c.jpg 178,505,400,771,0 669,479,862,856,0
+Dataset/train/Pneumonia/f87332a3-9e9b-4405-bcb2-d52652adbaba.jpg 637,570,847,722,0
+Dataset/train/Pneumonia/b5efdc67-97a4-413f-b62a-7d3edb9de1a1.jpg 328,537,517,659,0
+Dataset/train/Pneumonia/c0608b6d-a375-4cda-8133-b5ec73217435.jpg 693,519,823,725,0 300,559,447,711,0
+Dataset/train/Pneumonia/dd033b96-06ce-4587-b781-e0e2dd4026ac.jpg 121,444,332,560,0 543,286,816,552,0
+Dataset/train/Pneumonia/d02e780f-2033-4dbc-a98b-94c1ef4e96cd.jpg 559,435,860,755,0 181,413,430,735,0
+Dataset/train/Pneumonia/c9cd4d25-9d6c-48d6-bcfe-5b1382a2065e.jpg 313,478,486,745,0 692,377,939,788,0
+Dataset/train/Pneumonia/bf70fe89-62f9-4df6-9372-71e16debdb5b.jpg 55,222,338,811,0 480,279,729,897,0
+Dataset/train/Pneumonia/c2ee643f-0568-4816-9fa5-19d50cde5386.jpg 624,195,830,591,0
+Dataset/train/Pneumonia/bc4f2fce-e1dd-4d50-bdb5-103c25f46c8b.jpg 587,558,810,777,0
+Dataset/train/Pneumonia/bf0e824a-1729-46a2-b1cb-13eedd6fe3d1.jpg 365,521,509,884,0
+Dataset/train/Pneumonia/b5022e52-4742-4b8c-b432-487fd9a9dbfe.jpg 526,124,772,535,0 191,206,365,461,0
+Dataset/train/Pneumonia/be4c4017-e382-46f5-9a6e-d98f5a81ad73.jpg 524,227,778,709,0 157,174,359,705,0
+Dataset/train/Pneumonia/bb1a546d-12e6-41e8-b602-768a0e499569.jpg 200,305,394,553,0 569,370,768,529,0
+Dataset/train/Pneumonia/fc9c1884-617f-4a89-be08-0af7d6fc2cca.jpg 669,201,852,600,0 259,183,464,599,0
+Dataset/train/Pneumonia/b3e8a708-d8e1-434e-92ca-5d5e79aca86e.jpg 108,346,364,815,0 616,380,922,796,0
+Dataset/train/Pneumonia/d34b14ec-9bc4-4f71-b720-0ccb3ae58f84.jpg 522,154,747,612,0 140,146,411,647,0
+Dataset/train/Pneumonia/fe71c437-e46b-406c-8870-3b2298fc7d3a.jpg 149,362,414,682,0
+Dataset/train/Pneumonia/ba185597-bb80-4b69-938e-4bff4b87d366.jpg 250,487,412,779,0 610,492,912,817,0
+Dataset/train/Pneumonia/b50d8c2a-f6aa-407a-9df9-2a52cc027f45.jpg 197,326,428,940,0 653,420,898,943,0
+Dataset/train/Pneumonia/c236f38d-10dd-4f33-bbe9-c849c297806f.jpg 614,260,835,800,0 193,240,425,764,0
+Dataset/train/Pneumonia/b3198fbd-a80a-4b5b-8a12-f89bb4a72b4a.jpg 375,420,489,649,0
+Dataset/train/Pneumonia/bac5d49a-c506-4db8-b9e6-e3bec2f8abdd.jpg 511,188,798,687,0 92,523,358,788,0
+Dataset/train/Pneumonia/d31b42c9-c5d0-4d65-978f-b75e6ff3b7d9.jpg 660,333,914,638,0
+Dataset/train/Pneumonia/bd7be642-660a-4c53-9125-303be8fb9659.jpg 168,365,468,853,0 521,202,811,582,0
+Dataset/train/Pneumonia/efd57230-4266-464e-bc6a-7df5f1e83be3.jpg 632,395,814,837,0 238,382,450,852,0
+Dataset/train/Pneumonia/b41dfb17-3773-485b-8da6-c29a2bbfbe3a.jpg 528,334,749,838,0 127,269,374,741,0
+Dataset/train/Pneumonia/bfa9ab23-efdf-4cde-be19-ec6f2a2f57af.jpg 550,248,784,738,0 193,169,415,761,0
+Dataset/train/Pneumonia/e82c631b-0acb-436f-8050-fcbe1461d553.jpg 394,498,497,690,0
+Dataset/train/Pneumonia/ea3f8b01-bbf4-4abe-ba79-72b6989f005b.jpg 185,423,366,557,0
+Dataset/train/Pneumonia/b4857f8b-e6af-44da-84d3-ba3608ca7cb2.jpg 254,392,375,539,0
+Dataset/train/Pneumonia/e83ec092-c219-46d0-a1fa-a7538c91ac17.jpg 192,337,342,518,0 581,302,747,499,0
+Dataset/train/Pneumonia/dcca67c4-14b9-483e-bb8d-adbcbb767533.jpg 608,186,803,540,0
+Dataset/train/Pneumonia/b358a4f5-330d-43fa-a26d-4a80e7d5b410.jpg 492,315,812,869,0 139,287,412,840,0
+Dataset/train/Pneumonia/de304f9b-f407-43d5-89b9-bdb07f8308b1.jpg 707,540,832,750,0
+Dataset/train/Pneumonia/eb211810-c51d-42c7-913b-d327c8ca4dd7.jpg 209,525,393,702,0
+Dataset/train/Pneumonia/f8a015d6-f7e6-4dd6-8984-6db9ae4c556b.jpg 320,301,478,531,0
+Dataset/train/Pneumonia/b261b9bd-4ff0-4fb9-a1f4-c7d44a2e45c9.jpg 144,347,394,702,0 584,485,863,756,0
+Dataset/train/Pneumonia/fde9b6e5-382b-4fec-8406-70a279a4b696.jpg 549,329,721,729,0 194,246,382,691,0
+Dataset/train/Pneumonia/b7069aa5-9e33-4918-aba2-f76b0abef6a4.jpg 151,476,413,655,0 646,483,906,700,0
+Dataset/train/Pneumonia/cd78f228-1c12-4421-adb5-f739f0ce306e.jpg 178,229,438,576,0 587,312,765,672,0
+Dataset/train/Pneumonia/c573cb3e-54e6-4ff0-bda4-1fd7621ee0cf.jpg 174,248,453,708,0 578,240,879,785,0
+Dataset/train/Pneumonia/caa545b4-4eea-4e3a-90b1-c4c0789a1109.jpg 230,156,471,613,0 544,146,811,624,0
+Dataset/train/Pneumonia/c1ec14ff-f6d7-4b38-b0cb-fe07041cbdc8.jpg 609,464,849,748,0 185,298,413,677,0
+Dataset/train/Pneumonia/b32508d0-975d-4b74-8233-174fef34684c.jpg 187,273,379,727,0 606,317,815,773,0
+Dataset/train/Pneumonia/be379186-93d4-4aa0-b4ae-0c86c9f6b31e.jpg 560,83,839,659,0 148,86,423,670,0
+Dataset/train/Pneumonia/bb37b213-279c-4162-b3fe-db014c01ed83.jpg 61,92,344,610,0
+Dataset/train/Pneumonia/c3853f9a-a16f-4ee4-8bdb-5f636755855d.jpg 644,237,857,551,0
+Dataset/train/Pneumonia/bf10ff6e-fc24-4cfc-9b5f-7a156608dc1a.jpg 125,109,380,735,0 552,192,781,797,0
+Dataset/train/Pneumonia/dd6e599d-bba3-4a3e-968c-0dcba546099f.jpg 190,376,346,506,0
+Dataset/train/Pneumonia/b7ed99ca-6446-40fc-8b0d-3635bbd66493.jpg 555,372,842,1016,0 98,367,409,971,0
+Dataset/train/Pneumonia/c18d1138-ba74-4af5-af21-bdd4d2c96bb5.jpg 646,386,787,592,0 295,473,428,649,0
+Dataset/train/Pneumonia/b42b9ec0-f492-49ac-b87c-f88b058f7a17.jpg 273,258,480,593,0 640,195,942,580,0
+Dataset/train/Pneumonia/bcbf06b4-ed44-48aa-a498-a7147c063d4d.jpg 553,244,864,901,0 150,252,387,856,0
+Dataset/train/Pneumonia/b134c7f3-2f65-4734-93b0-12c482e2b016.jpg 259,549,466,765,0 615,241,838,518,0
+Dataset/train/Pneumonia/be6444fb-5c41-436a-ad7b-278dc59eec67.jpg 194,348,396,820,0 534,271,721,750,0
+Dataset/train/Pneumonia/df10aee9-878c-4782-8aea-de4369355fd6.jpg 296,329,459,607,0 562,463,703,636,0
+Dataset/train/Pneumonia/cae03a83-a903-4087-b324-a67fe98638d4.jpg 195,262,437,664,0
+Dataset/train/Pneumonia/b481fe48-80c2-4a74-9c1a-ad907dd1f7b6.jpg 686,377,937,888,0 272,409,458,838,0
+Dataset/train/Pneumonia/f9230537-bb87-4de7-90f1-73bc730d4b3b.jpg 173,610,374,789,0 673,561,797,681,0 226,331,442,558,0
+Dataset/train/Pneumonia/b134ec86-1a70-49fa-89cc-b43686c73d0f.jpg 185,567,413,801,0 576,247,866,834,0
+Dataset/train/Pneumonia/df07876c-6dc6-480b-8b62-440dc2c1a73a.jpg 228,375,438,503,0 717,194,887,445,0
+Dataset/train/Pneumonia/bdb79995-00a2-4b13-bfc7-6f06f8639498.jpg 306,573,516,797,0 689,527,899,785,0
+Dataset/train/Pneumonia/e2fbe7af-e71f-40e5-9cf1-2c41caea4527.jpg 628,479,828,709,0 125,556,331,817,0
+Dataset/train/Pneumonia/d87954c5-4889-4c82-a110-99fe2aabd598.jpg 171,542,347,712,0
+Dataset/train/Pneumonia/bd32649e-99f1-4563-b4a4-4f4d8e547f12.jpg 159,498,355,730,0
+Dataset/train/Pneumonia/fe1289af-87c8-49c6-800c-1e87b2296df8.jpg 224,430,357,646,0 622,346,816,843,0
+Dataset/train/Pneumonia/ba16fe59-6c9f-42ed-8138-ae8dc68c99e9.jpg 622,48,864,740,0 308,351,461,515,0
+Dataset/train/Pneumonia/b9bcc788-2f34-4af5-9fd5-ffeeee91eb04.jpg 159,179,490,836,0 561,157,892,790,0
+Dataset/train/Pneumonia/d640b82b-9fa6-49ad-9139-d1a0f1f8c7e8.jpg 592,448,740,611,0
+Dataset/train/Pneumonia/c3c35d4f-c35b-4067-b86a-2ea01bc11acf.jpg 173,257,431,672,0 584,354,804,804,0
+Dataset/train/Pneumonia/dac8c857-7604-4b20-8e61-da616e78e75e.jpg 220,492,381,665,0
+Dataset/train/Pneumonia/ee48da1b-9ce9-4f57-90eb-5c131c285e84.jpg 144,486,372,726,0
+Dataset/train/Pneumonia/b67345a4-9c06-46c0-b0a0-303cee1cc19c.jpg 246,187,486,765,0 686,445,978,844,0
+Dataset/train/Pneumonia/ef2755ec-e5e8-4f5a-87ce-be6e9aaf1823.jpg 203,557,390,792,0 253,230,376,370,0
+Dataset/train/Pneumonia/c241425c-418c-4958-8a18-c3425fe03f03.jpg 648,277,764,423,0 459,300,549,457,0
+Dataset/train/Pneumonia/b273a85e-eacc-4bee-b534-5ee42cf1300f.jpg 265,490,446,684,0
+Dataset/train/Pneumonia/c321b4b1-4ed5-4469-bf78-c4c783e516c3.jpg 214,155,461,632,0 588,126,789,576,0
+Dataset/train/Pneumonia/c2c49031-f803-495d-9abf-32589c04a99b.jpg 615,595,847,880,0
+Dataset/train/Pneumonia/c63e2132-aaa3-4d1b-aba9-ce7ea8d1c7f3.jpg 289,455,511,683,0
+Dataset/train/Pneumonia/e9d5d7c2-0f97-4084-8702-1704e44083b6.jpg 193,200,350,541,0
+Dataset/train/Pneumonia/fb82c2c6-3560-400e-a6d3-1b8b473db183.jpg 245,435,371,660,0
+Dataset/train/Pneumonia/b5ea0a2e-1122-4183-931c-8027caf1eb8d.jpg 119,104,366,695,0 487,232,693,868,0
+Dataset/train/Pneumonia/d9815385-9c37-4484-8785-92b3eed84586.jpg 236,579,399,702,0
+Dataset/train/Pneumonia/b7667cf1-104d-4413-93bc-49b1e9613e4b.jpg 554,383,816,717,0 249,461,444,726,0
+Dataset/train/Pneumonia/dd830a3b-db9e-42bd-8d3a-8d52f40ddbde.jpg 593,150,793,413,0 254,403,429,614,0 262,92,407,337,0
+Dataset/train/Pneumonia/c87c655c-7aa0-475d-b764-8cf5831e1244.jpg 205,464,492,658,0
+Dataset/train/Pneumonia/b52a0018-ca5a-4e53-ab33-b9259b4e6271.jpg 173,99,433,673,0 592,168,784,809,0
+Dataset/train/Pneumonia/d4653287-cdac-4e8b-94db-b3c71147faf4.jpg 246,187,447,545,0 560,228,791,636,0
+Dataset/train/Pneumonia/eb9bf555-1859-47a9-a95f-e86246ce2bd9.jpg 563,252,794,781,0 202,273,448,749,0
+Dataset/train/Pneumonia/b9de5953-04f1-4b45-b601-b2408b36fffa.jpg 152,215,376,595,0 484,261,713,659,0
+Dataset/train/Pneumonia/b95ddea5-0c01-4b30-817a-e3daa23c723a.jpg 652,546,728,618,0 253,148,436,349,0 583,158,744,401,0
+Dataset/train/Pneumonia/e5e4f0cf-58ec-4442-a54c-96d5d29d8f0b.jpg 320,277,422,440,0
+Dataset/train/Pneumonia/bd88f2af-7d9f-44a8-8004-ea76250dc9b2.jpg 624,126,876,641,0 301,84,553,698,0
+Dataset/train/Pneumonia/f99c02a3-1731-4d3b-80c2-fc0cf713787e.jpg 664,236,888,642,0 247,199,478,592,0
+Dataset/train/Pneumonia/b6d61fae-fa1f-4328-b065-033ee168cd98.jpg 210,555,427,732,0 646,417,820,652,0
+Dataset/train/Pneumonia/eb867723-c976-423b-b56d-5d802bc2f04f.jpg 681,613,869,834,0 136,635,388,780,0
+Dataset/train/Pneumonia/b44b65e1-7382-4aa6-8d87-fe6d7b4f1a17.jpg 656,228,874,642,0 320,214,540,657,0
+Dataset/train/Pneumonia/b5463e1b-58dd-4541-823a-6b29bb1c3ae2.jpg 560,431,805,664,0 193,295,410,695,0
+Dataset/train/Pneumonia/f3b1b61e-693d-4fee-b67b-fa4f09554391.jpg 561,394,692,549,0
+Dataset/train/Pneumonia/fdf8ddd5-3794-4387-9051-6647f1952b36.jpg 269,357,448,538,0
+Dataset/train/Pneumonia/c729f1ce-c2b2-4215-a6f0-70fae251fcb9.jpg 504,537,759,811,0
+Dataset/train/Pneumonia/cf8aa442-74cf-4610-8b1d-980d662bdcc4.jpg 173,225,469,620,0 582,271,781,612,0
+Dataset/train/Pneumonia/b489923b-d8be-4e8d-8620-bea0343a2f67.jpg 584,381,747,540,0
+Dataset/train/Pneumonia/d9c09d71-4b04-4f5c-95f1-582f7d64467a.jpg 546,180,647,333,0
+Dataset/train/Pneumonia/b8fbe64b-f29f-4c6e-9b4e-999d69719ab8.jpg 290,194,492,767,0 632,243,846,809,0
+Dataset/train/Pneumonia/ca2d2b1b-4dc9-4110-85b2-024816a867b2.jpg 557,339,870,778,0 196,334,470,781,0
+Dataset/train/Pneumonia/c3678e72-ceb4-42d0-8e44-5a4de7ebfccb.jpg 198,192,434,731,0 565,227,802,630,0
+Dataset/train/Pneumonia/b724406f-51b8-4134-a9eb-2185696cbbfb.jpg 249,295,476,618,0 639,373,884,776,0
+Dataset/train/Pneumonia/b31ed450-b8e6-4339-8283-dbb754a9094e.jpg 571,433,800,635,0
+Dataset/train/Pneumonia/f2d58e86-1fcb-48c5-9a6d-a23966e7720b.jpg 163,585,313,732,0
+Dataset/train/Pneumonia/c533a5ed-72a3-45bf-bae3-1ed9595a9bcd.jpg 197,477,418,660,0
+Dataset/train/Pneumonia/e6295ee0-bb33-49e3-9376-8b78f5a3fc52.jpg 162,539,361,676,0
+Dataset/train/Pneumonia/b4dd880c-d830-470d-80b4-afca617a4261.jpg 612,337,836,562,0
+Dataset/train/Pneumonia/b38eb728-d36c-457e-a05c-c81a6d28edf8.jpg 521,428,600,538,0 333,442,439,613,0 530,539,674,711,0
+Dataset/train/Pneumonia/f76c9846-d88a-4d7c-b887-2759a4333f7c.jpg 289,402,485,597,0
+Dataset/train/Pneumonia/b63f4c12-5731-41e2-8d89-2ae0c4daba41.jpg 135,362,433,584,0 634,375,923,616,0
+Dataset/train/Pneumonia/b29e295b-367c-4787-90da-e9d506bdce45.jpg 205,247,407,695,0 501,284,738,712,0
+Dataset/train/Pneumonia/edef8fc4-60ee-4736-8f32-4bb25d9e6800.jpg 230,613,389,763,0
+Dataset/train/Pneumonia/fc412463-62af-401b-aa44-3caef9de2352.jpg 672,583,905,884,0
+Dataset/train/Pneumonia/e15ecf55-b05a-4f6f-bb25-d51d4a438963.jpg 416,208,544,266,0
+Dataset/train/Pneumonia/f5a9f284-5c9b-4eb1-8c03-aa2bf65bb9e6.jpg 536,298,754,487,0
+Dataset/train/Pneumonia/f93e4397-1773-4858-8e5d-a449c11a36db.jpg 160,370,403,590,0
+Dataset/train/Pneumonia/fe7f6d2d-9ee1-4e1d-ac8c-bad8d2c4317b.jpg 619,202,813,616,0 260,209,456,493,0
+Dataset/train/Pneumonia/d58012a2-a845-472d-8f49-336a3cc977c1.jpg 279,646,440,831,0
+Dataset/train/Pneumonia/b13ff5d7-7ba5-4cf4-9ff0-e87e87c3489c.jpg 218,317,488,828,0 606,281,865,596,0
+Dataset/train/Pneumonia/c4c4ba61-e74c-4c47-834f-6dbd46ec7d63.jpg 536,158,827,670,0 238,179,469,644,0
+Dataset/train/Pneumonia/b812234b-987c-47d8-860d-04fb4bd811bf.jpg 250,453,453,617,0
+Dataset/train/Pneumonia/b2592a14-6876-4e33-a1c3-ab09cd7c774f.jpg 375,375,573,713,0
+Dataset/train/Pneumonia/ba0e4666-cf09-4ba1-a758-f4960ef162c9.jpg 649,286,908,643,0 295,276,481,530,0
+Dataset/train/Pneumonia/b997fc0a-eb76-40c3-8924-4b2ecf0d49a6.jpg 132,473,413,813,0 605,443,869,798,0
+Dataset/train/Pneumonia/f1c0e838-08dd-4ec4-84a7-cedf9b87f592.jpg 189,444,401,627,0 637,629,831,778,0
+Dataset/train/Pneumonia/f87e319e-34e7-4d47-893f-8a004ffcb94f.jpg 125,258,386,623,0
+Dataset/train/Pneumonia/e1e66bd5-538f-4df2-a386-153645f88ea0.jpg 290,474,443,567,0
+Dataset/train/Pneumonia/ccb06817-dd39-47fc-a036-8e0104fd0cb8.jpg 586,195,828,745,0 218,113,513,638,0
+Dataset/train/Pneumonia/b364396e-eb60-471b-9065-1eac897e5d69.jpg 242,184,425,387,0
+Dataset/train/Pneumonia/bbadc8c2-77eb-420e-af31-a238a11856e8.jpg 695,430,822,613,0 393,551,553,728,0
+Dataset/train/Pneumonia/b402b80c-0be4-4c25-80be-d9ace219c83b.jpg 164,168,469,709,0 609,151,911,775,0
+Dataset/train/Pneumonia/b97b78b8-bcb0-4694-aa55-d3ca9c4396df.jpg 621,278,902,615,0 118,367,431,600,0
+Dataset/train/Pneumonia/d979af2c-4ed0-42da-9b2d-5cd3733b8d13.jpg 601,472,681,603,0
+Dataset/train/Pneumonia/bc7f4d5d-cc08-44d7-b091-4df20dba6556.jpg 599,606,810,803,0
+Dataset/train/Pneumonia/baccc2b6-a7d5-4d89-a110-932adaa6a9ba.jpg 129,300,446,758,0
+Dataset/train/Pneumonia/b8a8a107-1797-4437-b71a-ed1f980fa4a6.jpg 231,494,435,722,0 594,597,686,765,0
+Dataset/train/Pneumonia/e7aa8c67-b801-447d-b24e-18b77746b4e1.jpg 690,476,858,708,0 215,457,415,653,0
+Dataset/train/Pneumonia/c85b9a9a-3ea9-44e8-bac3-8d9e07a73085.jpg 606,320,931,897,0 244,302,523,858,0
+Dataset/train/Pneumonia/b3ff1c40-552b-44f9-9cc9-4362905f5eef.jpg 213,341,475,808,0 584,262,932,680,0
+Dataset/train/Pneumonia/e18c7203-a029-4cf4-8151-2bc2460c390c.jpg 233,710,396,799,0
+Dataset/train/Pneumonia/e95fd267-cade-4b0d-ba4d-77d2765817a1.jpg 235,677,357,819,0
+Dataset/train/Pneumonia/e444b79e-a477-4668-9a69-7b5ade5bb214.jpg 191,371,395,837,0
+Dataset/train/Pneumonia/eb1db759-d998-400d-90c8-26dd96c310e0.jpg 273,343,396,524,0
+Dataset/train/Pneumonia/fdfc11cc-75d9-4ab7-a40c-e3576cec8883.jpg 503,474,773,669,0
+Dataset/train/Pneumonia/b45c3ec2-342d-4ad4-af7b-181c126df0c8.jpg 671,383,876,842,0 225,331,497,793,0
+Dataset/train/Pneumonia/b450fa50-1d6d-4e97-b843-fc0fe530d2ff.jpg 577,448,808,740,0
+Dataset/train/Pneumonia/c9bfd9f3-6044-48cf-a1ed-382adb2ee4e4.jpg 232,212,487,774,0 603,237,858,739,0
+Dataset/train/Pneumonia/b50cbd3a-14cb-46bf-aaff-ae2cdaeef739.jpg 644,428,871,676,0
+Dataset/train/Pneumonia/ca4b1bf3-ff54-41ca-ae22-6cb515114030.jpg 159,152,399,541,0
+Dataset/train/Pneumonia/b3cb6b71-3e7b-4287-a4e1-49a443d31215.jpg 288,172,505,688,0 645,194,865,805,0
+Dataset/train/Pneumonia/e97da81f-c608-49cd-acf5-4ec961861bbd.jpg 225,326,445,599,0
+Dataset/train/Pneumonia/d55144f1-7b8b-424a-b460-5a7051abd301.jpg 616,117,919,510,0 405,192,574,603,0
+Dataset/train/Pneumonia/ecc176d8-c3c7-43d8-bcd8-355bbfb84971.jpg 640,151,821,413,0 273,590,430,718,0
+Dataset/train/Pneumonia/d3bc87ed-6343-4196-b277-e94b01f1da40.jpg 343,154,625,692,0 695,121,984,734,0
+Dataset/train/Pneumonia/bcab0525-079e-492e-8e20-c51c779884aa.jpg 182,679,404,917,0 571,610,807,883,0
+Dataset/train/Pneumonia/b35d57ee-f22b-4c8c-b959-3ee8eecef555.jpg 350,656,487,782,0 512,636,648,788,0
+Dataset/train/Pneumonia/c696ab08-acf1-409e-86ef-1e1ac9bc73d3.jpg 137,237,412,730,0 487,236,820,769,0
+Dataset/train/Pneumonia/cbf72626-2c8e-4d1d-91a7-4afcb413674e.jpg 170,250,454,765,0
+Dataset/train/Pneumonia/bd449993-b9a0-4cad-8cbf-780ad345c3f9.jpg 573,363,761,625,0 224,438,439,655,0
+Dataset/train/Pneumonia/b07fc720-9696-4dbb-af78-013c1464b916.jpg 247,425,395,577,0
+Dataset/train/Pneumonia/e81a17d3-0c93-47fd-8cab-4ca7914ad86e.jpg 223,448,363,742,0 772,473,831,580,0
+Dataset/train/Pneumonia/d4b3478b-d430-4c89-95b5-1c1c27c8eb71.jpg 298,380,468,534,0
+Dataset/train/Pneumonia/b5a341f2-7bb7-4e29-acad-55c7de8e5fee.jpg 483,232,895,859,0 70,315,373,995,0
+Dataset/train/Pneumonia/e6f5c238-2bfb-4ab3-af53-7966b0277665.jpg 190,315,346,585,0
+Dataset/train/Pneumonia/bf27db61-1c2e-4710-9f25-31eacb526f5e.jpg 165,714,386,983,0 586,667,873,939,0
+Dataset/train/Pneumonia/b5af2b65-8cab-43a3-b2bb-587b3df3045d.jpg 428,442,570,592,0
+Dataset/train/Pneumonia/e70795e5-58b2-4b08-a9eb-6929c8905ea0.jpg 253,279,437,525,0
+Dataset/train/Pneumonia/b35d3c12-7c68-4747-b4a1-49c291b6ff94.jpg 599,129,860,617,0 240,168,485,530,0
+Dataset/train/Pneumonia/b82c9155-f643-4853-abe6-ea3420ab1d02.jpg 587,427,802,762,0 237,492,445,715,0
+Dataset/train/Pneumonia/b39fd1cb-b769-453b-84c9-3412d8d1138a.jpg 205,134,396,341,0
+Dataset/train/Pneumonia/cd928ddc-4bd4-4307-a659-4900fd70507e.jpg 139,380,386,770,0 491,448,781,815,0
+Dataset/train/Pneumonia/dde16ef3-48de-4371-8d7a-2748b20a73e3.jpg 152,463,355,887,0 675,502,826,916,0
+Dataset/train/Pneumonia/c37cfadd-1e52-4704-9831-403826ad2974.jpg 239,153,514,692,0 667,158,946,624,0
+Dataset/train/Pneumonia/bf9b012d-915c-4026-b989-c05312833b38.jpg 194,287,476,763,0 625,281,926,774,0
+Dataset/train/Pneumonia/b9533502-8a65-4951-a4e4-2448a56057c9.jpg 162,600,338,752,0
+Dataset/train/Pneumonia/c98faad9-6dd2-45fe-87af-63bbb94eeb77.jpg 300,296,494,707,0 593,322,785,768,0
+Dataset/train/Pneumonia/b45e1b50-d497-4b91-9b79-5050fd0e6800.jpg 533,182,811,592,0 151,409,352,615,0
+Dataset/train/Pneumonia/bb47fccc-23c4-4264-bd35-616a3c44161e.jpg 162,88,421,593,0 530,373,820,540,0
+Dataset/train/Pneumonia/eb5be562-36b3-44b9-a7ef-68a49d4b03ac.jpg 153,462,303,723,0 476,323,646,682,0
+Dataset/train/Pneumonia/e1d8cc12-d372-48f2-9126-74660809eccf.jpg 389,591,535,653,0
+Dataset/train/Pneumonia/f5fb166f-fbb1-474f-a7ad-1677dc6d60a7.jpg 266,530,475,703,0
+Dataset/train/Pneumonia/fb10f71b-fd9d-43cc-a310-c5b48b7d22c8.jpg 579,377,776,701,0 150,354,367,681,0
+Dataset/train/Pneumonia/e48e74bf-9508-4bee-932e-dad4ab803360.jpg 140,674,339,932,0
+Dataset/train/Pneumonia/d60cdcd8-66ee-4e89-bbcc-cdaed2895d84.jpg 232,497,437,630,0
+Dataset/train/Pneumonia/ba0b9822-06eb-4db0-bf37-20d894589ef7.jpg 506,105,751,712,0 50,59,384,563,0
+Dataset/train/Pneumonia/efcc7a4f-23d6-4df1-9d80-677a620856d7.jpg 625,450,734,557,0
+Dataset/train/Pneumonia/b7b3da7f-7b03-4113-b832-e1aa2c46580a.jpg 644,529,868,701,0 212,444,404,584,0
+Dataset/train/Pneumonia/b24d51ce-7415-4784-9748-7a239428ae3b.jpg 139,235,436,750,0 591,270,851,848,0
+Dataset/train/Pneumonia/c53e60a3-2b45-40db-a910-e877f197b421.jpg 690,354,972,872,0 232,371,537,858,0
+Dataset/train/Pneumonia/c1da2ddd-0e40-4021-972c-67dc048bf353.jpg 624,323,901,834,0 277,325,520,785,0
+Dataset/train/Pneumonia/c3a56044-440d-4163-a813-3c3f6fd5b68b.jpg 543,239,824,674,0 224,303,402,651,0
+Dataset/train/Pneumonia/b551156f-a0e0-4895-9bd5-c4e6307f077a.jpg 432,409,563,516,0 653,420,842,574,0
+Dataset/train/Pneumonia/b24bde0d-d372-4522-b8bb-0fbc770b80ac.jpg 413,295,678,756,0 68,293,308,744,0
+Dataset/train/Pneumonia/dfed644c-9548-465a-b962-78ead3498f38.jpg 600,348,806,812,0 209,326,452,730,0
+Dataset/train/Pneumonia/bb6d8e4b-f416-435a-8dee-fe3f60b4db11.jpg 589,433,887,657,0
+Dataset/train/Pneumonia/d759f178-2451-47bc-80c0-2efe67588693.jpg 309,286,440,444,0
+Dataset/train/Pneumonia/b3026aa2-14f4-4648-9261-c114f149f0d3.jpg 198,300,430,823,0 567,309,879,845,0
+Dataset/train/Pneumonia/b56217b6-1283-48ea-b96e-1a6e4afe3f83.jpg 598,603,834,804,0
+Dataset/train/Pneumonia/ccd41f6b-7715-4c84-9957-c5eaee20b0f1.jpg 240,241,518,469,0
+Dataset/train/Pneumonia/ffd787b6-59ca-48cb-bd15-bcedd52cf37c.jpg 157,393,394,851,0 571,238,857,720,0
+Dataset/train/Pneumonia/c26c0bb6-125b-497f-a3fa-04a5729b36c0.jpg 166,254,411,635,0 584,259,802,915,0
+Dataset/train/Pneumonia/b78f2713-e211-408e-a810-e0568fc0f0a0.jpg 626,453,831,576,0 272,369,456,695,0
+Dataset/train/Pneumonia/c589810a-3630-47c3-8c0c-fc54350ed844.jpg 139,178,419,790,0
+Dataset/train/Pneumonia/b8a563db-5bfd-4638-9b55-30c3a230485f.jpg 285,430,447,590,0 626,457,864,618,0
+Dataset/train/Pneumonia/ccfe0d0f-f75e-48ef-b754-4c2030a94c7b.jpg 260,177,451,629,0 632,142,814,457,0
+Dataset/train/Pneumonia/b623e856-e328-4396-a01c-4d6210c2dd53.jpg 161,358,399,483,0
+Dataset/train/Pneumonia/be35c13b-705d-4466-ae3f-ed690080ac9d.jpg 169,445,414,750,0 563,270,751,710,0
+Dataset/train/Pneumonia/e4adbfcf-d787-473c-ace4-7ea59984f732.jpg 288,306,414,534,0
+Dataset/train/Pneumonia/cd0ae273-2dc6-4093-975c-b33e8982e441.jpg 557,301,859,677,0
+Dataset/train/Pneumonia/b501b40d-18bf-4b25-a0a4-f93634162375.jpg 140,427,405,585,0
+Dataset/train/Pneumonia/ec3cfcee-58f2-442f-a272-59390100cbba.jpg 239,350,390,660,0 567,206,781,615,0
+Dataset/train/Pneumonia/fde7bf44-9cb7-4506-9738-5774d4547f6f.jpg 288,478,412,634,0
+Dataset/train/Pneumonia/bc45556d-61f2-43c6-b886-21bdc59542e7.jpg 224,470,449,748,0 572,399,773,632,0
+Dataset/train/Pneumonia/b9ec22f4-f273-486b-a2d4-132352dfdbc4.jpg 185,126,438,556,0 571,150,826,624,0
+Dataset/train/Pneumonia/e065606f-3368-47ff-b4d1-ef783e97813f.jpg 263,296,436,757,0 641,261,837,675,0
+Dataset/train/Pneumonia/e07110c1-7afa-45b3-8de5-901f0a96e394.jpg 275,588,408,839,0
+Dataset/train/Pneumonia/e1447b7d-98a7-4321-94d4-03b686676da8.jpg 116,604,291,767,0 534,518,669,671,0
+Dataset/train/Pneumonia/d654c576-805b-449b-94c2-8aa4cd115ea4.jpg 316,526,464,627,0 707,401,837,537,0
+Dataset/train/Pneumonia/e65529f2-45df-4020-adcc-7de1996c38e8.jpg 193,751,382,983,0
+Dataset/train/Pneumonia/e666d579-2ff0-4ce0-a5a2-903919fa5668.jpg 276,332,400,528,0 632,309,842,615,0
+Dataset/train/Pneumonia/c31be560-cec0-4ada-b2e1-be51c2e8bb22.jpg 628,230,902,722,0 201,236,481,677,0
+Dataset/train/Pneumonia/f0ba0019-718f-4677-a723-05c27dba2f3e.jpg 681,446,824,602,0 263,629,416,776,0
+Dataset/train/Pneumonia/f9a66a3b-9e7c-43b2-9b52-312778377251.jpg 177,531,409,682,0
+Dataset/train/Pneumonia/bda68f49-6eb2-4afa-86bf-89a3d4378100.jpg 634,436,851,603,0 389,395,531,576,0
+Dataset/train/Pneumonia/bf70e20e-09a8-484a-83a2-2cc2d9bd9a4b.jpg 205,535,434,773,0
+Dataset/train/Pneumonia/f29d2e7b-9a63-4614-8e61-62553edcb7fb.jpg 520,267,735,718,0 238,274,429,572,0
+Dataset/train/Pneumonia/b79b76d3-6bd0-4102-af73-4251f313e907.jpg 117,139,399,611,0 541,185,793,746,0
+Dataset/train/Pneumonia/f655a822-225d-4fe0-a69f-0886f91c5f2b.jpg 219,396,399,574,0
+Dataset/train/Pneumonia/b16bcbb6-570b-450b-a9e5-b1e3663205bb.jpg 169,228,455,737,0 528,200,883,772,0
+Dataset/train/Pneumonia/cb6fc930-b91d-4986-a959-a47aecaf957e.jpg 250,176,516,501,0
+Dataset/train/Pneumonia/ba63abc0-5a00-4ebd-9a89-0972ea1cb7d5.jpg 593,77,920,711,0 187,88,515,719,0
+Dataset/train/Pneumonia/cfca5fb2-0851-49fd-9dfb-f7b063992b0c.jpg 626,238,844,692,0 276,131,564,640,0
+Dataset/train/Pneumonia/e5ee965b-7a79-4ceb-986c-a775a3c1d7a8.jpg 231,246,401,418,0 628,244,820,509,0 120,448,333,684,0
+Dataset/train/Pneumonia/baa329d1-6d8d-4067-b865-608869518f3f.jpg 346,484,570,712,0
+Dataset/train/Pneumonia/ec8ab6f6-b08d-4768-86a1-07367371a0f4.jpg 362,106,506,309,0 691,197,830,444,0
+Dataset/train/Pneumonia/b03a2f26-e8af-43ab-970f-d35b2614e268.jpg 708,504,941,700,0
+Dataset/train/Pneumonia/b617818a-6a54-4dbd-997f-26723bb46634.jpg 605,203,876,919,0
+Dataset/train/Pneumonia/c033f66d-900e-4ba3-8da4-a6823ea89d09.jpg 547,369,724,654,0 217,348,378,836,0
+Dataset/train/Pneumonia/e0cc9552-af6e-4b2e-8744-78689b0f2aaf.jpg 181,418,364,576,0 594,298,779,592,0
+Dataset/train/Pneumonia/ee5842e0-5bd3-4e4b-9aea-cb94b6402fdb.jpg 143,419,367,756,0 636,552,808,752,0
+Dataset/train/Pneumonia/fe518d2d-28a1-42eb-918d-16f7bc6039bb.jpg 609,452,746,753,0 184,620,336,805,0
+Dataset/train/Pneumonia/fdd20e4d-879e-4ff9-bc4e-8ec4184cfff9.jpg 190,460,368,643,0 658,484,838,795,0
+Dataset/train/Pneumonia/c3d5edba-cc4d-422d-9b8a-a1c89301b22e.jpg 601,244,769,466,0 231,264,444,632,0
+Dataset/train/Pneumonia/d99282ee-dc00-40d4-bb8d-5f8dba263a05.jpg 246,351,466,526,0
+Dataset/train/Pneumonia/d094558c-2614-4d0b-b142-a9de0864f572.jpg 110,249,511,809,0 568,228,873,845,0
+Dataset/train/Pneumonia/b6b3152f-ef3f-41ee-b015-118500c0f08a.jpg 152,596,364,786,0 601,571,831,802,0
+Dataset/train/Pneumonia/b7f74683-4c0a-4123-9aad-9eb79374d1f2.jpg 214,495,395,729,0 566,361,818,757,0
+Dataset/train/Pneumonia/b27ce840-3616-4cec-8499-fa7dc760c387.jpg 671,594,872,800,0 124,534,385,703,0
+Dataset/train/Pneumonia/b12ab5b1-c824-4776-b859-df3ee1817269.jpg 675,522,887,755,0
+Dataset/train/Pneumonia/bcaa09e2-c80d-40b6-b3e7-73edd34cf994.jpg 570,218,818,713,0 262,360,429,735,0
+Dataset/train/Pneumonia/b49313fa-77c1-4a52-8d29-f28478f8929c.jpg 542,661,772,872,0
+Dataset/train/Pneumonia/f336113a-6002-41da-8451-997d62e36a34.jpg 277,241,430,526,0
+Dataset/train/Pneumonia/fc0912c2-0cfc-420e-8c77-0fae34451d7e.jpg 622,276,827,633,0
+Dataset/train/Pneumonia/fb56f2c9-8f6c-43ec-bf15-ddc3abcfbe0a.jpg 679,308,850,531,0
+Dataset/train/Pneumonia/c3768927-0d7e-4624-bf5a-3eea2011a5c1.jpg 185,451,391,856,0 541,395,778,854,0
+Dataset/train/Pneumonia/bee9c557-4bce-435f-8de8-bfb37663ccc6.jpg 287,673,475,893,0
+Dataset/train/Pneumonia/f3142a9f-b625-41d9-a7b7-9a4aba0c2abb.jpg 136,659,317,788,0 685,415,879,745,0
+Dataset/train/Pneumonia/d184ed19-d81a-4168-9e45-21e1332390be.jpg 214,659,355,982,0
+Dataset/train/Pneumonia/fcd6452c-680d-40a6-9fc6-1793eb3ca0a8.jpg 661,342,814,793,0 347,300,518,737,0
+Dataset/train/Pneumonia/d4ca6e9e-68f7-4218-810c-a4bba17e37f7.jpg 351,328,558,599,0
+Dataset/train/Pneumonia/f4362a52-b9f5-4d96-a6ba-04284a233eb0.jpg 325,347,540,604,0 421,201,545,315,0 698,165,866,736,0
+Dataset/train/Pneumonia/ed55f8dc-45a7-4416-ae94-847bb41a35c3.jpg 543,398,762,783,0 184,468,387,832,0
+Dataset/train/Pneumonia/fde83ad1-3d9e-4a66-8f10-bb6ead510d52.jpg 270,213,458,520,0 638,239,812,574,0
+Dataset/train/Pneumonia/bc0f83be-459b-41e5-a720-c2d3241ab395.jpg 231,269,535,962,0 675,371,983,1009,0
+Dataset/train/Pneumonia/bb10de59-4206-46ca-b28d-c0750d460829.jpg 156,230,412,628,0 536,280,769,616,0
+Dataset/train/Pneumonia/b2651591-53ae-450f-ae37-2220cf6108e7.jpg 283,345,490,635,0 634,415,926,697,0
+Dataset/train/Pneumonia/e813b239-43c9-426d-b768-4a88d5e2c2e4.jpg 237,551,398,752,0
+Dataset/train/Pneumonia/bce1fe53-1047-4dfe-9444-bc8340cddabf.jpg 32,157,305,838,0 445,159,723,695,0
+Dataset/train/Pneumonia/fe272c75-9f89-4733-a7b7-a0965bc30b53.jpg 193,382,379,623,0
+Dataset/train/Pneumonia/c399ab28-b477-433b-924e-6d6046ff23ff.jpg 300,453,469,784,0 667,192,850,553,0
+Dataset/train/Pneumonia/e380d5fb-dc74-41c9-adad-05b7b88b9137.jpg 162,412,390,672,0
+Dataset/train/Pneumonia/c348479b-d4d4-4cee-8113-763b803820fb.jpg 618,202,824,512,0 203,155,440,568,0
+Dataset/train/Pneumonia/bbafb79d-3419-47a4-97f0-1cb8c64feb24.jpg 625,463,833,737,0 239,372,441,732,0
+Dataset/train/Pneumonia/fee03015-e202-4e2e-b72e-2a72f0052fc6.jpg 641,215,779,415,0 179,283,354,496,0
+Dataset/train/Pneumonia/e87d8111-5071-446b-82f6-00a55f338954.jpg 227,584,342,770,0
+Dataset/train/Pneumonia/b6862fc0-31f9-4091-b8b1-256192168a0f.jpg 182,192,475,757,0 627,253,836,776,0
+Dataset/train/Pneumonia/bcc24ec7-8a99-4dcf-ba71-ac73659e2ac1.jpg 267,137,542,717,0 665,290,844,663,0
+Dataset/train/Pneumonia/f7250628-0db8-4baa-adbf-fd694cbd3b7d.jpg 511,422,713,809,0 190,420,385,845,0
+Dataset/train/Pneumonia/bf19620d-8c98-4295-9c6d-907b059377ed.jpg 102,474,366,650,0
+Dataset/train/Pneumonia/b5a6e376-eb68-485a-a08d-a4cca17cbf9c.jpg 158,629,456,884,0
+Dataset/train/Pneumonia/d599cb5c-08fa-4366-bdf2-b06d1116cd59.jpg 740,458,916,629,0 146,480,422,696,0
+Dataset/train/Pneumonia/d561ede1-9992-4d20-a935-53a32a8c05d1.jpg 55,514,334,803,0
+Dataset/train/Pneumonia/be443cae-043b-448b-b6e7-43477812b9cc.jpg 606,516,816,738,0
+Dataset/train/Pneumonia/b78a4ada-0963-4067-a009-3f8ee134e069.jpg 626,303,926,738,0 261,280,508,745,0
+Dataset/train/Pneumonia/b9cd9ce8-2450-44bc-8e83-9cab6b7b35ef.jpg 520,196,742,520,0
+Dataset/train/Pneumonia/d82f792f-6240-4dbe-9a1a-6e3f60129828.jpg 266,214,427,397,0
+Dataset/train/Pneumonia/f02fe6d5-c4ac-4c83-9d9d-5274eb3488d5.jpg 580,242,767,742,0 213,181,456,643,0
+Dataset/train/Pneumonia/c75ada7c-f5f2-4ea0-9876-05d332328e67.jpg 130,300,293,430,0
+Dataset/train/Pneumonia/b0502b9f-b85c-4cac-9e8f-325ed59315e0.jpg 619,538,833,737,0 231,502,404,680,0
+Dataset/train/Pneumonia/cb8eb60c-ebe6-4d95-b740-61a7b2606af0.jpg 583,497,800,742,0
+Dataset/train/Pneumonia/e84da550-d09e-46cd-94c1-617b6d7aa461.jpg 203,558,445,725,0
+Dataset/train/Pneumonia/b7d0cb5e-5594-41f1-9426-c7aa2cfd945c.jpg 184,580,411,770,0 604,584,826,755,0
+Dataset/train/Pneumonia/b3cbe758-859f-4ace-8968-4953ca48dfc7.jpg 475,433,712,730,0 124,353,334,743,0
+Dataset/train/Pneumonia/f7b0889e-a9fe-40a9-a6a3-c9ce53252ec4.jpg 616,445,767,747,0 255,299,458,636,0
+Dataset/train/Pneumonia/db67501e-2171-42de-8dcc-8a3373055c9d.jpg 694,473,849,556,0
+Dataset/train/Pneumonia/e51ae9d8-2e5b-40a1-89fd-06b60fd64355.jpg 186,457,332,631,0 670,404,831,581,0
+Dataset/train/Pneumonia/b3e7efd9-2c99-41bb-9724-399f9c2477f6.jpg 205,243,461,829,0 612,256,863,898,0
+Dataset/train/Pneumonia/f9948c5e-f97b-45a2-a5f5-236cf83fdc13.jpg 290,227,456,557,0 677,159,840,666,0
+Dataset/train/Pneumonia/dafc817f-dcd4-41f8-9e0c-9f7ee41d1cf4.jpg 571,547,732,677,0
+Dataset/train/Pneumonia/db9618f5-8c95-4c76-b29f-652899c5a50b.jpg 201,307,356,462,0
+Dataset/train/Pneumonia/bfe7e758-97b3-4763-a91b-8bf559c143a4.jpg 156,251,384,774,0 503,294,739,808,0
+Dataset/train/Pneumonia/bae7b652-311f-4a84-a031-653424887f35.jpg 599,597,818,922,0 172,596,447,871,0
+Dataset/train/Pneumonia/e85b9e5a-ea0c-4fcd-8e7f-2f8699923099.jpg 256,629,476,775,0 320,374,505,545,0
+Dataset/train/Pneumonia/b309f00c-57a1-4926-ba6d-1ce13a673cf9.jpg 440,493,703,646,0 57,541,246,791,0
+Dataset/train/Pneumonia/b52244ed-5e8f-4ab6-a2b0-9bed4ab0ff2a.jpg 170,183,441,649,0
+Dataset/train/Pneumonia/e9978ac6-e87c-40fc-9d28-af8308380e25.jpg 170,518,307,750,0
+Dataset/train/Pneumonia/d0eddd98-9377-475a-94d8-6c9663fa8396.jpg 228,185,520,596,0 593,206,832,610,0
+Dataset/train/Pneumonia/b3f75ca9-beaa-4760-bde9-f9ac7c9a8748.jpg 561,136,750,630,0 238,213,415,571,0
+Dataset/train/Pneumonia/f77b0afe-0085-4ee0-afad-a1e9fda8fe65.jpg 327,153,513,423,0 702,246,841,505,0
+Dataset/train/Pneumonia/bf11da89-d0f0-4c1b-b486-d82bbcb91ed4.jpg 659,239,873,619,0 227,228,464,559,0
+Dataset/train/Pneumonia/c5ba46fb-eddc-4824-b779-0620b0cd855c.jpg 607,232,868,590,0 274,231,467,588,0
+Dataset/train/Pneumonia/d5277276-f8f8-40e9-b8e1-791cf5d96ac0.jpg 186,293,472,696,0
+Dataset/train/Pneumonia/b61d9cc8-6726-44a7-8897-c6c5c7c3ad5e.jpg 195,421,451,762,0 549,384,837,689,0
+Dataset/train/Pneumonia/b2103ba0-f721-45a3-876e-c4e53ebfe890.jpg 214,161,450,818,0 551,195,798,798,0
+Dataset/train/Pneumonia/fe972a3f-d91e-4e70-a02d-49ae29f0b188.jpg 114,785,344,957,0
+Dataset/train/Pneumonia/b5a4e967-a8dc-40b1-88dd-a6685fdc26eb.jpg 594,382,805,604,0 280,419,436,576,0
+Dataset/train/Pneumonia/f02b6a5c-f922-4334-ac80-99d7418c41f0.jpg 653,522,810,648,0 212,420,379,639,0
+Dataset/train/Pneumonia/d78166b3-fbdf-4d19-bc24-d805269418f8.jpg 406,273,464,476,0
+Dataset/train/Pneumonia/b7fecc2a-df32-457b-bfa7-141769dd48e7.jpg 528,170,738,441,0 197,135,399,724,0
+Dataset/train/Pneumonia/d3a0da1a-8289-4fca-ae3c-6894d4f3c108.jpg 580,63,889,482,0 256,87,497,468,0
+Dataset/train/Pneumonia/e72b1ec4-c97b-4328-99c3-54f518823c2b.jpg 346,497,504,791,0 730,491,944,881,0
+Dataset/train/Pneumonia/b25f283e-c7d0-47b0-8daf-17e79407866a.jpg 105,276,406,817,0 517,282,869,845,0
+Dataset/train/Pneumonia/e3dc00b7-5675-4ebf-88ac-42a60e2ed893.jpg 294,471,443,610,0 817,483,917,626,0
+Dataset/train/Pneumonia/f1c1c792-af12-4b8a-bc67-317347a7e8d8.jpg 546,225,714,519,0
+Dataset/train/Pneumonia/cd3ae8e4-09a2-4da8-a028-8b54b0b8591a.jpg 552,303,843,761,0
+Dataset/train/Pneumonia/ece78603-3d21-4940-b651-88130093645b.jpg 62,299,290,768,0 542,331,801,836,0
+Dataset/train/Pneumonia/ba5c9439-e386-4cea-90bf-643272f3b822.jpg 58,225,389,780,0 557,257,835,875,0
+Dataset/train/Pneumonia/b8a18a7b-502a-487a-98aa-0edd1c1126cb.jpg 724,660,919,823,0
+Dataset/train/Pneumonia/c33d14fe-bae6-458c-b6d8-b36fce161298.jpg 636,417,852,761,0
+Dataset/train/Pneumonia/e140e6e5-cdf1-47d6-b2f1-602aa8a1a69c.jpg 725,485,845,712,0
+Dataset/train/Pneumonia/c5f707b9-acc7-4c16-add0-6f0d60d8f5c1.jpg 189,306,405,512,0
+Dataset/train/Pneumonia/de9d40a1-45ac-4ec0-a9ad-7c3da394fbfb.jpg 651,403,856,679,0 243,543,396,644,0
+Dataset/train/Pneumonia/e3bfcacf-6bb6-4af1-b49f-0a3b0cda6f96.jpg 210,386,341,507,0
+Dataset/train/Pneumonia/c60a0502-26cb-40a1-8343-43625a3c4e3f.jpg 226,380,450,594,0
+Dataset/train/Pneumonia/bda266ca-cecd-4d88-a308-0c8a05dd8315.jpg 527,370,767,905,0 162,339,372,779,0
+Dataset/train/Pneumonia/c996a703-cbc1-4847-b204-4f5506a2ef16.jpg 143,182,370,679,0 482,232,719,752,0
+Dataset/train/Pneumonia/f8767c5d-9024-43d9-9044-843f2cec00c7.jpg 669,342,871,856,0 189,353,447,744,0
+Dataset/train/Pneumonia/b36ddceb-a4c3-4f3e-9b95-cac57da3d0b9.jpg 180,506,390,753,0 605,405,792,764,0
+Dataset/train/Pneumonia/fe2bc588-c737-464b-ad90-ed4e76f6c2ce.jpg 557,334,753,637,0
+Dataset/train/Pneumonia/f1c3f262-dcfd-4904-b108-38d3479e3201.jpg 597,366,756,608,0 242,227,380,466,0 155,588,340,708,0
+Dataset/train/Pneumonia/b7734503-5808-403e-96d7-5ea55a96a1a3.jpg 187,259,427,553,0 591,245,838,584,0
+Dataset/train/Pneumonia/b4747fef-5911-464e-9854-a54718d81867.jpg 622,307,835,773,0 288,254,501,735,0
+Dataset/train/Pneumonia/c00bf44e-5b65-470d-8ddb-b704e630bd5e.jpg 585,347,745,629,0 247,354,380,667,0
+Dataset/train/Pneumonia/bd35798d-704b-4e3e-83c5-7957dfdf6715.jpg 136,508,439,708,0 603,532,863,770,0
+Dataset/train/Pneumonia/c7024796-39ed-4eda-906d-65a1fb5d5c52.jpg 651,404,892,659,0
+Dataset/train/Pneumonia/d58a922b-97c8-4ee8-ad84-1c4c6c883c86.jpg 243,537,403,633,0
+Dataset/train/Pneumonia/b5a22c51-47f2-4091-af34-ea9b59b298fe.jpg 176,263,390,731,0 519,225,720,782,0
+Dataset/train/Pneumonia/f9ccffe6-0f7b-43d7-9962-84888673fb57.jpg 228,581,419,788,0 716,595,885,836,0
+Dataset/train/Pneumonia/ec81f707-4d7c-4a97-ab27-048c805f5395.jpg 210,364,408,558,0
+Dataset/train/Pneumonia/bc87d74c-9d22-4046-ae17-5891adfa0b41.jpg 583,238,779,631,0 215,196,416,847,0
+Dataset/train/Pneumonia/ba221090-4382-4ccf-afc2-cda9af445aa5.jpg 237,26,425,276,0
+Dataset/train/Pneumonia/bd912d93-28c5-47df-8971-8ca9bbc1feb9.jpg 629,604,855,801,0 196,573,405,757,0
+Dataset/train/Pneumonia/bb51a303-4438-43ae-b843-415616c99b0d.jpg 179,629,398,769,0
+Dataset/train/Pneumonia/d3cf99c7-e7d7-456e-9e34-0312876db0d4.jpg 246,262,463,870,0 573,230,862,910,0
+Dataset/train/Pneumonia/bc054c4c-280f-4e1d-9b93-9563cd368aae.jpg 544,115,797,652,0 187,92,406,541,0
+Dataset/train/Pneumonia/b635c7ce-7a25-4da8-a83b-3150fa0c56e7.jpg 524,386,794,772,0 198,353,418,772,0
+Dataset/train/Pneumonia/c106ddba-42f7-440c-9ba9-f3fa6692f06f.jpg 753,742,938,983,0 630,165,923,599,0
+Dataset/train/Pneumonia/da9dde80-836b-4f3e-b36b-0e344c42029d.jpg 251,537,431,673,0 707,476,820,566,0
+Dataset/train/Pneumonia/dc244dca-9414-4555-a2b0-935933366861.jpg 206,413,372,531,0
+Dataset/train/Pneumonia/c96584fc-6d79-4c0d-ae59-ddee6436f1e9.jpg 602,352,848,834,0 235,290,449,709,0
+Dataset/train/Pneumonia/be0d1645-263c-4dce-99e9-77f31d6ded61.jpg 587,232,849,918,0 193,192,431,831,0
+Dataset/train/Pneumonia/f89cdd03-5ea2-4e80-98fb-1d2e57686638.jpg 214,356,394,646,0
+Dataset/train/Pneumonia/bd25f8f0-311f-4373-af5f-25ad7e140344.jpg 307,381,468,676,0 644,356,863,666,0
+Dataset/train/Pneumonia/b1129974-9d1d-4329-bb38-9979786102ca.jpg 626,425,807,598,0 405,324,496,534,0
+Dataset/train/Pneumonia/e0e6d81f-d19c-4e66-99a5-ebc202d727ce.jpg 220,311,403,557,0
+Dataset/train/Pneumonia/b52a4969-16fc-43c1-9d87-66392415d139.jpg 215,188,428,603,0 523,186,738,620,0
+Dataset/train/Pneumonia/bd6d6284-0c13-454a-a41f-c84ee6c1dde4.jpg 304,161,481,405,0 653,207,803,447,0
+Dataset/train/Pneumonia/bc03768e-ae96-4627-b65a-4458abc9ca62.jpg 606,472,860,694,0 323,459,486,685,0
+Dataset/train/Pneumonia/cc118833-83a6-4f8f-ba7a-0e69faaaee72.jpg 207,353,463,792,0 564,288,870,836,0
+Dataset/train/Pneumonia/b8cda939-dfb4-455b-9ff4-17e199b3ad1f.jpg 402,423,544,628,0
+Dataset/train/Pneumonia/eadd2c1c-2e56-4392-85dc-2c4fe8a9d420.jpg 277,571,410,733,0 718,455,856,655,0
+Dataset/train/Pneumonia/b163a08c-8dba-409a-b2d6-e30047625970.jpg 618,430,861,653,0 274,308,469,673,0
+Dataset/train/Pneumonia/c33b5552-ff51-43d5-bcee-9bad9c372de6.jpg 589,403,841,787,0 172,394,400,726,0
+Dataset/train/Pneumonia/f26e5df0-bd0d-4d54-86b6-ea40ca0952a3.jpg 232,206,438,586,0 518,247,735,468,0
+Dataset/train/Pneumonia/d84a14db-b31a-45f6-83de-5323036f823c.jpg 608,345,788,565,0
+Dataset/train/Pneumonia/bb4908ba-2679-4f7e-aeb9-c5c4577b40b8.jpg 241,285,438,603,0 633,290,827,638,0
+Dataset/train/Pneumonia/bcdd92c8-2cde-4899-a6fc-46b875aaab62.jpg 147,438,380,693,0 570,605,734,797,0
+Dataset/train/Pneumonia/b435cc3a-cc81-4361-ac91-235b4150265e.jpg 602,323,902,842,0
+Dataset/train/Pneumonia/e38ab400-f316-4091-8316-ddaf0b75f4dc.jpg 230,516,407,644,0
+Dataset/train/Pneumonia/bfa2adda-f302-4447-8c47-85eea0839526.jpg 239,124,403,346,0
+Dataset/train/Pneumonia/b59a6d82-6686-4691-917e-8c98b6752b01.jpg 219,339,434,509,0
+Dataset/train/Pneumonia/bb1648ed-992f-482f-b3a7-0a21237c8972.jpg 225,442,431,658,0 556,280,751,642,0
+Dataset/train/Pneumonia/b9c3ed83-82f0-47da-9aed-aaff0034c718.jpg 114,232,397,766,0 544,229,794,753,0
+Dataset/train/Pneumonia/bc651497-8014-4429-a93b-5860fe9a205a.jpg 456,317,709,556,0
+Dataset/train/Pneumonia/cc7ab8d7-56f9-45e8-b585-c3dc132de8cf.jpg 310,300,550,813,0 620,291,920,840,0
+Dataset/train/Pneumonia/f5dadf63-c828-441a-b595-ea7698087291.jpg 593,533,782,770,0 162,500,393,718,0
+Dataset/train/Pneumonia/c23ecec2-d791-42fa-8abf-cb4c447f9c21.jpg 147,424,385,624,0 641,379,848,671,0
+Dataset/train/Pneumonia/c3670fac-87af-4e1b-a1d4-3181427a60fc.jpg 579,488,720,734,0
+Dataset/train/Pneumonia/ebdc4168-7cd3-477a-8a94-b768c41a9f8e.jpg 215,696,397,823,0 649,505,799,772,0
+Dataset/train/Pneumonia/ea97a1ff-8582-4f89-be4f-b8cfd2eb73b1.jpg 684,421,842,602,0 145,442,345,556,0
+Dataset/train/Pneumonia/ea20f7ad-5958-4a6a-b871-89e747593fd8.jpg 244,477,424,572,0
+Dataset/train/Pneumonia/ffae40ab-fcfe-4311-a74a-89f605dba48b.jpg 219,305,347,443,0
+Dataset/train/Pneumonia/dd28e18a-42fb-4bfd-a6c3-d1b146817ecf.jpg 651,476,901,820,0
+Dataset/train/Pneumonia/be8c0087-ae1c-4b60-acb0-4b2e6157eadb.jpg 337,436,527,807,0 684,411,894,784,0
+Dataset/train/Pneumonia/cba00aeb-4389-4de9-b374-56b412361c46.jpg 230,365,484,696,0 517,326,736,682,0
+Dataset/train/Pneumonia/e8ffe2e2-7ded-4a59-b7cd-399940e5f3f1.jpg 591,400,743,609,0
+Dataset/train/Pneumonia/be108ff0-e920-4b6e-901d-ce8a800f6191.jpg 605,273,851,724,0 240,267,454,680,0
+Dataset/train/Pneumonia/b82d06aa-4036-4ad0-acf1-99b127f2ce17.jpg 69,174,344,762,0 482,150,880,751,0
+Dataset/train/Pneumonia/f0646657-7174-461b-9ab4-07242c759384.jpg 689,403,901,865,0 308,537,464,778,0
+Dataset/train/Pneumonia/c74fe0e5-cb24-45ab-9ffb-35f9b7e0d5e0.jpg 537,260,885,848,0 180,318,470,841,0
+Dataset/train/Pneumonia/e3b1e7ed-b9ae-4061-a210-5444b7a9c9b1.jpg 339,248,508,608,0
+Dataset/train/Pneumonia/dc7720ba-e9fe-4680-8304-bb149bedf128.jpg 690,408,861,663,0
+Dataset/train/Pneumonia/d9e15ec8-682f-43ed-b652-ce3d9e827716.jpg 113,270,346,644,0
+Dataset/train/Pneumonia/c1cddf32-b957-4753-acaa-472ab1447e86.jpg 269,416,462,701,0 766,475,901,688,0
+Dataset/train/Pneumonia/b3cf158f-1275-4a42-9073-447d96c19a21.jpg 168,404,386,752,0
+Dataset/train/Pneumonia/b97e765e-a0c1-4f91-b62f-07df0bae33a7.jpg 278,323,500,532,0
+Dataset/train/Pneumonia/b9c412cd-9953-427b-97fc-e97cfbd1b465.jpg 252,127,435,569,0 623,106,869,658,0
+Dataset/train/Pneumonia/b5630ae2-40eb-4df8-b5c7-5a33e3e7adb4.jpg 239,468,407,707,0
+Dataset/train/Pneumonia/bfd06e37-e927-4000-88f6-e84dd8744cee.jpg 526,250,687,566,0 116,546,317,788,0
+Dataset/train/Pneumonia/ea475b41-c5ae-4d80-b5bf-d5af6f1b0c70.jpg 228,576,408,749,0
+Dataset/train/Pneumonia/ec494de2-73b0-4ec6-9038-217175b06392.jpg 338,469,509,729,0 648,493,881,874,0
+Dataset/train/Pneumonia/d7ce9623-4433-4bd7-b8c2-a1d2e7ac49f5.jpg 176,461,301,662,0 612,378,775,672,0
+Dataset/train/Pneumonia/db32f09d-b7f5-424b-a393-a10cab691038.jpg 348,556,444,704,0
+Dataset/train/Pneumonia/b6f979aa-64e3-4211-a69d-fbe8151f6ac4.jpg 611,95,854,886,0 182,172,470,843,0
+Dataset/train/Pneumonia/ecdb0b5e-bfab-42cd-842c-d1226a2f707f.jpg 216,288,435,630,0 625,302,809,699,0
+Dataset/train/Pneumonia/dbc1e726-39b3-4df1-988e-ed7119a4eaa0.jpg 291,577,424,687,0 744,507,894,688,0
+Dataset/train/Pneumonia/ee52c757-3e8e-4e65-9818-52ad4c00622a.jpg 297,217,479,513,0
+Dataset/train/Pneumonia/b60cbe83-66f7-44c1-b5c6-a407e3e2f930.jpg 274,477,453,659,0
+Dataset/train/Pneumonia/b460b35c-214c-45b6-8306-3bf234116ca9.jpg 312,283,484,587,0
+Dataset/train/Pneumonia/c14d9ceb-019f-45f6-9299-281b58de57df.jpg 578,447,735,705,0 239,268,411,686,0
+Dataset/train/Pneumonia/bef4ff3a-6fb0-4213-a5a9-125eff87dc22.jpg 605,120,845,540,0 262,100,463,623,0
+Dataset/train/Pneumonia/f0db2967-6ff4-4d56-b697-8440b9cda138.jpg 261,320,448,802,0 666,642,831,909,0
+Dataset/train/Pneumonia/d10eacc0-9e8a-436c-867c-733e3fe424f5.jpg 165,443,455,796,0
+Dataset/train/Pneumonia/b30acc47-d394-4a42-aeaf-17527f15dd62.jpg 103,35,303,496,0 406,32,795,476,0
+Dataset/train/Pneumonia/c4400499-489b-4867-973a-06747a8261bb.jpg 256,371,519,859,0 588,318,911,826,0
+Dataset/train/Pneumonia/b3e5becd-9009-4981-82ab-bbf28f4a834b.jpg 665,373,865,645,0
+Dataset/train/Pneumonia/bf7b0977-4f77-45a7-8c03-77602f82b905.jpg 646,472,841,737,0
+Dataset/train/Pneumonia/cab22af6-a77e-4c81-91c0-b41fe7d6e1ec.jpg 173,235,416,781,0 472,233,801,765,0
+Dataset/train/Pneumonia/bb7dca62-6180-4e52-81b6-8a9e09a4bfae.jpg 253,174,540,635,0 631,143,912,592,0
+Dataset/train/Pneumonia/bc92c935-81cf-4e5b-8edc-381c0327072b.jpg 144,130,406,500,0
+Dataset/train/Pneumonia/f9bf7579-e589-4953-bd68-d92f44f0aa95.jpg 189,409,406,647,0
+Dataset/train/Pneumonia/b18f7658-00da-4668-bfe8-9a3d2b2d2c33.jpg 289,466,535,863,0 664,498,956,876,0
+Dataset/train/Pneumonia/b22a1ca8-6580-4618-99ae-fb2ecca1df83.jpg 536,478,748,725,0 187,456,360,600,0
+Dataset/train/Pneumonia/fd2af0f9-4bfa-4f2a-87c4-4ba774e2fcec.jpg 168,551,385,790,0
+Dataset/train/Pneumonia/bbc0f839-6707-42f6-9e56-c3f555d6b9c0.jpg 590,378,817,743,0 271,205,444,673,0
+Dataset/train/Pneumonia/faa89d54-2079-4711-9d65-1c9aa3f58f3f.jpg 606,351,796,812,0
+Dataset/train/Pneumonia/ba9148d0-12d5-4333-9b5f-bb32c687ed66.jpg 242,84,447,579,0 584,89,813,577,0
+Dataset/train/Pneumonia/c5a8e91a-2d40-4355-91af-73abf5f0fdf1.jpg 208,166,490,687,0 591,170,879,714,0
+Dataset/train/Pneumonia/beb63eac-b9ba-40b5-89b1-8aed84ab43b6.jpg 160,456,412,781,0
+Dataset/train/Pneumonia/bfea966c-f72f-42f7-9712-9cf77b66bad6.jpg 205,185,459,559,0
+Dataset/train/Pneumonia/fffb2395-8edd-4954-8a89-ffe2fd329be3.jpg 177,285,402,814,0 641,473,842,782,0
+Dataset/train/Pneumonia/bcbb2132-0a68-4baa-b264-9c9e6567e35b.jpg 550,167,850,1014,0
+Dataset/train/Pneumonia/f696261f-49c1-4274-81be-4e6b9e8c5602.jpg 584,380,804,767,0 141,396,392,665,0
+Dataset/train/Pneumonia/fce56107-c115-4cb6-b340-19f87b757035.jpg 149,256,312,449,0
+Dataset/train/Pneumonia/b006df68-f367-4949-b94b-9351a99cb343.jpg 537,185,919,762,0 157,228,411,765,0
+Dataset/train/Pneumonia/b680c111-22a5-4ad1-94b7-34e866815e79.jpg 225,119,505,522,0 646,123,912,619,0
+Dataset/train/Pneumonia/d84d271a-8ea1-4065-90e5-9f9c94794310.jpg 182,505,353,661,0
+Dataset/train/Pneumonia/b2521978-0df6-4fd5-b684-f03b1b96dbf7.jpg 241,218,434,525,0 534,383,734,600,0
+Dataset/train/Pneumonia/bee78c8a-8a21-49b3-b1d5-93c93ccf300c.jpg 546,742,730,927,0 295,660,424,870,0
+Dataset/train/Pneumonia/cf9c397a-14e3-4668-bfdd-b632a4b4e45a.jpg 107,263,395,686,0 408,275,777,686,0
+Dataset/train/Pneumonia/b4ad7f93-d7fc-4c48-a164-8da23cb88cc1.jpg 215,665,425,889,0 654,722,915,929,0
+Dataset/train/Pneumonia/ceb903e7-cdbd-4e62-aca0-00c255736807.jpg 193,552,436,786,0 583,462,843,780,0
+Dataset/train/Pneumonia/c0018701-b726-4c75-b5fb-686be2d8b00d.jpg 634,548,832,821,0 247,461,463,707,0
+Dataset/train/Pneumonia/d0a2ca41-1f5b-475b-9cc0-b7efc4f19624.jpg 563,373,820,806,0 172,366,487,800,0
+Dataset/train/Pneumonia/d60b0cba-c1bd-4741-86ef-c24760605b03.jpg 151,258,299,506,0 575,226,690,512,0
+Dataset/train/Pneumonia/b7fe2048-abe7-4f69-b82a-ed93c354a8aa.jpg 202,268,497,824,0 607,259,935,800,0
+Dataset/train/Pneumonia/f3088d94-d727-4381-ab83-1b2bc54c2505.jpg 722,555,882,786,0
+Dataset/train/Pneumonia/b17cb86b-e90c-4a31-926a-2e5b022c6275.jpg 529,479,849,868,0
+Dataset/train/Pneumonia/f556368d-3eb0-4b06-bc4d-535acc1ea1ad.jpg 698,303,888,700,0
+Dataset/train/Pneumonia/ba6d7b39-f439-455a-878c-f04c5987d668.jpg 536,325,839,953,0 126,449,367,915,0
+Dataset/train/Pneumonia/e0091a61-2aa3-42f5-8a0e-ad47a9ff7c80.jpg 600,513,818,729,0
+Dataset/train/Pneumonia/f4113fee-b7a0-472c-8f68-24e999fbf73a.jpg 228,375,413,669,0
+Dataset/train/Pneumonia/c27d0e06-ef8c-44ca-b4cc-a4113b723570.jpg 639,488,826,629,0
+Dataset/train/Pneumonia/b606ef06-60ed-48b2-b450-b689fee2097a.jpg 190,248,433,696,0
+Dataset/train/Pneumonia/b9a50c1f-4b93-4a91-963f-a8d06fe077ee.jpg 150,212,423,696,0 587,468,944,773,0
+Dataset/train/Pneumonia/f4fffaa6-a5b8-494e-911b-1560d1937422.jpg 212,350,409,689,0 571,263,803,716,0
+Dataset/train/Pneumonia/e7d62adc-e492-475c-9fc9-11cc9b3654da.jpg 221,566,396,705,0
+Dataset/train/Pneumonia/b7d63692-4cef-440d-a07d-49ceca4724ae.jpg 614,252,723,497,0 302,473,476,745,0
+Dataset/train/Pneumonia/eb408099-a39c-4562-918a-c21c1afc1d82.jpg 673,394,825,752,0
+Dataset/train/Pneumonia/ed20cdc6-e8f7-4551-a8d5-6b360b3f9c71.jpg 245,315,390,605,0 641,179,825,462,0
+Dataset/train/Pneumonia/db16297d-c849-43b1-bcd3-1bd4fb2ff37e.jpg 606,582,767,750,0 296,586,419,686,0
+Dataset/train/Pneumonia/f8377b25-0c03-4615-b18d-f0131b80b3d4.jpg 701,409,847,603,0 212,553,400,739,0
+Dataset/train/Pneumonia/b75aac14-6da7-4b40-9e68-674f50c98a3a.jpg 295,145,476,613,0 640,178,842,664,0
+Dataset/train/Pneumonia/b4158c24-1186-4d75-8b45-6c0c378a8ac5.jpg 187,436,421,670,0 556,438,790,729,0
+Dataset/train/Pneumonia/b952a239-6b35-4d06-981b-4361d4bb8a9f.jpg 165,532,439,702,0 605,210,822,506,0
+Dataset/train/Pneumonia/cf8816d8-1032-4b78-8c15-27fbf3b1b763.jpg 596,431,929,638,0
+Dataset/train/Pneumonia/f26f795e-e989-40ce-a076-5763295ce46b.jpg 174,411,338,695,0 640,435,807,815,0
+Dataset/train/Pneumonia/dc3f50d6-3e8c-4c5b-814b-3f2043165556.jpg 627,477,878,712,0
+Dataset/train/Pneumonia/cd9d2d22-4395-4e4d-8837-cfb33c2bdaab.jpg 568,157,830,554,0 244,143,496,531,0
+Dataset/train/Pneumonia/be309060-220f-445f-9aa5-4a8825783fb2.jpg 124,267,358,637,0 538,305,763,798,0
+Dataset/train/Pneumonia/e6a3f420-39d4-4042-8485-87024e7fb4f3.jpg 230,659,430,775,0 718,590,850,787,0 338,204,478,375,0
+Dataset/train/Pneumonia/dc36c084-7f6e-4bcd-810c-7ea46af670d9.jpg 236,318,386,479,0
+Dataset/train/Pneumonia/e178c7c6-a213-4023-a125-45cf59949b20.jpg 396,569,486,715,0 394,308,509,485,0
+Dataset/train/Pneumonia/dbc8473e-fc37-4b23-9051-c1a0a1baf5a3.jpg 576,477,849,750,0 176,513,392,804,0
+Dataset/train/Pneumonia/d8348637-b16f-40d0-93d3-d27e4051ce6d.jpg 293,306,404,705,0
+Dataset/train/Pneumonia/c3ed4cdc-183a-4b8f-a51f-d915d912abab.jpg 164,617,423,812,0 614,326,867,784,0
+Dataset/train/Pneumonia/ee3d45f9-5a4c-421d-a171-be0d8129e43d.jpg 277,479,402,581,0
+Dataset/train/Pneumonia/d9c868ad-52d6-4d3d-9b2b-05534e1cee81.jpg 265,723,431,836,0
+Dataset/train/Pneumonia/bcccd58e-6cf0-4bd8-82c1-e51e18cd041b.jpg 511,205,801,814,0 121,170,374,801,0
+Dataset/train/Pneumonia/b8fd583c-2159-494a-bed3-88a3c0370efa.jpg 667,497,812,722,0
+Dataset/train/Pneumonia/b15cff7a-2345-45ad-9eef-4a9e5ab6762d.jpg 641,430,887,686,0 245,456,462,754,0
+Dataset/train/Pneumonia/eb2f6354-73d5-47f8-b40c-72579eeec569.jpg 214,257,414,827,0 640,277,862,789,0
+Dataset/train/Pneumonia/c424b446-ced5-4ab5-a097-41b6e496146d.jpg 99,303,416,659,0 409,220,739,640,0
+Dataset/train/Pneumonia/c801ebd5-8032-473d-8a47-de337f59c904.jpg 530,273,774,622,0 123,283,407,608,0
+Dataset/train/Pneumonia/b02fea6c-41b4-47e7-8c70-d20b005063bd.jpg 612,427,862,762,0 139,449,411,698,0
+Dataset/train/Pneumonia/c2657014-120e-456e-97e5-1adcdb908b73.jpg 592,314,869,888,0 276,552,470,837,0
+Dataset/train/Pneumonia/dc265f1b-aca5-44d8-91a6-8aa4d7f7ae2f.jpg 123,602,331,830,0
+Dataset/train/Pneumonia/e49d1683-b3d9-4a75-9b30-779201943f1a.jpg 132,214,356,596,0
+Dataset/train/Pneumonia/b3a287c5-9fc6-42fb-93c5-310515024948.jpg 593,453,893,725,0 182,526,392,697,0
+Dataset/train/Pneumonia/bb13f699-a024-4946-a481-8d2e91d3cf72.jpg 649,125,921,753,0 285,82,502,673,0
+Dataset/train/Pneumonia/d783664a-fef1-4959-8d09-79c25870dfe7.jpg 289,616,519,929,0
+Dataset/train/Pneumonia/b18a2d86-3e3a-43ec-b9f6-0fd249bc1a0d.jpg 185,552,400,654,0
+Dataset/train/Pneumonia/b87a7ed6-a5d7-42ea-a9d5-d487a2d9108e.jpg 575,270,784,764,0 203,207,427,729,0
+Dataset/train/Pneumonia/eb3d5fed-558d-4aba-b13e-f7917c49c79b.jpg 306,333,467,608,0
+Dataset/train/Pneumonia/bbecaf72-370b-4667-a4bf-088091cfae00.jpg 684,639,878,823,0
+Dataset/train/Pneumonia/ff40a703-b1db-48d5-a176-0b50763f9a0a.jpg 614,256,784,674,0 228,209,441,645,0
+Dataset/train/Pneumonia/f1ba9810-861e-4ffc-8fbf-242d5da8e80d.jpg 598,185,823,788,0 168,251,394,776,0
+Dataset/train/Pneumonia/e13739bf-ff9c-44eb-8839-fa8c61bf8a14.jpg 269,451,416,648,0
+Dataset/train/Pneumonia/b54c5581-bb40-4c19-9d5a-3be944ef8132.jpg 133,524,305,663,0
+Dataset/train/Pneumonia/b4b73865-89a8-4fd1-8494-4abd8084beca.jpg 571,137,862,723,0 236,175,455,740,0
+Dataset/train/Pneumonia/b4a2cd51-7078-496c-9a4c-f0641ea9b13c.jpg 278,242,508,774,0 707,328,882,834,0
+Dataset/train/Pneumonia/ca390006-726d-4c9c-975b-616f135d0aee.jpg 235,237,391,555,0 551,256,781,617,0
+Dataset/train/Pneumonia/c762013e-3fd2-4301-9af3-9a3b10ad1fcd.jpg 525,189,814,744,0 190,197,442,777,0
+Dataset/train/Pneumonia/bc234c2b-96aa-4263-931b-b7420c235daa.jpg 665,273,932,927,0 301,181,516,820,0
+Dataset/train/Pneumonia/f9538c72-0f7b-45e3-98a8-de3e4434fe4d.jpg 521,325,712,700,0
+Dataset/train/Pneumonia/db4414d8-4ce8-4e92-b543-e9d42883f58b.jpg 195,452,315,622,0
+Dataset/train/Pneumonia/bdf0efcb-841f-442b-b1eb-3d4f9b2d959e.jpg 639,378,899,683,0 248,495,500,706,0
+Dataset/train/Pneumonia/e5c3b5c2-7f2f-426c-bf4f-ea8862da8dc3.jpg 386,198,530,342,0
+Dataset/train/Pneumonia/bfb7c989-f1c7-4b55-8b05-598338363b1f.jpg 212,490,444,720,0 638,479,882,711,0
+Dataset/train/Pneumonia/fa8ea2ce-097a-4e42-8f9b-c3d0603484f1.jpg 615,423,805,761,0 119,546,355,742,0
+Dataset/train/Pneumonia/bda78d8f-77ca-4806-a095-e0df852f821f.jpg 229,475,426,649,0
+Dataset/train/Pneumonia/f40574cd-4fc5-43a7-a2e8-8bf66093c80a.jpg 607,273,918,848,0 149,246,417,824,0
+Dataset/train/Pneumonia/cee68125-b70c-4f9b-b9a4-a005725ab04b.jpg 572,251,818,602,0 289,223,463,574,0
+Dataset/train/Pneumonia/dda53143-9bcc-4c5f-aca6-970626733e17.jpg 242,570,398,635,0
+Dataset/train/Pneumonia/f7d0e9c2-68d8-4742-9ce6-1ac3d250cb35.jpg 215,430,436,721,0
+Dataset/train/Pneumonia/ff9d37d1-3660-4187-8f57-d31f9c91a3fd.jpg 193,556,400,818,0
+Dataset/train/Pneumonia/fe79ab03-4727-45c9-9c42-813f2b34f111.jpg 192,133,428,460,0 717,180,865,526,0
+Dataset/train/Pneumonia/d6406a7b-d4ce-4495-ac63-ccde4b062fa7.jpg 85,101,248,231,0
+Dataset/train/Pneumonia/b492b982-f9b7-4775-ae62-6e9f1c39cb4f.jpg 146,498,347,783,0
+Dataset/train/Pneumonia/c2e05765-ebf6-4e52-ac88-1e9d928282b8.jpg 598,517,771,682,0
+Dataset/train/Pneumonia/d85118d0-c7de-4397-a6da-b60ff8a249f0.jpg 552,340,770,698,0 147,290,363,733,0
+Dataset/train/Pneumonia/c37e4ade-605d-4b78-ada5-231c82b72b43.jpg 59,159,307,699,0 497,228,767,740,0
+Dataset/train/Pneumonia/fa8f46e9-4e03-49b8-92c5-3432a300cb7e.jpg 235,527,385,690,0 533,707,735,845,0
+Dataset/train/Pneumonia/c5a27c73-aef3-407e-9724-333e97a583c9.jpg 551,445,777,749,0
+Dataset/train/Pneumonia/f9471bff-686b-4d20-932b-bb0c76c8b77f.jpg 550,373,783,753,0
+Dataset/train/Pneumonia/c20862cf-d556-41a3-9acd-2c254144b396.jpg 668,296,822,570,0
+Dataset/train/Pneumonia/b9250558-2525-459d-894d-65355b4cf432.jpg 695,500,881,921,0 249,508,462,834,0
+Dataset/train/Pneumonia/fff0b503-72a5-446a-843d-f3d152e39053.jpg 158,267,338,476,0
+Dataset/train/Pneumonia/fd67d636-d57c-4698-876b-23e94eed5067.jpg 178,251,416,556,0
+Dataset/train/Pneumonia/d471c394-f44a-47a4-9e41-6a651b8916cc.jpg 193,210,410,657,0 498,232,770,681,0
+Dataset/train/Pneumonia/ebc03c6f-4bed-4b0b-a283-f0624a9955cd.jpg 635,424,785,799,0 361,331,485,488,0 272,495,397,678,0
+Dataset/train/Pneumonia/e6141d8f-fb9e-455c-8638-e081cc656aa9.jpg 209,353,416,496,0
+Dataset/train/Pneumonia/c69ffd64-16bf-4237-b169-f7bab69978e4.jpg 127,180,462,538,0
+Dataset/train/Pneumonia/ea4e3c77-6956-4ba1-9c73-3bc93c1f0398.jpg 108,699,315,787,0
+Dataset/train/Pneumonia/ea2f0e9e-8cca-4037-a456-9fb1f07af5d2.jpg 202,503,371,655,0
+Dataset/train/Pneumonia/f1ba6a94-27b8-4537-8a11-6c4dbc3fe428.jpg 281,290,375,366,0 256,468,420,662,0 611,447,752,653,0
+Dataset/train/Pneumonia/d974dbc0-5e7d-4aac-bda5-f29096aeeb5a.jpg 82,554,263,759,0
+Dataset/train/Pneumonia/c5074fa5-ad56-4b4f-9b52-c298db7b62af.jpg 222,214,499,826,0
+Dataset/train/Pneumonia/bb3857ed-9f85-4afc-96ee-c8b6b637490c.jpg 94,369,338,606,0 568,202,870,692,0
+Dataset/train/Pneumonia/c02e993c-7642-4d8a-aace-988c416ec09a.jpg 596,206,869,596,0
+Dataset/train/Pneumonia/f42223b1-1a5b-45c2-a1d2-25c6df776484.jpg 294,73,505,348,0
+Dataset/train/Pneumonia/d230bf50-e18f-4b8a-bc79-678edb4e1261.jpg 538,209,815,600,0 184,265,468,667,0
+Dataset/train/Pneumonia/db7bce8f-978c-47b1-8b74-7640f7c3625e.jpg 180,502,356,767,0
+Dataset/train/Pneumonia/d5e1c771-f2f2-4a2a-afbd-4b14b3198500.jpg 384,441,527,676,0
+Dataset/train/Pneumonia/ba07114f-788c-4779-98cd-1190bfb6bdc2.jpg 143,239,372,606,0 534,272,743,710,0
+Dataset/train/Pneumonia/b03867f9-6a0e-4115-ac46-ed96db6b6644.jpg 6,216,287,624,0 397,230,746,512,0
+Dataset/train/Pneumonia/ec525238-c296-4a6d-a351-ce760c7111d9.jpg 288,539,435,766,0 700,488,826,759,0
+Dataset/train/Pneumonia/b5046b7c-f721-4c19-b3ae-51f095f36fe6.jpg 616,246,864,809,0 288,332,431,717,0
+Dataset/train/Pneumonia/bab8d182-b9fe-4db9-88b5-042153c4406e.jpg 601,244,768,755,0 204,190,441,673,0
+Dataset/train/Pneumonia/ed6e3fd5-ac11-4733-befd-aac7c6db0a7b.jpg 204,388,417,790,0 554,302,771,698,0
+Dataset/train/Pneumonia/b55db584-960a-4816-ba8b-b7fb493455ac.jpg 156,117,428,720,0 577,121,887,752,0
+Dataset/train/Pneumonia/f0343afa-3b37-47d4-93d0-9ee56c30952e.jpg 219,135,408,473,0 590,269,762,735,0
+Dataset/train/Pneumonia/bffeb7c8-e4e5-4d12-a45e-d4c3fc5b5867.jpg 202,175,448,655,0 618,191,784,759,0
+Dataset/train/Pneumonia/b0604ee6-5f21-4b14-98ca-3bedaccd4e10.jpg 191,499,385,760,0 574,584,794,820,0
+Dataset/train/Pneumonia/f5544779-e6b9-456b-a475-867e41212602.jpg 323,210,527,517,0
+Dataset/train/Pneumonia/e16fae2e-675c-42e0-becb-27770deacfcf.jpg 167,471,338,648,0
+Dataset/train/Pneumonia/ecfa4360-af4d-4bd7-ae2f-b1f56a623dfe.jpg 207,306,429,759,0
+Dataset/train/Pneumonia/e77e5857-d114-484b-acbb-9736ffb750c3.jpg 611,294,736,466,0 228,238,408,406,0
+Dataset/train/Pneumonia/b46fcbd0-8851-4561-96de-0a820e49f45d.jpg 539,425,794,781,0 202,394,412,731,0
+Dataset/train/Pneumonia/d18f4964-da90-4c37-bb7b-4ce1b2bbb6af.jpg 300,218,548,654,0 642,150,899,557,0
+Dataset/train/Pneumonia/bddd048f-116f-467e-803f-fd234c53a61f.jpg 658,518,900,747,0 263,185,498,701,0
+Dataset/train/Pneumonia/d9fc48eb-9f51-4a78-b132-3532f4aa05f7.jpg 166,630,384,820,0
+Dataset/train/Pneumonia/b99ae612-3a2b-4575-a6cd-b00c2e27c56a.jpg 639,432,822,689,0 339,378,496,614,0
+Dataset/train/Pneumonia/e06b4382-9140-4fff-817b-47026d28a98d.jpg 136,462,322,625,0
+Dataset/train/Pneumonia/bd4fa84d-813d-4ed5-b68f-c88127ed2f80.jpg 192,210,403,702,0 583,142,833,719,0
+Dataset/train/Pneumonia/eb2225b3-b09e-408c-8c48-27b1bad103a9.jpg 265,643,390,745,0
+Dataset/train/Pneumonia/fd45f813-2237-4639-b340-2e1b97737da6.jpg 726,454,865,708,0 268,438,459,709,0
+Dataset/train/Pneumonia/b8d5cabd-d5b5-4ac4-b1d1-f0f80be47619.jpg 320,403,438,595,0
+Dataset/train/Pneumonia/b21e0de5-4fee-4584-9ee1-31af96400c21.jpg 193,471,475,712,0
+Dataset/train/Pneumonia/e1f97b99-23fc-4fb8-a960-b9e26f2920a7.jpg 259,378,366,632,0
+Dataset/train/Pneumonia/fea6e37a-41c3-45ce-9b27-6f1bed1bc7f4.jpg 196,425,374,746,0 664,452,806,746,0
+Dataset/train/Pneumonia/b5a0f268-4711-4c94-8056-9f9dfc3b4462.jpg 576,250,839,767,0 197,165,430,695,0
+Dataset/train/Pneumonia/c39c065c-40fb-4920-9f9a-36ccbb212c0d.jpg 598,318,761,672,0 269,275,447,631,0
+Dataset/train/Pneumonia/c3a5e685-166b-4f22-b9bb-151a0040e0ee.jpg 599,463,784,629,0 329,436,464,635,0
+Dataset/train/Pneumonia/c4a9d607-67c3-49f7-b110-7e0f1dcfea4a.jpg 665,449,892,581,0
+Dataset/train/Pneumonia/b15b5ce7-ad31-4506-baac-e6316aaf6cf6.jpg 119,412,389,708,0
+Dataset/train/Pneumonia/d4a41252-bd49-47db-ae15-e6e489271b82.jpg 298,339,517,718,0 594,276,941,766,0
+Dataset/train/Pneumonia/c9ef5f00-e918-46d6-897f-ee78fc1310d5.jpg 128,251,418,773,0 517,190,886,827,0
+Dataset/train/Pneumonia/b68055e9-64be-476d-9cf8-e06a8cb10a7d.jpg 169,206,464,901,0 601,210,970,868,0
+Dataset/train/Pneumonia/ef8c6816-f060-479b-a122-fea344b21221.jpg 693,660,781,747,0 257,583,410,726,0
+Dataset/train/Pneumonia/c4528f64-a6a4-4a65-bf14-1f234871cf30.jpg 173,293,381,484,0 696,354,873,516,0
+Dataset/train/Pneumonia/f5bb54ee-a4a0-49d6-be55-5687176002f4.jpg 268,189,479,445,0 221,502,390,739,0
+Dataset/train/Pneumonia/b039548f-9627-4701-951b-ae89efd3789f.jpg 564,668,867,880,0 332,259,523,652,0
+Dataset/train/Pneumonia/f5dc76a7-237a-419c-a28a-c3fc7ff43b65.jpg 559,216,715,434,0 198,191,390,446,0
+Dataset/train/Pneumonia/bd7b6626-82a0-4410-b96b-3109223128e1.jpg 571,238,767,571,0
+Dataset/train/Pneumonia/bc237587-65cc-4747-8ccf-20b271c452f6.jpg 227,623,458,771,0
+Dataset/train/Pneumonia/b49817f1-54d7-4748-a228-a9cc7834168a.jpg 588,503,859,691,0 201,500,424,674,0
+Dataset/train/Pneumonia/f760c946-a103-4991-a6e5-ff60c24cd99f.jpg 639,225,826,545,0 213,227,441,603,0
+Dataset/train/Pneumonia/b4989ff4-3c1f-4de9-8df1-cd50c211273a.jpg 134,290,375,780,0 506,280,784,821,0
+Dataset/train/Pneumonia/b5b4468f-e5e2-48a5-aa42-e08547be1172.jpg 365,502,519,673,0 674,599,892,744,0
+Dataset/train/Pneumonia/b8397df9-1bd5-4961-b756-978ff4aed6cf.jpg 217,504,387,777,0
+Dataset/train/Pneumonia/f759e4b7-21fe-4f3a-aaeb-0b8b99cb103c.jpg 217,550,367,773,0
+Dataset/train/Pneumonia/b402960f-5989-4469-941e-b8dee9ff6275.jpg 568,348,829,743,0 149,179,394,692,0
+Dataset/train/Pneumonia/e01ef6c8-20f4-48a3-8917-686da0e5b454.jpg 43,519,337,644,0 662,531,950,677,0
+Dataset/train/Pneumonia/bc13bee6-5b18-46e5-b0cd-ba5ac0f1790a.jpg 523,458,737,637,0 129,292,376,694,0
+Dataset/train/Pneumonia/b7de17b0-c8a4-4d97-bc40-a13387bea4ef.jpg 266,594,429,781,0 675,674,875,851,0
+Dataset/train/Pneumonia/bf22936e-6390-4f6f-b7c2-9452972c3ab1.jpg 642,358,831,798,0
+Dataset/train/Pneumonia/f137ed32-7a53-4b47-b7dc-a75a20701ca3.jpg 159,388,345,501,0
+Dataset/train/Pneumonia/ff0200e1-3bac-42d1-880b-17d6a3366d2c.jpg 262,511,418,686,0 680,541,812,663,0
+Dataset/train/Pneumonia/e30028a5-ccf1-4afa-8cd8-5b6129483e96.jpg 147,405,413,615,0
+Dataset/train/Pneumonia/f6ea62b5-fb92-45b3-b59b-2f9b6d8b7e7e.jpg 179,284,454,795,0 599,371,814,870,0
+Dataset/train/Pneumonia/b28af7c9-9cb3-4cd9-8261-0d1815d1609e.jpg 189,460,383,582,0
+Dataset/train/Pneumonia/bd562b4a-0bcd-4d3f-8fe5-b8bfb3875b1c.jpg 617,451,754,681,0
+Dataset/train/Pneumonia/b091d2a7-572e-4183-8dfd-acf6ae5e3e86.jpg 610,249,860,847,0 263,290,446,833,0
+Dataset/train/Pneumonia/d8e8af62-c7de-4f67-a5de-d38507419763.jpg 176,335,356,580,0
+Dataset/train/Pneumonia/bea23d20-aa4e-41d5-b8e7-22941746e543.jpg 644,294,810,577,0
+Dataset/train/Pneumonia/b9ce332b-03b9-4297-9ab3-3cbafbb4ec0a.jpg 186,459,427,721,0 664,428,884,801,0
+Dataset/train/Pneumonia/bbd92872-acee-4b27-98b7-07faa4e90919.jpg 180,113,439,760,0 591,100,821,388,0
+Dataset/train/Pneumonia/cd0ca2b5-ec57-41a9-864d-0aab3bf61848.jpg 543,332,850,838,0 179,322,458,825,0
+Dataset/train/Pneumonia/d18074c3-5ac2-46d4-91e4-f13f9284115f.jpg 628,301,932,692,0 260,299,534,619,0
+Dataset/train/Pneumonia/c203f4e6-0963-4543-a34c-48b9d62b3e27.jpg 258,187,478,523,0 611,164,759,549,0
+Dataset/train/Pneumonia/ccd24f2e-dfe9-4a26-9c84-0caa0b67cbdc.jpg 523,230,875,475,0
+Dataset/train/Pneumonia/ba54e255-4d76-4f33-ab14-cbe9ac42c5a5.jpg 658,469,857,658,0 347,241,529,715,0
+Dataset/train/Pneumonia/d71602f4-ca1e-4651-8eb1-86bfde77556f.jpg 260,646,510,811,0
+Dataset/train/Pneumonia/c7e641a6-a80b-4314-961d-d63e4a54d5bc.jpg 569,342,855,571,0
+Dataset/train/Pneumonia/bcb3a190-1449-47b4-a24d-ffd8701723d5.jpg 583,267,784,686,0 251,258,468,657,0
+Dataset/train/Pneumonia/ddb4f535-9e42-420a-9851-3fb6a06a0143.jpg 314,187,484,591,0 706,219,839,577,0
+Dataset/train/Pneumonia/b1046f7e-c90f-4043-a678-087754decbd9.jpg 528,599,775,894,0 169,550,397,933,0
+Dataset/train/Pneumonia/dde8d2fb-aa94-4fbf-a3eb-3a58ea13ea75.jpg 691,247,947,513,0
+Dataset/train/Pneumonia/dcc879b2-a7f1-4526-95af-e87539dc4925.jpg 199,176,469,570,0
+Dataset/train/Pneumonia/f145236e-77ef-4cc3-8289-85a020b56c5e.jpg 236,435,389,751,0
+Dataset/train/Pneumonia/ce649e4b-1461-4c34-908d-b0561ac155a6.jpg 214,457,479,706,0
+Dataset/train/Pneumonia/d4a31817-cd95-46ad-b41d-9350faa087c8.jpg 583,143,910,602,0 174,203,500,562,0
+Dataset/train/Pneumonia/bc15aa77-4017-4833-b947-42324d271764.jpg 270,549,489,720,0 677,489,949,800,0
+Dataset/train/Pneumonia/c08f10a9-1c81-4c81-b411-a53c7b51f20b.jpg 140,531,427,746,0 578,668,928,847,0
+Dataset/train/Pneumonia/f058ba1f-6cf1-4127-9372-d93a5459a339.jpg 605,146,854,586,0
+Dataset/train/Pneumonia/d6e82de1-190e-45d8-8a10-8d920b054661.jpg 133,488,344,748,0
+Dataset/train/Pneumonia/f0e0c65f-bef1-467b-a4e8-e5e46cb25fa8.jpg 241,343,415,782,0
+Dataset/train/Pneumonia/ec2de089-6de3-49d8-b5e4-d95bb4559221.jpg 225,260,445,707,0 586,262,810,799,0
+Dataset/train/Pneumonia/ba1649bf-15b7-46ba-b841-7aeb71f9e4c6.jpg 596,416,889,731,0 314,535,490,751,0
+Dataset/train/Pneumonia/bec77715-a15a-4725-9adc-792af4dcc1d4.jpg 226,276,503,560,0
+Dataset/train/Pneumonia/f14916d0-2dab-4a08-b306-7ef36fee8fb6.jpg 642,552,795,668,0 270,526,487,703,0
+Dataset/train/Pneumonia/b7d86d4e-7d73-4269-bd19-3d24b7f4259b.jpg 537,450,689,579,0
+Dataset/train/Pneumonia/be265039-f0ab-4d31-9859-2de2f9d97492.jpg 552,194,829,738,0 143,278,388,876,0
+Dataset/train/Pneumonia/c2ed72cd-0390-46c3-ac73-601b1a875d5d.jpg 591,365,830,914,0 143,334,413,923,0
+Dataset/train/Pneumonia/c3d8144a-2426-4e80-80c0-651dfe0116e8.jpg 139,142,378,580,0 502,200,711,692,0
+Dataset/train/Pneumonia/ba8d3130-4063-4339-bbfa-474259060f5b.jpg 644,333,939,630,0 295,352,518,692,0
+Dataset/train/Pneumonia/b20b2346-f86c-45b5-aeea-a4b10e35b764.jpg 249,343,412,499,0 628,210,864,573,0
+Dataset/train/Pneumonia/b35dfbda-395c-4c9d-befb-331f6ac3da84.jpg 99,227,361,843,0 546,275,906,939,0
+Dataset/train/Pneumonia/fb771e55-ad38-4f26-8eee-30573851bc48.jpg 231,486,386,613,0
+Dataset/train/Pneumonia/c12aafdd-4d21-4cd3-a2ae-007bce2e2fc0.jpg 606,355,822,723,0
+Dataset/train/Pneumonia/b97dadd7-8a4f-4bdf-898e-c59489b8add0.jpg 158,261,416,520,0 567,409,719,601,0
+Dataset/train/Pneumonia/c600753e-3394-4e74-9f7c-6687891aacc4.jpg 183,330,444,678,0 596,430,771,715,0
+Dataset/train/Pneumonia/c3c1ef6e-055c-4f54-a7f5-d0f6eed1d2da.jpg 611,267,799,660,0 254,221,461,620,0
+Dataset/train/Pneumonia/b9b46200-1045-4c7a-b790-a9f6cdd031e3.jpg 626,205,811,570,0 294,276,498,579,0
+Dataset/train/Pneumonia/bb1e0002-241f-4b8d-83f9-dc3954dc3cd7.jpg 241,382,468,573,0
+Dataset/train/Pneumonia/f6be6dc3-9539-46c0-a1f5-b10919ff81cd.jpg 572,375,737,759,0 213,392,384,670,0
+Dataset/train/Pneumonia/dd3b5e52-b682-4b16-b7ba-bfcc66dc5992.jpg 227,474,420,712,0
+Dataset/train/Pneumonia/d2e16b46-2400-4ff1-bdec-3ed42e49155b.jpg 189,224,421,770,0 523,211,780,710,0
+Dataset/train/Pneumonia/b544bbb2-35d1-44a9-88a6-431aa0fe72ad.jpg 604,474,867,710,0 232,445,452,652,0
+Dataset/train/Pneumonia/ff3258f3-2c66-40cf-9d5d-fe77f8036fa6.jpg 146,483,287,701,0 591,276,752,762,0
+Dataset/train/Pneumonia/b87a9ec5-6c95-42ac-82d8-af66a712ff60.jpg 263,569,427,699,0
+Dataset/train/Pneumonia/fcb06a43-8652-4bbf-bdf8-bb961137302a.jpg 266,220,478,723,0 661,236,856,676,0
+Dataset/train/Pneumonia/d3d0536b-d0e8-4e2a-a803-03c7d42d454d.jpg 216,219,512,694,0
+Dataset/train/Pneumonia/ce1ff7c6-b08a-4d22-8b42-cfa6084e1285.jpg 307,216,549,673,0 713,262,929,827,0
+Dataset/train/Pneumonia/b4abc0a4-600c-4834-bd71-c9dbb21eaaf0.jpg 225,222,409,689,0 553,189,822,681,0
+Dataset/train/Pneumonia/eff33651-3ef2-4acf-bbd9-c5d785640fc6.jpg 153,384,353,511,0
+Dataset/train/Pneumonia/efa863b3-24a7-4688-9015-e656c933d04c.jpg 225,469,409,590,0
+Dataset/train/Pneumonia/bcd2d62d-b9a4-4b2c-b8a8-ef27a1f65226.jpg 584,305,878,964,0 165,239,454,850,0
+Dataset/train/Pneumonia/bd1356ed-d7fc-41d7-a11b-b1b1f2c5add1.jpg 138,79,412,670,0 533,108,721,823,0
+Dataset/train/Pneumonia/b6019839-752f-4db1-bf83-f5460472deb1.jpg 739,465,859,579,0
+Dataset/train/Pneumonia/ef7cd600-75c9-4b07-bb0e-f66e857fdafa.jpg 654,514,824,705,0
+Dataset/train/Pneumonia/c310c4ea-4a38-4d9a-bfd2-bcf0c6a30436.jpg 726,561,903,764,0
+Dataset/train/Pneumonia/ba5b22cb-77dc-4ee7-b18f-8bbed5112712.jpg 193,73,414,545,0 501,73,753,596,0
+Dataset/train/Pneumonia/f569df59-d9b3-4af9-8b26-657ee2abcd9a.jpg 122,474,316,636,0 612,216,783,511,0
+Dataset/train/Pneumonia/bfd795ae-7656-40fc-b44e-566515e52ed2.jpg 182,157,447,699,0 557,137,871,663,0
+Dataset/train/Pneumonia/f6077569-6aa3-4132-856b-6bdcbdd70cd6.jpg 56,589,274,895,0
+Dataset/train/Pneumonia/b7f5ecee-6ab8-4dab-a4b7-fefee43cd079.jpg 96,551,382,770,0 656,576,838,836,0
+Dataset/train/Pneumonia/bda0d7f6-9d6d-43ba-8840-e467933dea68.jpg 254,64,521,584,0 683,130,905,683,0
+Dataset/train/Pneumonia/c358e0be-cac6-4918-8f61-1953178f0ec5.jpg 617,144,849,742,0 231,119,462,662,0
+Dataset/train/Pneumonia/c3412cc6-a0e9-4278-a8e4-b587d106988f.jpg 232,299,433,672,0 615,337,827,674,0
+Dataset/train/Pneumonia/c059ced8-e99a-4fff-a734-b01cae2491bb.jpg 295,419,399,515,0
+Dataset/train/Pneumonia/ebc9da35-fa1b-4cc4-b963-16731802af49.jpg 342,496,480,717,0
+Dataset/train/Pneumonia/d5523ffc-1c8a-4250-939a-3f5215397ff2.jpg 266,202,542,777,0 604,109,932,619,0
+Dataset/train/Pneumonia/ee373825-44f6-45ca-8ec9-d2d1d9541450.jpg 678,333,811,469,0
+Dataset/train/Pneumonia/f741a9b1-f5d5-4160-bf27-bf8dbc94cf50.jpg 104,445,317,759,0
+Dataset/train/Pneumonia/b9c687bf-4fa5-447c-b526-24ea3ce3d6e2.jpg 653,191,943,886,0 319,223,556,884,0
+Dataset/train/Pneumonia/e92d7e53-f191-41af-a86b-8da6c7734386.jpg 667,428,859,774,0 253,459,483,725,0
+Dataset/train/Pneumonia/e8a234b2-5e8d-4b53-8a44-17c46a3678eb.jpg 56,345,225,581,0
+Dataset/train/Pneumonia/b84cd9ad-7357-47f3-910e-626667c183e5.jpg 532,210,675,576,0 143,218,337,678,0
+Dataset/train/Pneumonia/ba036253-6844-428c-a27b-14e9b6021740.jpg 270,486,438,715,0 572,400,728,640,0
+Dataset/train/Pneumonia/c3a9ec26-c2c0-4c78-b52e-ed023bf16b3d.jpg 558,389,819,752,0 200,262,359,754,0
+Dataset/train/Pneumonia/ee2d5ba6-4090-4676-8e36-94dc3468b8ad.jpg 99,421,230,515,0
+Dataset/train/Pneumonia/eb061685-c06f-400c-ab24-a7f702684c02.jpg 174,685,325,841,0
+Dataset/train/Pneumonia/df59ce30-d6ce-4942-8ed1-7475a5267539.jpg 307,443,463,684,0
+Dataset/train/Pneumonia/d51472ae-a24e-4340-b468-54c883a12c41.jpg 602,591,991,792,0
+Dataset/train/Pneumonia/ebd4509c-0b8f-4be2-aa51-bebad08235be.jpg 330,400,427,502,0 324,589,437,684,0
+Dataset/train/Pneumonia/cd064f36-a22d-4614-a4c5-96c2d36bbe7c.jpg 510,420,729,853,0 114,231,326,791,0
+Dataset/train/Pneumonia/bb2eced7-c45e-4b7f-a25a-7eb36ad54874.jpg 188,476,443,641,0
+Dataset/train/Pneumonia/b6276787-bf66-4151-9f7a-b3d7fdf5ae30.jpg 636,260,898,465,0 95,303,353,481,0
+Dataset/train/Pneumonia/bba14241-9fd6-40ae-91f3-945af76178aa.jpg 506,166,720,556,0 163,158,339,529,0
+Dataset/train/Pneumonia/c4e96c53-34f7-4607-bab4-45e982079b2b.jpg 194,262,395,537,0 464,280,699,578,0
+Dataset/train/Pneumonia/e81046a7-87bc-43ef-858d-089ceb254bea.jpg 718,259,923,565,0
+Dataset/train/Pneumonia/ffa424d2-6e6b-4eed-93ab-7551e8941215.jpg 699,412,861,626,0 187,462,367,681,0
+Dataset/train/Pneumonia/baf525a5-daf5-465e-ba60-b779cce1e576.jpg 669,596,862,810,0
+Dataset/train/Pneumonia/c3b0adf1-3768-412f-a3b1-7a7f2a6dc928.jpg 277,601,434,707,0 671,595,880,716,0
+Dataset/train/Pneumonia/b8020472-9c2d-44ce-a09b-f5795b95f230.jpg 162,614,424,821,0 591,626,853,851,0
+Dataset/train/Pneumonia/cfb88e62-c5d6-415c-87d1-7be3238de1d5.jpg 532,502,803,884,0 194,507,413,902,0
+Dataset/train/Pneumonia/fc6f309f-f4b2-45af-bfee-c756cabdd3c1.jpg 126,474,327,811,0
+Dataset/train/Pneumonia/ed37211b-bc6e-41b2-b246-e47707a07687.jpg 239,447,397,641,0
+Dataset/train/Pneumonia/b7ac0a9c-3226-407d-9734-91a45d371732.jpg 619,408,834,737,0 199,272,451,449,0
+Dataset/train/Pneumonia/c145df8e-9631-468d-af7f-5690c11c2c88.jpg 601,265,774,648,0 173,370,351,630,0
+Dataset/train/Pneumonia/b3406349-2336-4782-8f9a-dd2e2f731d7b.jpg 577,485,843,667,0
+Dataset/train/Pneumonia/c040934b-746c-4dc5-946d-d1b2832cf778.jpg 560,563,811,723,0
+Dataset/train/Pneumonia/ea7e10de-91f0-44b7-88ed-6e42f2e83ae7.jpg 197,556,340,726,0
+Dataset/train/Pneumonia/f1d4a238-6cfc-4875-843a-3b5044c7cdf7.jpg 124,316,342,597,0
+Dataset/train/Pneumonia/b8d825e5-fcd7-491e-a45a-9b04f5433092.jpg 687,352,887,978,0 240,202,502,814,0
+Dataset/train/Pneumonia/bf3d9218-58b3-4a3b-b68f-54b16f3570d7.jpg 51,609,315,790,0 493,589,705,811,0
+Dataset/train/Pneumonia/cc0be168-3b95-4a71-9e74-e2cf577dfb4d.jpg 509,194,784,724,0 183,154,444,791,0
+Dataset/train/Pneumonia/b359c695-5814-4c1e-a7c0-200509182a4f.jpg 313,179,483,537,0 617,222,799,583,0
+Dataset/train/Pneumonia/d4d21c2c-ee3d-443a-91cd-7e6e3ebd59c6.jpg 495,188,850,754,0 141,193,462,761,0
+Dataset/train/Pneumonia/c3803501-05e4-4141-a61b-7af3187ade89.jpg 136,525,405,971,0 598,421,864,924,0
+Dataset/train/Pneumonia/b24c6410-39a2-467f-9994-c933af83d198.jpg 334,617,455,801,0 591,544,796,703,0
+Dataset/train/Pneumonia/b4a86f67-272e-4204-9dab-749ec2ec627f.jpg 193,232,418,725,0 531,277,766,634,0
+Dataset/train/Pneumonia/c575102e-4fc8-4152-84d4-0936b89217b3.jpg 64,241,381,721,0 479,156,729,696,0
+Dataset/train/Pneumonia/d20eab1c-69ed-486e-826c-7c0b15dd61b3.jpg 152,440,408,585,0
+Dataset/train/Pneumonia/fad80315-158c-4399-b3b2-bee20c35863d.jpg 204,447,433,633,0
+Dataset/train/Pneumonia/e94d8646-1703-44db-9062-c9b305e238f0.jpg 225,525,347,659,0
+Dataset/train/Pneumonia/f961ffa3-2df5-48ce-854a-1440df7f7a6e.jpg 605,167,859,576,0 174,202,379,530,0
+Dataset/train/Pneumonia/e6dc5d04-2f76-425f-99d7-cae3aa095122.jpg 280,458,410,590,0 628,331,724,473,0
+Dataset/train/Pneumonia/b8a633b3-b2fa-4e17-be54-faf0aba4c903.jpg 157,529,413,803,0
+Dataset/train/Pneumonia/c26d7023-7b0d-4b3a-9621-1eb5007eac7c.jpg 225,361,424,708,0 623,238,757,461,0
+Dataset/train/Pneumonia/e9390be0-f3e1-4cd9-a3b9-72a80884caf1.jpg 126,410,366,809,0 579,312,857,795,0
+Dataset/train/Pneumonia/bea7dfb0-2138-4434-977f-1ee4a6428941.jpg 598,324,745,620,0 229,467,434,735,0
+Dataset/train/Pneumonia/b6532f98-e875-4a51-a39f-b8e273e4bb10.jpg 610,436,846,664,0 278,493,468,738,0
+Dataset/train/Pneumonia/c38ac8c2-2de1-4e9c-8c38-1b09d89dec5e.jpg 541,303,747,765,0 125,274,371,776,0
+Dataset/train/Pneumonia/b7542c5a-1cad-4598-9c63-d1adc3e76741.jpg 606,288,909,915,0 114,198,444,863,0
+Dataset/train/Pneumonia/ed09e414-bcdd-4342-aab8-3b286a54facf.jpg 637,425,858,871,0 186,329,424,751,0
+Dataset/train/Pneumonia/c5d59db9-58ab-4164-9d77-4e9ac03ec273.jpg 164,555,401,936,0
+Dataset/train/Pneumonia/d5cbd64c-322b-4460-ad0e-c9a23e781f3e.jpg 714,290,819,566,0
+Dataset/train/Pneumonia/b864ec3f-158d-42f2-a8e3-2f093c9b2345.jpg 561,540,819,902,0 157,611,412,859,0
+Dataset/train/Pneumonia/e2cb1c89-244e-407f-9798-9a9670616850.jpg 150,477,347,680,0 584,464,793,659,0
+Dataset/train/Pneumonia/d9528d5b-b058-467c-accb-618c100f3696.jpg 232,469,425,798,0 630,434,821,767,0
+Dataset/train/Pneumonia/b4d29203-1e8a-46a9-9671-0aaf8e72143b.jpg 609,415,803,685,0 198,551,399,771,0
+Dataset/train/Pneumonia/b9356c81-3ed6-464f-b638-f71c07f1dd20.jpg 535,281,776,544,0
+Dataset/train/Pneumonia/d21e3291-a64b-405c-8a71-8fae7041b138.jpg 257,123,561,531,0
+Dataset/train/Pneumonia/e3884258-8083-4b8e-b952-9adc91a7f0f3.jpg 262,273,405,468,0 148,576,327,690,0 620,441,815,768,0
+Dataset/train/Pneumonia/be9e9eea-96d0-43a3-801e-b39bfd209ca7.jpg 300,420,454,572,0
+Dataset/train/Pneumonia/e7aed9f9-264a-40a3-84ab-1ed8b81547df.jpg 603,593,805,900,0
+Dataset/train/Pneumonia/c3b9c35d-19a1-4ce7-b852-e670dce72ddc.jpg 611,395,698,485,0 606,543,752,738,0
+Dataset/train/Pneumonia/b3332044-d191-4d1d-8cca-b11c30c79fa8.jpg 621,372,884,659,0 229,250,462,635,0
+Dataset/train/Pneumonia/b45197ea-5abe-4fb2-8cd9-40ab9771fac0.jpg 208,238,434,633,0
+Dataset/train/Pneumonia/e67b71d5-e6cb-40be-bf98-ee06d26a6a96.jpg 237,710,381,827,0
+Dataset/train/Pneumonia/cb79107c-f66e-4211-8bef-c4f4786a2112.jpg 676,253,1024,836,0 248,274,609,828,0
+Dataset/train/Pneumonia/f676d04c-a1cb-4714-a17b-e3bf1ec329d7.jpg 158,458,392,705,0
+Dataset/train/Pneumonia/b54df7bb-39f6-454d-bb1f-4eceb2d08d3c.jpg 678,245,859,708,0 360,184,527,597,0
+Dataset/train/Pneumonia/cfcfaa4a-9c58-4eec-bb63-708e2b25df16.jpg 268,417,559,669,0 549,212,841,720,0
+Dataset/train/Pneumonia/f7a42b73-f909-4e1f-89dd-c776f45cdc40.jpg 638,367,888,886,0 178,341,434,799,0
+Dataset/train/Pneumonia/c3a9863a-cbd5-44b9-975a-5978943490aa.jpg 132,229,348,577,0
+Dataset/train/Pneumonia/b565e2e7-cc3d-4fd3-8354-0ad7655f6200.jpg 117,522,328,834,0
+Dataset/train/Pneumonia/ce97b66d-f5d4-490e-8a6f-2b926011eae7.jpg 207,395,484,800,0
+Dataset/train/Pneumonia/b0052168-b95f-477b-9220-e26a6d33f1d0.jpg 279,622,457,847,0
+Dataset/train/Pneumonia/f919d3cb-dc68-46b6-8c29-2d3914fbaec0.jpg 291,264,537,751,0 723,255,949,838,0
+Dataset/train/Pneumonia/bca35324-a10c-435e-8af3-c14753706834.jpg 104,187,369,581,0
+Dataset/train/Pneumonia/f7793f41-fe23-4e09-8bef-6394b56bed37.jpg 630,188,851,694,0
+Dataset/train/Pneumonia/b8c6fd19-ac22-441f-8d13-d7433934baf2.jpg 518,416,647,724,0 243,405,394,680,0
+Dataset/train/Pneumonia/d21e78db-5c06-4927-b177-54c4b33144ca.jpg 603,259,798,597,0
+Dataset/train/Pneumonia/b59e042d-0ec6-455a-82c8-658ccb24e614.jpg 267,515,474,739,0
+Dataset/train/Pneumonia/e836c27c-e180-4c15-a929-bc98fab4df67.jpg 685,590,827,750,0 199,460,386,636,0
+Dataset/train/Pneumonia/fcf5cd90-1a5d-4e45-925e-ff82dcbdc0ad.jpg 289,307,423,441,0 250,515,432,681,0
+Dataset/train/Pneumonia/fd147f16-7eeb-474f-98df-c3b0c39c163c.jpg 619,405,796,669,0 178,332,403,679,0
+Dataset/train/Pneumonia/e00c1966-e9d7-4845-bd26-1865226786df.jpg 193,528,429,756,0
+Dataset/train/Pneumonia/bef738ff-ef1f-41ce-baa7-e40009c8deab.jpg 760,706,976,976,0 300,270,565,872,0
+Dataset/train/Pneumonia/fd72c1b0-9525-4bcc-b70e-15e1755c1b7a.jpg 175,425,317,846,0
+Dataset/train/Pneumonia/b05deb36-6273-45fb-861a-c7058330c950.jpg 230,140,458,654,0 580,149,823,685,0
+Dataset/train/Pneumonia/bbe15fbc-e79c-4206-a901-5b23888f8a8b.jpg 200,129,430,427,0 566,106,842,434,0
+Dataset/train/Pneumonia/d4304d61-7dec-4de2-83fa-7f6c9a09c5d4.jpg 154,208,471,709,0 558,208,854,765,0
+Dataset/train/Pneumonia/bd20a471-4892-4763-ae4a-936878eefede.jpg 310,310,492,600,0
+Dataset/train/Pneumonia/ebc7b6eb-6b18-4807-af64-55d4723479a8.jpg 695,406,870,653,0
+Dataset/train/Pneumonia/b776a863-b1da-4a7e-b688-b9a6ce6c3e75.jpg 181,439,411,717,0
+Dataset/train/Pneumonia/fbd80ae9-ddf4-414f-a6ab-77da639c33c1.jpg 581,384,779,746,0 114,402,313,710,0
+Dataset/train/Pneumonia/ec4cf99b-0d23-4aa5-abac-3f8ae0257eb9.jpg 637,508,792,664,0
+Dataset/train/Pneumonia/bd017f59-fd9d-4eb5-8805-58ffb96550df.jpg 199,546,398,766,0 633,565,886,767,0
+Dataset/train/Pneumonia/bc6dd946-0b3f-445f-8d78-3cc39a0b14ae.jpg 615,341,838,569,0
+Dataset/train/Pneumonia/e06a973d-844c-4799-923a-9ab7215fe5bc.jpg 286,388,432,709,0
+Dataset/train/Pneumonia/f61c2271-a0f0-4a88-a803-71bd7dba0be9.jpg 607,370,778,711,0 259,453,429,752,0
+Dataset/train/Pneumonia/f7446ce3-2bd4-48f1-a068-522b4f531c3f.jpg 327,209,548,584,0 687,237,887,602,0
+Dataset/train/Pneumonia/d03f855d-a0b8-45b9-afdb-8844186c11eb.jpg 181,230,446,680,0 542,237,804,711,0
+Dataset/train/Pneumonia/d316817a-0747-4dfb-be81-fbf857439d42.jpg 595,402,879,699,0 197,406,420,700,0
+Dataset/train/Pneumonia/dff644ef-d0ad-4ae9-8645-7dfa57e523fa.jpg 172,522,327,698,0
